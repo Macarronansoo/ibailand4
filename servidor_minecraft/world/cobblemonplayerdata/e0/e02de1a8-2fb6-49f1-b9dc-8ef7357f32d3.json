@@ -1195,6 +1195,30 @@
             "discoveredTimestamp": 1750499151563,
             "caughtTimestamp": 1750499151563
           }
+        },
+        "hoothoot": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750499297863,
+            "caughtTimestamp": 1750499297863
+          }
+        },
+        "drifloon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750499511067,
+            "caughtTimestamp": 1750499511067
+          }
+        },
+        "murkrow": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750499880764,
+            "caughtTimestamp": 1750499880764
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1215,12 +1239,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 86,
+    "totalCaptureCount": 89,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 55,
-    "totalBattleVictoryCount": 155,
+    "totalBattleVictoryCount": 158,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 155,
+    "totalPvWBattleVictoryCount": 158,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
@@ -1229,18 +1253,18 @@
       "bug": 10,
       "poison": 9,
       "water": 18,
-      "ghost": 3,
+      "ghost": 4,
       "fire": 1,
       "ice": 1,
       "fairy": 6,
-      "normal": 24,
-      "flying": 13,
+      "normal": 25,
+      "flying": 16,
       "ground": 6,
       "grass": 15,
       "fighting": 4,
       "psychic": 3,
       "electric": 3,
-      "dark": 3
+      "dark": 4
     },
     "totalDefeatedCounts": {
       "cobblemon:flabebe": 1,
@@ -1282,7 +1306,8 @@
       "cobblemon:carvanha": 1,
       "cobblemon:cacturne": 1,
       "cobblemon:maractus": 2,
-      "cobblemon:sandslash": 1
+      "cobblemon:sandslash": 1,
+      "cobblemon:zorua": 1
     },
     "aspectsCollected": {}
   }

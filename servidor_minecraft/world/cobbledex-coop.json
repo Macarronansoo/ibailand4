@@ -608,8 +608,9 @@
     "fidough": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1750408490494
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750408490494,
+        "caughtTimestamp": 1750499292018
       }
     },
     "skitty": {
@@ -1654,6 +1655,30 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750499151564,
         "caughtTimestamp": 1750499151564
+      }
+    },
+    "hoothoot": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750499297864,
+        "caughtTimestamp": 1750499297864
+      }
+    },
+    "happiny": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750499372315,
+        "caughtTimestamp": 1750499372315
+      }
+    },
+    "drifloon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750499511068,
+        "caughtTimestamp": 1750499511068
       }
     }
   }

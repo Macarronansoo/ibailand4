@@ -2278,3 +2278,30 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 09:40:41.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.43364143371582) to VERY_LOW (avg. 19.476055145263672)
 [21Jun2025 09:41:04.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.890687942504883) to LOW (avg. 25.11164093017578)
 [21Jun2025 09:47:49.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/168832, l='ServerLevel[world]', x=-2027.70, y=52.00, z=175.50] died: Angry Creeper suffocated in a wall
+[21Jun2025 09:48:17.066] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6a0b1144-2405-44f6-878c-7a37fccfb546
+[21Jun2025 09:48:17.066] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 6a0b1144-2405-44f6-878c-7a37fccfb546
+[21Jun2025 09:49:09.864] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/158638, l='ServerLevel[world]', x=-1402.50, y=62.23, z=-364.51] died, message: 'Villager was slain by Spider'
+[21Jun2025 09:49:39.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
+[21Jun2025 09:49:39.264] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 09:51:19.412] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 1e09d7e8-9f4c-43f6-ac60-59b231f235f3
+[21Jun2025 09:51:19.413] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 1e09d7e8-9f4c-43f6-ac60-59b231f235f3
+[21Jun2025 09:51:19.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was pummeled by Spider
+[21Jun2025 09:51:19.436] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 09:54:12.732] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: eff5886b-5530-4e41-8b3b-f96b4cb4e5a4
+[21Jun2025 09:54:12.732] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: eff5886b-5530-4e41-8b3b-f96b4cb4e5a4
+[21Jun2025 09:54:56.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.541763305664062) to VERY_LOW (avg. 18.357572555541992)
+[21Jun2025 09:54:58.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
+[21Jun2025 09:54:58.992] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 09:55:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.79595947265625) to LOW (avg. 21.50632667541504)
+[21Jun2025 09:55:34.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.50632667541504) to VERY_LOW (avg. 18.963441848754883)
+[21Jun2025 09:55:49.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.963441848754883) to LOW (avg. 21.214500427246094)
+[21Jun2025 09:56:06.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was shot by Skeleton
+[21Jun2025 09:56:06.349] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 09:56:15.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was doomed to fall by Zombie
+[21Jun2025 09:56:15.620] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 09:56:19.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.746952056884766) to VERY_LOW (avg. 16.345542907714844)
+[21Jun2025 09:56:49.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.92506217956543) to LOW (avg. 21.92841911315918)
+[21Jun2025 09:57:04.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.92841911315918) to VERY_LOW (avg. 18.367277145385742)
+[21Jun2025 09:57:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.30025291442871) to LOW (avg. 20.189922332763672)
+[21Jun2025 09:57:41.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.189922332763672) to VERY_LOW (avg. 19.197418212890625)
+[21Jun2025 09:57:49.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.197418212890625) to LOW (avg. 20.540042877197266)
