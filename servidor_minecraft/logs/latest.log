@@ -1931,3 +1931,7 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: @At(
 [21Jun2025 08:25:23.163] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: e431890a-5201-4aa2-8fa4-b9becdae9eea
 [21Jun2025 08:25:23.164] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: e431890a-5201-4aa2-8fa4-b9becdae9eea
 [21Jun2025 08:25:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.099903106689453) to VERY_LOW (avg. 11.748167037963867)
+[21Jun2025 08:35:56.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.755624771118164) to LOW (avg. 31.80147933959961)
+[21Jun2025 08:36:11.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.80147933959961) to VERY_LOW (avg. 14.71585464477539)
+[21Jun2025 08:54:28.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was blown up by Creeper
+[21Jun2025 08:54:28.149] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved

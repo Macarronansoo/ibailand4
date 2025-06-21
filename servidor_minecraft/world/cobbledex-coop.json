@@ -184,8 +184,9 @@
     "pelipper": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749993748937
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749993748937,
+        "caughtTimestamp": 1750494969906
       }
     },
     "taillow": {
@@ -1262,6 +1263,78 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750494555741,
         "caughtTimestamp": 1750494555741
+      }
+    },
+    "watchog": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750495080126,
+        "caughtTimestamp": 1750495080126
+      }
+    },
+    "lurantis": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750495179881,
+        "caughtTimestamp": 1750495179881
+      }
+    },
+    "dugtrio": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750495349831,
+        "caughtTimestamp": 1750495349831
+      }
+    },
+    "boldore": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750495474051,
+        "caughtTimestamp": 1750495474051
+      }
+    },
+    "lickilicky": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750495500326,
+        "caughtTimestamp": 1750495500326
+      }
+    },
+    "golbat": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750495512014,
+        "caughtTimestamp": 1750495512014
+      }
+    },
+    "buneary": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750495839456,
+        "caughtTimestamp": 1750495839456
+      }
+    },
+    "kirlia": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750495951259,
+        "caughtTimestamp": 1750495951259
+      }
+    },
+    "gallade": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750495959539,
+        "caughtTimestamp": 1750495959539
       }
     }
   }
