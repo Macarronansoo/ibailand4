@@ -2328,3 +2328,21 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 10:15:27.329] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
 [21Jun2025 10:17:45.103] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a96e30cf-6e59-4862-8c20-029f75b20977
 [21Jun2025 10:17:45.103] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a96e30cf-6e59-4862-8c20-029f75b20977
+[21Jun2025 10:20:00.147] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Avión'/208923, l='ServerLevel[world]', x=-1890.01, y=69.10, z=223.01] died: Avión was slain by Krabby
+[21Jun2025 10:20:16.607] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 52dc61ea-f6f8-46b5-ac54-340b163f1409
+[21Jun2025 10:20:16.607] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 52dc61ea-f6f8-46b5-ac54-340b163f1409
+[21Jun2025 10:21:39.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Tauros
+[21Jun2025 10:21:39.521] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 10:22:41.803] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: e696d4bc-fd48-4f4b-ab0a-b32a15bbe231
+[21Jun2025 10:22:41.804] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: e696d4bc-fd48-4f4b-ab0a-b32a15bbe231
+[21Jun2025 10:25:34.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.667524337768555) to LOW (avg. 22.32215118408203)
+[21Jun2025 10:25:49.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.32215118408203) to VERY_LOW (avg. 19.984376907348633)
+[21Jun2025 10:26:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.748260498046875) to LOW (avg. 20.88912582397461)
+[21Jun2025 10:26:31.058] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 535ff099-e56b-488c-933f-28d656c8f7fc
+[21Jun2025 10:26:31.058] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 535ff099-e56b-488c-933f-28d656c8f7fc
+[21Jun2025 10:26:34.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.88912582397461) to VERY_LOW (avg. 18.09377098083496)
+[21Jun2025 10:26:49.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.09377098083496) to LOW (avg. 20.40361976623535)
+[21Jun2025 10:26:56.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.40361976623535) to VERY_LOW (avg. 18.58243179321289)
+[21Jun2025 10:28:19.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.260597229003906) to LOW (avg. 20.259994506835938)
+[21Jun2025 10:28:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.259994506835938) to VERY_LOW (avg. 19.947641372680664)
+[21Jun2025 10:28:34.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.947641372680664) to LOW (avg. 21.55586051940918)

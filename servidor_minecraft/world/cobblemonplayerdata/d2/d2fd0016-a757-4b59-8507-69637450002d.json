@@ -1112,6 +1112,14 @@
             "discoveredTimestamp": 1750501093605,
             "caughtTimestamp": 1750501093605
           }
+        },
+        "honchkrow": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750501216706,
+            "caughtTimestamp": 1750501216706
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1133,7 +1141,7 @@
   "advancementData": {
     "totalCaptureCount": 85,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 38,
+    "totalEvolvedCount": 39,
     "totalBattleVictoryCount": 164,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 164,

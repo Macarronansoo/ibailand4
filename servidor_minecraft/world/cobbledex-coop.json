@@ -1776,6 +1776,14 @@
         "discoveredTimestamp": 1750501093606,
         "caughtTimestamp": 1750501093606
       }
+    },
+    "honchkrow": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750501216706,
+        "caughtTimestamp": 1750501216706
+      }
     }
   }
 }
