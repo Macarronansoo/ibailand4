@@ -419,8 +419,9 @@
     "wigglytuff": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1750070854428
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750070854428,
+        "caughtTimestamp": 1750508024616
       }
     },
     "ferroseed": {

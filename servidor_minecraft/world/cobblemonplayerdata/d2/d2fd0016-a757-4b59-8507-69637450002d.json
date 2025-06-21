@@ -263,8 +263,9 @@
         "wigglytuff": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1750070854428
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750070854428,
+            "caughtTimestamp": 1750508024615
           }
         },
         "cutiefly": {
@@ -1144,6 +1145,30 @@
             "discoveredTimestamp": 1750504179611,
             "caughtTimestamp": 1750504179611
           }
+        },
+        "zubat": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750507262611,
+            "caughtTimestamp": 1750507262611
+          }
+        },
+        "shiftry": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750508173382,
+            "caughtTimestamp": 1750508173382
+          }
+        },
+        "crabominable": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750508179486,
+            "caughtTimestamp": 1750508179486
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1163,12 +1188,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 88,
+    "totalCaptureCount": 90,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 39,
-    "totalBattleVictoryCount": 167,
+    "totalEvolvedCount": 41,
+    "totalBattleVictoryCount": 169,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 167,
+    "totalPvWBattleVictoryCount": 169,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 3,
     "totalTradedCount": 10,
@@ -1176,8 +1201,8 @@
       "grass": 13,
       "psychic": 3,
       "water": 6,
-      "normal": 23,
-      "flying": 20,
+      "normal": 24,
+      "flying": 21,
       "ground": 4,
       "fire": 7,
       "steel": 6,
@@ -1186,9 +1211,9 @@
       "fighting": 6,
       "bug": 13,
       "electric": 4,
-      "fairy": 6,
+      "fairy": 7,
       "rock": 6,
-      "poison": 6,
+      "poison": 7,
       "dragon": 2,
       "ghost": 2
     },
