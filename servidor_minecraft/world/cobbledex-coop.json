@@ -1961,6 +1961,14 @@
         "discoveredTimestamp": 1750517356307,
         "caughtTimestamp": 1750517356307
       }
+    },
+    "armarouge": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750518038553,
+        "caughtTimestamp": 1750518038553
+      }
     }
   }
 }

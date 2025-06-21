@@ -3020,3 +3020,21 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 14:51:14.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Agente no longer a server operator
 [21Jun2025 14:51:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.67054557800293) to LOW (avg. 20.852214813232422)
 [21Jun2025 14:51:40.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.852214813232422) to VERY_LOW (avg. 15.887290954589844)
+[21Jun2025 14:52:40.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.49261474609375) to LOW (avg. 21.272611618041992)
+[21Jun2025 14:52:55.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.272611618041992) to VERY_LOW (avg. 19.11447525024414)
+[21Jun2025 14:54:08.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Straddle My Ol' Saddle]
+[21Jun2025 14:54:10.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.65679931640625) to LOW (avg. 20.434940338134766)
+[21Jun2025 14:54:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.434940338134766) to VERY_LOW (avg. 19.7673282623291)
+[21Jun2025 14:54:55.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.881513595581055) to LOW (avg. 20.733556747436523)
+[21Jun2025 14:54:58.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Hidden in the Depths]
+[21Jun2025 14:55:39.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote tried to swim in lava to escape Piglin
+[21Jun2025 14:55:39.430] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 14:55:40.637] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 14:55:55.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.293071746826172) to VERY_LOW (avg. 13.898653030395508)
+[21Jun2025 14:56:40.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.545581817626953) to LOW (avg. 23.282739639282227)
+[21Jun2025 14:58:32.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.62042999267578) to VERY_LOW (avg. 19.706336975097656)
+[21Jun2025 14:58:40.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.706336975097656) to LOW (avg. 22.58848762512207)
+[21Jun2025 14:59:17.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.641874313354492) to VERY_LOW (avg. 16.36504364013672)
+[21Jun2025 14:59:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.36504364013672) to LOW (avg. 23.932571411132812)
+[21Jun2025 14:59:32.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.932571411132812) to VERY_LOW (avg. 17.035615921020508)
+[21Jun2025 14:59:52.040] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
