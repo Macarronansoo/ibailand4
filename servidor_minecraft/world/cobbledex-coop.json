@@ -1344,6 +1344,94 @@
         "discoveredTimestamp": 1750496269305,
         "caughtTimestamp": 1750496269305
       }
+    },
+    "goldeen": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750496956866,
+        "caughtTimestamp": 1750496956866
+      }
+    },
+    "ducklett": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750496991914,
+        "caughtTimestamp": 1750496991914
+      }
+    },
+    "shroomish": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497032765,
+        "caughtTimestamp": 1750497032765
+      }
+    },
+    "psyduck": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497043868,
+        "caughtTimestamp": 1750497043868
+      }
+    },
+    "pachirisu": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497078767,
+        "caughtTimestamp": 1750497078767
+      }
+    },
+    "torkoal": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497101616,
+        "caughtTimestamp": 1750497101616
+      }
+    },
+    "druddigon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497185566,
+        "caughtTimestamp": 1750497185566
+      }
+    },
+    "lycanroc": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497254971,
+        "caughtTimestamp": 1750497254971
+      }
+    },
+    "shellder": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497311521,
+        "caughtTimestamp": 1750497311521
+      }
+    },
+    "ursaring": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497323313,
+        "caughtTimestamp": 1750497323313
+      }
+    },
+    "makuhita": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497355460,
+        "caughtTimestamp": 1750497355460
+      }
     }
   }
 }

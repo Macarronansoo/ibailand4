@@ -2224,3 +2224,22 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 09:06:32.186] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
 [21Jun2025 09:06:32.187] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
 [21Jun2025 09:06:32.213] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[21Jun2025 09:07:19.576] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.93537712097168) to NORMAL (avg. 44.370643615722656)
+[21Jun2025 09:07:34.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.370643615722656) to LOW (avg. 26.253170013427734)
+[21Jun2025 09:07:42.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was impaled by Drowned
+[21Jun2025 09:07:42.676] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 09:07:57.093] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 25.903230667114258) to HIGH (avg. 50.8362922668457)
+[21Jun2025 09:08:04.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from HIGH (avg. 50.8362922668457) to LOW (avg. 26.94524574279785)
+[21Jun2025 09:08:20.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Drowned
+[21Jun2025 09:08:20.390] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 09:12:03.112] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 31388738-2921-4d49-a95d-0ecb59905b77
+[21Jun2025 09:12:03.113] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 31388738-2921-4d49-a95d-0ecb59905b77
+[21Jun2025 09:12:12.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Basculin
+[21Jun2025 09:12:12.787] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 09:13:47.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was impaled by Drowned
+[21Jun2025 09:13:47.827] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 09:14:19.933] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/93984, l='ServerLevel[world]', x=-243.27, y=9.43, z=-403.73, removed=DISCARDED]
+[21Jun2025 09:14:22.667] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/93984, l='ServerLevel[world]', x=-243.27, y=9.43, z=-403.73, removed=DISCARDED]
+[21Jun2025 09:16:11.415] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b8b8cdb2-f294-49a5-8cfc-6a87ec6f030d
+[21Jun2025 09:16:11.415] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b8b8cdb2-f294-49a5-8cfc-6a87ec6f030d
+[21Jun2025 09:17:13.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [A Big Commit-mint]

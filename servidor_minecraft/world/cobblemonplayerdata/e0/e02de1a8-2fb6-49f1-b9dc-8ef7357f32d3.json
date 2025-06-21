@@ -1004,6 +1004,46 @@
             "discoveredTimestamp": 1750496269304,
             "caughtTimestamp": 1750496269304
           }
+        },
+        "goldeen": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750496956865,
+            "caughtTimestamp": 1750496956865
+          }
+        },
+        "ducklett": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750496991913,
+            "caughtTimestamp": 1750496991913
+          }
+        },
+        "psyduck": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750497043867,
+            "caughtTimestamp": 1750497043867
+          }
+        },
+        "pawmi": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750497198376,
+            "caughtTimestamp": 1750497198376
+          }
+        },
+        "shellder": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750497311520,
+            "caughtTimestamp": 1750497311520
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1023,12 +1063,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 64,
+    "totalCaptureCount": 69,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 54,
-    "totalBattleVictoryCount": 120,
+    "totalBattleVictoryCount": 127,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 120,
+    "totalPvWBattleVictoryCount": 127,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
@@ -1036,18 +1076,18 @@
       "rock": 4,
       "bug": 9,
       "poison": 7,
-      "water": 11,
+      "water": 15,
       "ghost": 2,
       "fire": 1,
       "ice": 1,
       "fairy": 5,
       "normal": 20,
-      "flying": 9,
+      "flying": 10,
       "ground": 3,
       "grass": 11,
       "fighting": 4,
       "psychic": 3,
-      "electric": 1,
+      "electric": 2,
       "dark": 1
     },
     "totalDefeatedCounts": {
@@ -1065,7 +1105,7 @@
       "cobblemon:tauros": 8,
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 4,
-      "cobblemon:butterfree": 4,
+      "cobblemon:butterfree": 5,
       "cobblemon:crabrawler": 3,
       "cobblemon:yanma": 1,
       "cobblemon:araquanid": 2,
@@ -1084,7 +1124,8 @@
       "cobblemon:pineco": 1,
       "cobblemon:ninjask": 1,
       "cobblemon:vivillon": 1,
-      "cobblemon:murkrow": 1
+      "cobblemon:murkrow": 1,
+      "cobblemon:basculin": 1
     },
     "aspectsCollected": {}
   }
