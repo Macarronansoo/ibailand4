@@ -2784,3 +2784,36 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 13:10:46.304] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to EASY with a 0.9 factor.
 [21Jun2025 13:10:46.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: The difficulty has been set to Easy]
 [21Jun2025 13:11:13.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Agente no longer a server operator
+[21Jun2025 13:22:22.205] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4314ms or 86 ticks behind
+[21Jun2025 13:22:23.791] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.342187881469727) to LOW (avg. 31.165836334228516)
+[21Jun2025 13:22:25.041] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from NORMAL (avg. 37.81229472) to VERY_LOW (avg. 9.65331132)
+[21Jun2025 13:22:32.541] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 14.099205710000001) to LOW (avg. 25.361825879999998)
+[21Jun2025 13:22:49.266] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f0b1d0c6-9c56-47a5-8894-9a6739082715
+[21Jun2025 13:22:49.266] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f0b1d0c6-9c56-47a5-8894-9a6739082715
+[21Jun2025 13:23:16.291] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.09322738647461) to VERY_LOW (avg. 17.82725715637207)
+[21Jun2025 13:23:19.151] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Gboom the Bloated'/493075, l='ServerLevel[world]', x=-401.50, y=32.00, z=28.50] died: Gboom the Bloated suffocated in a wall
+[21Jun2025 13:23:31.300] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.82725715637207) to LOW (avg. 34.52390670776367)
+[21Jun2025 13:23:40.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Those Were the Days]
+[21Jun2025 13:24:07.509] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Pepito'/493629, l='ServerLevel[world]', x=-429.47, y=33.00, z=26.12] died: Pepito was slain by Piglin
+[21Jun2025 13:24:58.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [War Pigs]
+[21Jun2025 13:25:50.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Piglin Brute
+[21Jun2025 13:25:50.922] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 13:25:52.315] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 13:25:53.791] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.003463745117188) to VERY_LOW (avg. 11.203062057495117)
+[21Jun2025 13:25:59.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2425ms or 48 ticks behind
+[21Jun2025 13:26:03.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.203062057495117) to LOW (avg. 22.683956146240234)
+[21Jun2025 13:26:11.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.683956146240234) to VERY_LOW (avg. 18.926021575927734)
+[21Jun2025 13:26:33.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.960004806518555) to LOW (avg. 21.053314208984375)
+[21Jun2025 13:26:48.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.053314208984375) to VERY_LOW (avg. 19.70803451538086)
+[21Jun2025 13:26:56.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.70803451538086) to LOW (avg. 21.51776123046875)
+[21Jun2025 13:27:12.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 13:27:18.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.426620483398438) to VERY_LOW (avg. 19.370296478271484)
+[21Jun2025 13:27:41.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.435840606689453) to LOW (avg. 20.95084571838379)
+[21Jun2025 13:27:56.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.95084571838379) to VERY_LOW (avg. 18.823955535888672)
+[21Jun2025 13:28:03.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.823955535888672) to LOW (avg. 23.586727142333984)
+[21Jun2025 13:28:06.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Nightmare Fuel]
+[21Jun2025 13:28:26.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.17909812927246) to VERY_LOW (avg. 18.492815017700195)
+[21Jun2025 13:30:41.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.727741241455078) to LOW (avg. 22.4290771484375)
+[21Jun2025 13:31:15.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Hellish Paradise]
+[21Jun2025 13:31:15.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Strange Biomes]
+[21Jun2025 13:31:18.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.173091888427734) to VERY_LOW (avg. 18.04225730895996)

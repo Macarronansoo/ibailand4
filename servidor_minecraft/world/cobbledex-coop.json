@@ -1921,6 +1921,22 @@
         "discoveredTimestamp": 1750506690814,
         "caughtTimestamp": 1750506690814
       }
+    },
+    "slugma": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750512169518,
+        "caughtTimestamp": 1750512169518
+      }
+    },
+    "charcadet": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750512531865,
+        "caughtTimestamp": 1750512531865
+      }
     }
   }
 }

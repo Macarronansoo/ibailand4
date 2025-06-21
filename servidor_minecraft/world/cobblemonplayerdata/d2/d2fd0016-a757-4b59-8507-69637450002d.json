@@ -1169,6 +1169,22 @@
             "discoveredTimestamp": 1750508179486,
             "caughtTimestamp": 1750508179486
           }
+        },
+        "slugma": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750512169515,
+            "caughtTimestamp": 1750512169515
+          }
+        },
+        "charcadet": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750512531865,
+            "caughtTimestamp": 1750512531865
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1182,18 +1198,19 @@
         "75",
         "90",
         "105",
-        "120"
+        "120",
+        "135"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 90,
+    "totalCaptureCount": 92,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 41,
-    "totalBattleVictoryCount": 169,
+    "totalBattleVictoryCount": 170,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 169,
+    "totalPvWBattleVictoryCount": 170,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 3,
     "totalTradedCount": 10,
@@ -1204,7 +1221,7 @@
       "normal": 24,
       "flying": 21,
       "ground": 4,
-      "fire": 7,
+      "fire": 9,
       "steel": 6,
       "dark": 5,
       "ice": 1,
