@@ -1880,6 +1880,22 @@
         "discoveredTimestamp": 1750505234919,
         "caughtTimestamp": 1750505234919
       }
+    },
+    "forretress": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750505483832,
+        "caughtTimestamp": 1750505483832
+      }
+    },
+    "venipede": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750505632094,
+        "caughtTimestamp": 1750505632094
+      }
     }
   }
 }

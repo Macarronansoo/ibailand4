@@ -595,6 +595,12 @@
             "status": "CAUGHT",
             "discoveredTimestamp": 1750413951496,
             "caughtTimestamp": 1750413951496
+          },
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750505534081,
+            "caughtTimestamp": 1750505534081
           }
         },
         "metapod": {
@@ -1379,6 +1385,22 @@
             "discoveredTimestamp": 1750505234918,
             "caughtTimestamp": 1750505234918
           }
+        },
+        "forretress": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750505483831,
+            "caughtTimestamp": 1750505483831
+          }
+        },
+        "venipede": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750505632093,
+            "caughtTimestamp": 1750505632093
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1401,19 +1423,19 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 101,
+    "totalCaptureCount": 102,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 64,
-    "totalBattleVictoryCount": 221,
+    "totalEvolvedCount": 66,
+    "totalBattleVictoryCount": 225,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 221,
+    "totalPvWBattleVictoryCount": 225,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 10,
     "totalTypeCaptureCounts": {
       "rock": 5,
-      "bug": 12,
-      "poison": 10,
+      "bug": 13,
+      "poison": 11,
       "water": 23,
       "ghost": 4,
       "fire": 1,
@@ -1443,7 +1465,7 @@
       "cobblemon:tauros": 11,
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 5,
-      "cobblemon:butterfree": 12,
+      "cobblemon:butterfree": 13,
       "cobblemon:crabrawler": 9,
       "cobblemon:yanma": 1,
       "cobblemon:araquanid": 5,
@@ -1476,7 +1498,7 @@
       "cobblemon:pidgeot": 1,
       "cobblemon:jumpluff": 1,
       "cobblemon:beedrill": 1,
-      "cobblemon:golisopod": 1,
+      "cobblemon:golisopod": 2,
       "cobblemon:drilbur": 2,
       "cobblemon:lechonk": 1,
       "cobblemon:dewpider": 1,
@@ -1485,7 +1507,8 @@
       "cobblemon:ledyba": 2,
       "cobblemon:cottonee": 2,
       "cobblemon:gossifleur": 1,
-      "cobblemon:exeggcute": 1
+      "cobblemon:exeggcute": 1,
+      "cobblemon:linoone": 1
     },
     "aspectsCollected": {}
   }
