@@ -2253,3 +2253,21 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 09:26:26.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.78792953491211) to LOW (avg. 22.31499481201172)
 [21Jun2025 09:26:41.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.31499481201172) to VERY_LOW (avg. 19.675472259521484)
 [21Jun2025 09:26:49.521] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.675472259521484) to LOW (avg. 22.787519454956055)
+[21Jun2025 09:27:49.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.154678344726562) to VERY_LOW (avg. 19.23533058166504)
+[21Jun2025 09:27:56.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.23533058166504) to LOW (avg. 21.35586929321289)
+[21Jun2025 09:29:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.69512176513672) to VERY_LOW (avg. 18.610103607177734)
+[21Jun2025 09:29:41.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.610103607177734) to LOW (avg. 20.521244049072266)
+[21Jun2025 09:29:49.507] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.521244049072266) to VERY_LOW (avg. 19.042722702026367)
+[21Jun2025 09:29:56.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.042722702026367) to LOW (avg. 20.856388092041016)
+[21Jun2025 09:30:56.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.655044555664062) to VERY_LOW (avg. 18.37606430053711)
+[21Jun2025 09:31:19.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.100078582763672) to LOW (avg. 20.163728713989258)
+[21Jun2025 09:31:49.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.51474380493164) to VERY_LOW (avg. 18.31950569152832)
+[21Jun2025 09:32:03.764] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 36c67c30-9728-4205-a5aa-c685e66b5c00
+[21Jun2025 09:32:03.765] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 36c67c30-9728-4205-a5aa-c685e66b5c00
+[21Jun2025 09:32:03.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was burnt to a crisp whilst fighting Heatmor
+[21Jun2025 09:32:03.781] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 09:32:26.996] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.726682662963867) to LOW (avg. 24.46122932434082)
+[21Jun2025 09:32:34.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.46122932434082) to VERY_LOW (avg. 17.794795989990234)
+[21Jun2025 09:32:49.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.794795989990234) to LOW (avg. 21.42180061340332)
+[21Jun2025 09:33:04.539] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.42180061340332) to VERY_LOW (avg. 19.040424346923828)
+[21Jun2025 09:33:19.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.040424346923828) to LOW (avg. 20.888782501220703)

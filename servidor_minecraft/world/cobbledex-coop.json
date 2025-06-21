@@ -1560,6 +1560,53 @@
         "discoveredTimestamp": 1750498046521,
         "caughtTimestamp": 1750498046521
       }
+    },
+    "murkrow": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750498057819,
+        "caughtTimestamp": 1750498057819
+      }
+    },
+    "sandshrew": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750498058161,
+        "caughtTimestamp": 1750498088910
+      }
+    },
+    "ariados": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750498079161,
+        "caughtTimestamp": 1750498079161
+      }
+    },
+    "chimchar": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750498293111,
+        "caughtTimestamp": 1750498293111
+      }
+    },
+    "grimer": {
+      "alola": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750498295509,
+        "caughtTimestamp": 1750498295509
+      }
+    },
+    "slowbro": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750498361387
+      }
     }
   }
 }
