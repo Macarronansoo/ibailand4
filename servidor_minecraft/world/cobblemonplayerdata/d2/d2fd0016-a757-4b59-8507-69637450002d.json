@@ -1024,6 +1024,94 @@
             "discoveredTimestamp": 1750500307456,
             "caughtTimestamp": 1750500307456
           }
+        },
+        "slowpoke": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500698166,
+            "caughtTimestamp": 1750500698166
+          }
+        },
+        "slowking": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500703030,
+            "caughtTimestamp": 1750500703030
+          }
+        },
+        "monferno": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500736620,
+            "caughtTimestamp": 1750500736620
+          }
+        },
+        "lairon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500770656,
+            "caughtTimestamp": 1750500770656
+          }
+        },
+        "tinkatuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500789226,
+            "caughtTimestamp": 1750500789226
+          }
+        },
+        "breloom": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500825168,
+            "caughtTimestamp": 1750500825168
+          }
+        },
+        "xatu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500854873,
+            "caughtTimestamp": 1750500854873
+          }
+        },
+        "arcanine": {
+          "hisui": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500928105,
+            "caughtTimestamp": 1750500928105
+          }
+        },
+        "beedrill": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500958253,
+            "caughtTimestamp": 1750500958253
+          }
+        },
+        "pidgeotto": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500996710,
+            "caughtTimestamp": 1750500996710
+          }
+        },
+        "gurdurr": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750501093605,
+            "caughtTimestamp": 1750501093605
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1036,7 +1124,8 @@
         "60",
         "75",
         "90",
-        "105"
+        "105",
+        "120"
       ],
       "name": "Cobbledex_RewardHistory"
     }
@@ -1044,13 +1133,13 @@
   "advancementData": {
     "totalCaptureCount": 85,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 28,
+    "totalEvolvedCount": 38,
     "totalBattleVictoryCount": 164,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 164,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 3,
-    "totalTradedCount": 6,
+    "totalTradedCount": 10,
     "totalTypeCaptureCounts": {
       "grass": 13,
       "psychic": 3,

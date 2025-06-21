@@ -1235,6 +1235,38 @@
             "discoveredTimestamp": 1750500157361,
             "caughtTimestamp": 1750500157361
           }
+        },
+        "sawsbuck": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500624254,
+            "caughtTimestamp": 1750500624254
+          }
+        },
+        "slowking": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500713489,
+            "caughtTimestamp": 1750500713489
+          }
+        },
+        "golem": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500725611,
+            "caughtTimestamp": 1750500725611
+          }
+        },
+        "machamp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500728121,
+            "caughtTimestamp": 1750500728121
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1249,26 +1281,27 @@
         "90",
         "105",
         "120",
-        "135"
+        "135",
+        "150"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 91,
+    "totalCaptureCount": 92,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 55,
-    "totalBattleVictoryCount": 163,
+    "totalEvolvedCount": 58,
+    "totalBattleVictoryCount": 170,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 163,
+    "totalPvWBattleVictoryCount": 170,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
-    "totalTradedCount": 6,
+    "totalTradedCount": 10,
     "totalTypeCaptureCounts": {
       "rock": 4,
       "bug": 10,
       "poison": 9,
-      "water": 19,
+      "water": 20,
       "ghost": 4,
       "fire": 1,
       "ice": 1,
@@ -1278,14 +1311,14 @@
       "ground": 6,
       "grass": 15,
       "fighting": 4,
-      "psychic": 3,
+      "psychic": 4,
       "electric": 4,
       "dark": 4
     },
     "totalDefeatedCounts": {
       "cobblemon:flabebe": 1,
       "cobblemon:mudbray": 1,
-      "cobblemon:bouffalant": 4,
+      "cobblemon:bouffalant": 5,
       "cobblemon:bunnelby": 4,
       "cobblemon:diggersby": 5,
       "cobblemon:combee": 1,
@@ -1298,7 +1331,7 @@
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 4,
       "cobblemon:butterfree": 7,
-      "cobblemon:crabrawler": 3,
+      "cobblemon:crabrawler": 5,
       "cobblemon:yanma": 1,
       "cobblemon:araquanid": 3,
       "cobblemon:wingull": 1,
@@ -1323,7 +1356,11 @@
       "cobblemon:cacturne": 1,
       "cobblemon:maractus": 2,
       "cobblemon:sandslash": 1,
-      "cobblemon:zorua": 1
+      "cobblemon:zorua": 1,
+      "cobblemon:mudsdale": 1,
+      "cobblemon:comfey": 1,
+      "cobblemon:swanna": 1,
+      "cobblemon:pidgeot": 1
     },
     "aspectsCollected": {}
   }

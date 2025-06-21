@@ -2321,3 +2321,10 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 10:02:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.22871971130371) to VERY_LOW (avg. 16.328630447387695)
 [21Jun2025 10:05:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
 [21Jun2025 10:05:14.625] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 10:14:00.010] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 331064b3-e867-4e97-8ae8-ccbe5ca17f7d
+[21Jun2025 10:14:00.010] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 331064b3-e867-4e97-8ae8-ccbe5ca17f7d
+[21Jun2025 10:14:41.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [There's a Leek in the Boat!]
+[21Jun2025 10:15:27.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Cutiefly
+[21Jun2025 10:15:27.329] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 10:17:45.103] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a96e30cf-6e59-4862-8c20-029f75b20977
+[21Jun2025 10:17:45.103] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a96e30cf-6e59-4862-8c20-029f75b20977

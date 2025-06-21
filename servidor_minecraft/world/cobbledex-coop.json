@@ -1704,6 +1704,78 @@
         "discoveredTimestamp": 1750500307457,
         "caughtTimestamp": 1750500307457
       }
+    },
+    "sawsbuck": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750500624255,
+        "caughtTimestamp": 1750500624255
+      }
+    },
+    "slowking": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750500703031,
+        "caughtTimestamp": 1750500703031
+      }
+    },
+    "monferno": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750500736621,
+        "caughtTimestamp": 1750500736621
+      }
+    },
+    "lairon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750500770656,
+        "caughtTimestamp": 1750500770656
+      }
+    },
+    "tinkatuff": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750500789228,
+        "caughtTimestamp": 1750500789228
+      }
+    },
+    "breloom": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750500825169,
+        "caughtTimestamp": 1750500825169
+      }
+    },
+    "xatu": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750500854874,
+        "caughtTimestamp": 1750500854874
+      }
+    },
+    "arcanine": {
+      "hisui": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750500928106,
+        "caughtTimestamp": 1750500928106
+      }
+    },
+    "gurdurr": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750501093606,
+        "caughtTimestamp": 1750501093606
+      }
     }
   }
 }
