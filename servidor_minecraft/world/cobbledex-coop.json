@@ -1432,6 +1432,134 @@
         "discoveredTimestamp": 1750497355460,
         "caughtTimestamp": 1750497355460
       }
+    },
+    "swablu": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497462913,
+        "caughtTimestamp": 1750497462913
+      }
+    },
+    "azurill": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497464265,
+        "caughtTimestamp": 1750497464265
+      }
+    },
+    "durant": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497478262,
+        "caughtTimestamp": 1750497478262
+      }
+    },
+    "staravia": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497567967,
+        "caughtTimestamp": 1750497567967
+      }
+    },
+    "tyrogue": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497586321,
+        "caughtTimestamp": 1750497586321
+      }
+    },
+    "basculin": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497598063,
+        "caughtTimestamp": 1750497598063
+      }
+    },
+    "starly": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497622372,
+        "caughtTimestamp": 1750497622372
+      }
+    },
+    "teddiursa": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497692615,
+        "caughtTimestamp": 1750497692615
+      }
+    },
+    "ekans": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497796014,
+        "caughtTimestamp": 1750497796014
+      }
+    },
+    "sewaddle": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497856870,
+        "caughtTimestamp": 1750497856870
+      }
+    },
+    "pichu": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497882462,
+        "caughtTimestamp": 1750497882462
+      }
+    },
+    "bounsweet": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497890718,
+        "caughtTimestamp": 1750497890718
+      }
+    },
+    "litleo": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497920601,
+        "caughtTimestamp": 1750497920601
+      }
+    },
+    "cramorant": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497969111,
+        "caughtTimestamp": 1750497969111
+      }
+    },
+    "cacnea": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750497986459,
+        "caughtTimestamp": 1750498013312
+      }
+    },
+    "maractus": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750498046521,
+        "caughtTimestamp": 1750498046521
+      }
     }
   }
 }

@@ -1044,6 +1044,86 @@
             "discoveredTimestamp": 1750497311520,
             "caughtTimestamp": 1750497311520
           }
+        },
+        "azurill": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750497464264,
+            "caughtTimestamp": 1750497464264
+          }
+        },
+        "basculin": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750497598063,
+            "caughtTimestamp": 1750497598063
+          }
+        },
+        "starly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750497639566,
+            "caughtTimestamp": 1750497639566
+          }
+        },
+        "pidove": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750497685565,
+            "caughtTimestamp": 1750497685565
+          }
+        },
+        "ekans": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750497796013,
+            "caughtTimestamp": 1750497796013
+          }
+        },
+        "sewaddle": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750497856869,
+            "caughtTimestamp": 1750497856869
+          }
+        },
+        "pichu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750497882461,
+            "caughtTimestamp": 1750497882461
+          }
+        },
+        "cramorant": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750497969110,
+            "caughtTimestamp": 1750497969110
+          }
+        },
+        "cacnea": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750497986458,
+            "caughtTimestamp": 1750498013311
+          }
+        },
+        "maractus": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750498046519,
+            "caughtTimestamp": 1750498046519
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1057,37 +1137,38 @@
         "75",
         "90",
         "105",
-        "120"
+        "120",
+        "135"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 69,
+    "totalCaptureCount": 79,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 54,
-    "totalBattleVictoryCount": 127,
+    "totalBattleVictoryCount": 138,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 127,
+    "totalPvWBattleVictoryCount": 138,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
       "rock": 4,
-      "bug": 9,
-      "poison": 7,
-      "water": 15,
+      "bug": 10,
+      "poison": 8,
+      "water": 17,
       "ghost": 2,
       "fire": 1,
       "ice": 1,
-      "fairy": 5,
-      "normal": 20,
-      "flying": 10,
+      "fairy": 6,
+      "normal": 23,
+      "flying": 13,
       "ground": 3,
-      "grass": 11,
+      "grass": 14,
       "fighting": 4,
       "psychic": 3,
-      "electric": 2,
+      "electric": 3,
       "dark": 1
     },
     "totalDefeatedCounts": {
@@ -1123,9 +1204,9 @@
       "cobblemon:rapidash": 1,
       "cobblemon:pineco": 1,
       "cobblemon:ninjask": 1,
-      "cobblemon:vivillon": 1,
+      "cobblemon:vivillon": 2,
       "cobblemon:murkrow": 1,
-      "cobblemon:basculin": 1
+      "cobblemon:basculin": 2
     },
     "aspectsCollected": {}
   }

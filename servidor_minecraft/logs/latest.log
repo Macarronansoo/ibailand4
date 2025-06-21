@@ -2243,3 +2243,13 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 09:16:11.415] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b8b8cdb2-f294-49a5-8cfc-6a87ec6f030d
 [21Jun2025 09:16:11.415] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b8b8cdb2-f294-49a5-8cfc-6a87ec6f030d
 [21Jun2025 09:17:13.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [A Big Commit-mint]
+[21Jun2025 09:19:54.822] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/97626, l='ServerLevel[world]', x=-468.46, y=120.40, z=-650.62, removed=DISCARDED]
+[21Jun2025 09:21:24.664] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/93984, l='ServerLevel[world]', x=-243.27, y=9.43, z=-403.73, removed=DISCARDED]
+[21Jun2025 09:23:13.916] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 100ee7eb-f954-4c77-b8cf-8cb35c9ddbc6
+[21Jun2025 09:23:13.917] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 100ee7eb-f954-4c77-b8cf-8cb35c9ddbc6
+[21Jun2025 09:24:57.732] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 23.668193817138672) to VERY_HIGH (avg. 82.66351318359375)
+[21Jun2025 09:25:04.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 82.66351318359375) to LOW (avg. 24.57826042175293)
+[21Jun2025 09:26:11.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.034812927246094) to VERY_LOW (avg. 19.78792953491211)
+[21Jun2025 09:26:26.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.78792953491211) to LOW (avg. 22.31499481201172)
+[21Jun2025 09:26:41.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.31499481201172) to VERY_LOW (avg. 19.675472259521484)
+[21Jun2025 09:26:49.521] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.675472259521484) to LOW (avg. 22.787519454956055)
