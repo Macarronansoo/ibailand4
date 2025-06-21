@@ -6,6 +6,12 @@
     "bypassesPlayerLimit": false
   },
   {
+    "uuid": "41b36f5c-5c86-4876-937c-93326d43e9bf",
+    "name": "Agente",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
     "uuid": "d2fd0016-a757-4b59-8507-69637450002d",
     "name": "barbaro324",
     "level": 4,
