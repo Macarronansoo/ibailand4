@@ -2305,3 +2305,19 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 09:57:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.30025291442871) to LOW (avg. 20.189922332763672)
 [21Jun2025 09:57:41.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.189922332763672) to VERY_LOW (avg. 19.197418212890625)
 [21Jun2025 09:57:49.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.197418212890625) to LOW (avg. 20.540042877197266)
+[21Jun2025 09:58:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.527912139892578) to VERY_LOW (avg. 18.38235092163086)
+[21Jun2025 09:59:41.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.343181610107422) to LOW (avg. 20.36331558227539)
+[21Jun2025 09:59:56.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.36331558227539) to VERY_LOW (avg. 16.83254623413086)
+[21Jun2025 10:00:11.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.83254623413086) to LOW (avg. 20.901968002319336)
+[21Jun2025 10:00:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.901968002319336) to VERY_LOW (avg. 17.432329177856445)
+[21Jun2025 10:00:34.526] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.432329177856445) to LOW (avg. 23.100032806396484)
+[21Jun2025 10:00:41.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.100032806396484) to VERY_LOW (avg. 19.278892517089844)
+[21Jun2025 10:01:02.403] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/197757, l='ServerLevel[world]', x=-2025.50, y=69.79, z=126.27] died: Paco Pepe was slain by Enderman
+[21Jun2025 10:01:04.514] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.753070831298828) to LOW (avg. 20.828969955444336)
+[21Jun2025 10:01:19.537] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.828969955444336) to VERY_LOW (avg. 17.95343017578125)
+[21Jun2025 10:01:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.95343017578125) to LOW (avg. 21.505205154418945)
+[21Jun2025 10:01:34.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.505205154418945) to VERY_LOW (avg. 18.397884368896484)
+[21Jun2025 10:02:11.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.909502029418945) to LOW (avg. 20.22871971130371)
+[21Jun2025 10:02:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.22871971130371) to VERY_LOW (avg. 16.328630447387695)
+[21Jun2025 10:05:14.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
+[21Jun2025 10:05:14.625] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved

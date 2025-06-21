@@ -1680,6 +1680,30 @@
         "discoveredTimestamp": 1750499511068,
         "caughtTimestamp": 1750499511068
       }
+    },
+    "staryu": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750500157361,
+        "caughtTimestamp": 1750500157361
+      }
+    },
+    "minior": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750500192958,
+        "caughtTimestamp": 1750500192958
+      }
+    },
+    "lechonk": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750500307457,
+        "caughtTimestamp": 1750500307457
+      }
     }
   }
 }

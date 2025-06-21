@@ -1008,6 +1008,22 @@
             "discoveredTimestamp": 1750499372314,
             "caughtTimestamp": 1750499372314
           }
+        },
+        "minior": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500192957,
+            "caughtTimestamp": 1750500192957
+          }
+        },
+        "lechonk": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500307456,
+            "caughtTimestamp": 1750500307456
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1026,21 +1042,21 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 83,
+    "totalCaptureCount": 85,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 28,
-    "totalBattleVictoryCount": 162,
+    "totalBattleVictoryCount": 164,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 162,
+    "totalPvWBattleVictoryCount": 164,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 2,
+    "totalShinyCaptureCount": 3,
     "totalTradedCount": 6,
     "totalTypeCaptureCounts": {
       "grass": 13,
       "psychic": 3,
       "water": 6,
-      "normal": 22,
-      "flying": 19,
+      "normal": 23,
+      "flying": 20,
       "ground": 3,
       "fire": 6,
       "steel": 5,
@@ -1050,7 +1066,7 @@
       "bug": 13,
       "electric": 4,
       "fairy": 6,
-      "rock": 5,
+      "rock": 6,
       "poison": 5,
       "dragon": 2,
       "ghost": 2

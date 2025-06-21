@@ -1219,6 +1219,22 @@
             "discoveredTimestamp": 1750499880764,
             "caughtTimestamp": 1750499880764
           }
+        },
+        "pachirisu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750499937108,
+            "caughtTimestamp": 1750499937108
+          }
+        },
+        "staryu": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750500157361,
+            "caughtTimestamp": 1750500157361
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1239,12 +1255,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 89,
+    "totalCaptureCount": 91,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 55,
-    "totalBattleVictoryCount": 158,
+    "totalBattleVictoryCount": 163,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 158,
+    "totalPvWBattleVictoryCount": 163,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
@@ -1252,7 +1268,7 @@
       "rock": 4,
       "bug": 10,
       "poison": 9,
-      "water": 18,
+      "water": 19,
       "ghost": 4,
       "fire": 1,
       "ice": 1,
@@ -1263,7 +1279,7 @@
       "grass": 15,
       "fighting": 4,
       "psychic": 3,
-      "electric": 3,
+      "electric": 4,
       "dark": 4
     },
     "totalDefeatedCounts": {
@@ -1271,7 +1287,7 @@
       "cobblemon:mudbray": 1,
       "cobblemon:bouffalant": 4,
       "cobblemon:bunnelby": 4,
-      "cobblemon:diggersby": 4,
+      "cobblemon:diggersby": 5,
       "cobblemon:combee": 1,
       "cobblemon:miltank": 2,
       "cobblemon:lilligant": 1,
@@ -1281,10 +1297,10 @@
       "cobblemon:tauros": 8,
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 4,
-      "cobblemon:butterfree": 6,
+      "cobblemon:butterfree": 7,
       "cobblemon:crabrawler": 3,
       "cobblemon:yanma": 1,
-      "cobblemon:araquanid": 2,
+      "cobblemon:araquanid": 3,
       "cobblemon:wingull": 1,
       "cobblemon:ponyta": 1,
       "cobblemon:farfetchd": 1,
