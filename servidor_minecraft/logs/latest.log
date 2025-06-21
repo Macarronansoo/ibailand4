@@ -2866,3 +2866,11 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 13:41:54.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
 [21Jun2025 13:41:54.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
 [21Jun2025 13:41:55.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.136390686035156) to VERY_LOW (avg. 5.262386798858643)
+[21Jun2025 14:00:16.528] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[21Jun2025 14:00:18.865] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:50645] logged in with entity id 502306 at (-1575.804575068084, 94.72400008344667, 115.51138654907088)
+[21Jun2025 14:00:18.911] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[21Jun2025 14:00:18.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[21Jun2025 14:00:18.921] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity PokemonEntity['Avión'/502307, l='ServerLevel[world]', x=-1575.80, y=94.02, z=115.51] as it would cause deadlock
+[21Jun2025 14:00:32.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.051074981689453) to LOW (avg. 20.840627670288086)
+[21Jun2025 14:00:47.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.840627670288086) to VERY_LOW (avg. 18.077993392944336)
+[21Jun2025 14:01:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.552812576293945) to LOW (avg. 22.291034698486328)
