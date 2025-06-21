@@ -1371,6 +1371,14 @@
             "discoveredTimestamp": 1750504739406,
             "caughtTimestamp": 1750504739406
           }
+        },
+        "gogoat": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750505234918,
+            "caughtTimestamp": 1750505234918
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1395,10 +1403,10 @@
   "advancementData": {
     "totalCaptureCount": 101,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 63,
-    "totalBattleVictoryCount": 216,
+    "totalEvolvedCount": 64,
+    "totalBattleVictoryCount": 221,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 216,
+    "totalPvWBattleVictoryCount": 221,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 10,
@@ -1435,8 +1443,8 @@
       "cobblemon:tauros": 11,
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 5,
-      "cobblemon:butterfree": 11,
-      "cobblemon:crabrawler": 7,
+      "cobblemon:butterfree": 12,
+      "cobblemon:crabrawler": 9,
       "cobblemon:yanma": 1,
       "cobblemon:araquanid": 5,
       "cobblemon:wingull": 1,
@@ -1453,7 +1461,7 @@
       "cobblemon:rapidash": 1,
       "cobblemon:pineco": 1,
       "cobblemon:ninjask": 1,
-      "cobblemon:vivillon": 4,
+      "cobblemon:vivillon": 5,
       "cobblemon:murkrow": 1,
       "cobblemon:basculin": 2,
       "cobblemon:ditto": 1,
@@ -1475,7 +1483,7 @@
       "cobblemon:pachirisu": 1,
       "cobblemon:roselia": 1,
       "cobblemon:ledyba": 2,
-      "cobblemon:cottonee": 1,
+      "cobblemon:cottonee": 2,
       "cobblemon:gossifleur": 1,
       "cobblemon:exeggcute": 1
     },

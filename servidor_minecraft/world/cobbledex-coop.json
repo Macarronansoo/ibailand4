@@ -1872,6 +1872,14 @@
         "discoveredTimestamp": 1750504739408,
         "caughtTimestamp": 1750504739408
       }
+    },
+    "gogoat": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750505234919,
+        "caughtTimestamp": 1750505234919
+      }
     }
   }
 }
