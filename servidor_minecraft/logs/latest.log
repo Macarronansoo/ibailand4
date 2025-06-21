@@ -2976,3 +2976,28 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 14:31:40.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.61673355102539) to LOW (avg. 20.496416091918945)
 [21Jun2025 14:31:47.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.496416091918945) to VERY_LOW (avg. 16.920791625976562)
 [21Jun2025 14:31:55.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.920791625976562) to LOW (avg. 20.729337692260742)
+[21Jun2025 14:32:29.087] [Worker-Main-303/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/523833, l='ServerLevel[world]', x=-5391.00, y=31.00, z=617.00] as it would cause deadlock
+[21Jun2025 14:33:02.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 35.8306770324707) to VERY_LOW (avg. 19.706371307373047)
+[21Jun2025 14:33:17.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.706371307373047) to LOW (avg. 26.017501831054688)
+[21Jun2025 14:33:35.319] [Worker-Main-301/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/524556, l='ServerLevel[world]', x=-5673.00, y=31.00, z=871.00] as it would cause deadlock
+[21Jun2025 14:33:37.676] [Worker-Main-291/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/524627, l='ServerLevel[world]', x=-5730.00, y=31.00, z=645.00] as it would cause deadlock
+[21Jun2025 14:33:47.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.912033081054688) to VERY_LOW (avg. 15.178592681884766)
+[21Jun2025 14:34:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.185686111450195) to LOW (avg. 23.57182502746582)
+[21Jun2025 14:34:47.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.375835418701172) to VERY_LOW (avg. 19.475595474243164)
+[21Jun2025 14:35:02.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.475595474243164) to LOW (avg. 21.713951110839844)
+[21Jun2025 14:35:17.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.713951110839844) to VERY_LOW (avg. 18.156675338745117)
+[21Jun2025 14:35:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.156675338745117) to LOW (avg. 23.3673152923584)
+[21Jun2025 14:35:47.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.850446701049805) to VERY_LOW (avg. 17.369476318359375)
+[21Jun2025 14:36:51.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [Pocket Edition Alpha]
+[21Jun2025 14:37:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.953174591064453) to LOW (avg. 24.37679672241211)
+[21Jun2025 14:37:42.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Hellfire Mantle]
+[21Jun2025 14:37:47.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.60519790649414) to VERY_LOW (avg. 16.647686004638672)
+[21Jun2025 14:38:12.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Not Today, Thank You]
+[21Jun2025 14:39:03.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote tried to swim in lava to escape Magma Cube
+[21Jun2025 14:39:03.119] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 14:39:04.273] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 14:39:17.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.014705657958984) to LOW (avg. 32.62200927734375)
+[21Jun2025 14:39:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.62200927734375) to VERY_LOW (avg. 18.6607666015625)
+[21Jun2025 14:40:47.640] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.196718215942383) to LOW (avg. 27.25253677368164)
+[21Jun2025 14:41:06.201] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Pepito'/527406, l='ServerLevel[world]', x=-5757.63, y=49.52, z=432.63] died: Pepito tried to swim in lava to escape Straddler
+[21Jun2025 14:41:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.323017120361328) to VERY_LOW (avg. 15.153299331665039)

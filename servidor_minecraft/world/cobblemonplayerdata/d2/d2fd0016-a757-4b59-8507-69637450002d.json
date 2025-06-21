@@ -1185,6 +1185,22 @@
             "discoveredTimestamp": 1750512531865,
             "caughtTimestamp": 1750512531865
           }
+        },
+        "turtonator": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750516859065,
+            "caughtTimestamp": 1750516859065
+          }
+        },
+        "gligar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750516929607,
+            "caughtTimestamp": 1750516929607
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1205,12 +1221,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 92,
+    "totalCaptureCount": 94,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 41,
-    "totalBattleVictoryCount": 170,
+    "totalBattleVictoryCount": 172,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 170,
+    "totalPvWBattleVictoryCount": 172,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 3,
     "totalTradedCount": 10,
@@ -1219,9 +1235,9 @@
       "psychic": 3,
       "water": 6,
       "normal": 24,
-      "flying": 21,
-      "ground": 4,
-      "fire": 9,
+      "flying": 22,
+      "ground": 5,
+      "fire": 10,
       "steel": 6,
       "dark": 5,
       "ice": 1,
@@ -1231,7 +1247,7 @@
       "fairy": 7,
       "rock": 6,
       "poison": 7,
-      "dragon": 2,
+      "dragon": 3,
       "ghost": 2
     },
     "totalDefeatedCounts": {

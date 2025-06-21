@@ -1937,6 +1937,22 @@
         "discoveredTimestamp": 1750512531865,
         "caughtTimestamp": 1750512531865
       }
+    },
+    "turtonator": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750516859066,
+        "caughtTimestamp": 1750516859066
+      }
+    },
+    "gligar": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750516929608,
+        "caughtTimestamp": 1750516929608
+      }
     }
   }
 }
