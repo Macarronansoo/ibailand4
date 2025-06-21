@@ -78,6 +78,12 @@
             "status": "CAUGHT",
             "discoveredTimestamp": 1749988748857,
             "caughtTimestamp": 1750412789539
+          },
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750496744864,
+            "caughtTimestamp": 1750496744864
           }
         },
         "wimpod": {
@@ -990,6 +996,14 @@
             "discoveredTimestamp": 1750495979222,
             "caughtTimestamp": 1750495979222
           }
+        },
+        "slowpoke": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750496269304,
+            "caughtTimestamp": 1750496269304
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1002,18 +1016,19 @@
         "60",
         "75",
         "90",
-        "105"
+        "105",
+        "120"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 62,
+    "totalCaptureCount": 64,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 54,
-    "totalBattleVictoryCount": 119,
+    "totalBattleVictoryCount": 120,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 119,
+    "totalPvWBattleVictoryCount": 120,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 6,
@@ -1021,18 +1036,19 @@
       "rock": 4,
       "bug": 9,
       "poison": 7,
-      "water": 10,
+      "water": 11,
       "ghost": 2,
       "fire": 1,
       "ice": 1,
       "fairy": 5,
-      "normal": 19,
+      "normal": 20,
       "flying": 9,
       "ground": 3,
       "grass": 11,
       "fighting": 4,
-      "psychic": 2,
-      "electric": 1
+      "psychic": 3,
+      "electric": 1,
+      "dark": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:flabebe": 1,

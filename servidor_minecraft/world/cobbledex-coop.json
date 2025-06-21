@@ -1336,6 +1336,14 @@
         "discoveredTimestamp": 1750495959539,
         "caughtTimestamp": 1750495959539
       }
+    },
+    "slowpoke": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750496269305,
+        "caughtTimestamp": 1750496269305
+      }
     }
   }
 }
