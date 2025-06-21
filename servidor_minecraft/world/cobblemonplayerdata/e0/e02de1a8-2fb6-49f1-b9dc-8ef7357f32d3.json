@@ -1291,6 +1291,14 @@
             "discoveredTimestamp": 1750502307190,
             "caughtTimestamp": 1750502307190
           }
+        },
+        "eldegoss": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750502353289,
+            "caughtTimestamp": 1750502353289
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1314,10 +1322,10 @@
   "advancementData": {
     "totalCaptureCount": 94,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 60,
-    "totalBattleVictoryCount": 188,
+    "totalEvolvedCount": 61,
+    "totalBattleVictoryCount": 197,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 188,
+    "totalPvWBattleVictoryCount": 197,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 10,
@@ -1345,19 +1353,19 @@
       "cobblemon:bouffalant": 5,
       "cobblemon:bunnelby": 4,
       "cobblemon:diggersby": 5,
-      "cobblemon:combee": 1,
+      "cobblemon:combee": 2,
       "cobblemon:miltank": 2,
-      "cobblemon:lilligant": 1,
+      "cobblemon:lilligant": 2,
       "cobblemon:snorunt": 1,
       "cobblemon:krabby": 4,
       "cobblemon:petilil": 2,
-      "cobblemon:tauros": 10,
+      "cobblemon:tauros": 11,
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 5,
-      "cobblemon:butterfree": 7,
-      "cobblemon:crabrawler": 5,
+      "cobblemon:butterfree": 8,
+      "cobblemon:crabrawler": 6,
       "cobblemon:yanma": 1,
-      "cobblemon:araquanid": 3,
+      "cobblemon:araquanid": 4,
       "cobblemon:wingull": 1,
       "cobblemon:ponyta": 1,
       "cobblemon:farfetchd": 1,
@@ -1390,7 +1398,10 @@
       "cobblemon:golisopod": 1,
       "cobblemon:drilbur": 1,
       "cobblemon:lechonk": 1,
-      "cobblemon:dewpider": 1
+      "cobblemon:dewpider": 1,
+      "cobblemon:pachirisu": 1,
+      "cobblemon:roselia": 1,
+      "cobblemon:ledyba": 1
     },
     "aspectsCollected": {}
   }

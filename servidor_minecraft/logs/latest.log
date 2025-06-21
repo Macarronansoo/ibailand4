@@ -2359,3 +2359,22 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 10:35:34.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.75224494934082) to VERY_LOW (avg. 14.471136093139648)
 [21Jun2025 10:36:48.000] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/277925, l='ServerLevel[world]', x=-1867.30, y=-4.00, z=266.70] died: Angry Creeper suffocated in a wall
 [21Jun2025 10:38:49.509] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.55398178100586) to LOW (avg. 22.31853675842285)
+[21Jun2025 10:40:02.404] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Avión'/286495, l='ServerLevel[world]', x=-1818.12, y=77.00, z=-17.42] died: Avión was slain by Stonjourner
+[21Jun2025 10:40:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.476900100708008) to VERY_LOW (avg. 18.742223739624023)
+[21Jun2025 10:42:24.705] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3d5837a6-e032-49eb-8a8a-dfc6f36afd88
+[21Jun2025 10:42:24.705] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3d5837a6-e032-49eb-8a8a-dfc6f36afd88
+[21Jun2025 10:42:24.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was blown up by Creeper
+[21Jun2025 10:42:24.728] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 10:42:28.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> ja
+[21Jun2025 10:42:42.785] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292253, l='ServerLevel[world]', x=-2004.54, y=44.00, z=55.31, removed=DISCARDED]
+[21Jun2025 10:42:56.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.900928497314453) to LOW (avg. 21.5906982421875)
+[21Jun2025 10:43:49.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.669008255004883) to VERY_LOW (avg. 18.010417938232422)
+[21Jun2025 10:44:11.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.80785369873047) to LOW (avg. 24.137807846069336)
+[21Jun2025 10:44:34.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.13274383544922) to VERY_LOW (avg. 19.018617630004883)
+[21Jun2025 10:44:41.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.018617630004883) to LOW (avg. 22.19070816040039)
+[21Jun2025 10:44:52.454] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Avión'/293326, l='ServerLevel[world]', x=-1827.75, y=-1.00, z=356.23] died: Avión was blown up by Creeper
+[21Jun2025 10:45:04.553] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.038660049438477) to VERY_LOW (avg. 17.662752151489258)
+[21Jun2025 10:45:11.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.662752151489258) to LOW (avg. 23.85232925415039)
+[21Jun2025 10:45:50.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was shot by Skeleton
+[21Jun2025 10:45:50.483] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 10:48:56.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.4267578125) to VERY_LOW (avg. 19.229265213012695)
