@@ -1896,6 +1896,22 @@
         "discoveredTimestamp": 1750505632094,
         "caughtTimestamp": 1750505632094
       }
+    },
+    "wooper": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750506056362,
+        "caughtTimestamp": 1750506056362
+      }
+    },
+    "feebas": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750506285315,
+        "caughtTimestamp": 1750506285315
+      }
     }
   }
 }

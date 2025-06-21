@@ -1401,6 +1401,22 @@
             "discoveredTimestamp": 1750505632093,
             "caughtTimestamp": 1750505632093
           }
+        },
+        "wooper": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750506056362,
+            "caughtTimestamp": 1750506056362
+          }
+        },
+        "feebas": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750506285314,
+            "caughtTimestamp": 1750506285314
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1423,12 +1439,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 102,
+    "totalCaptureCount": 104,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 66,
-    "totalBattleVictoryCount": 225,
+    "totalBattleVictoryCount": 228,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 225,
+    "totalPvWBattleVictoryCount": 228,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 10,
@@ -1436,14 +1452,14 @@
       "rock": 5,
       "bug": 13,
       "poison": 11,
-      "water": 23,
+      "water": 25,
       "ghost": 4,
       "fire": 1,
       "ice": 1,
       "fairy": 9,
       "normal": 27,
       "flying": 16,
-      "ground": 6,
+      "ground": 7,
       "grass": 15,
       "fighting": 4,
       "psychic": 5,
@@ -1508,7 +1524,8 @@
       "cobblemon:cottonee": 2,
       "cobblemon:gossifleur": 1,
       "cobblemon:exeggcute": 1,
-      "cobblemon:linoone": 1
+      "cobblemon:linoone": 1,
+      "cobblemon:oinkologne": 1
     },
     "aspectsCollected": {}
   }
