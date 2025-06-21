@@ -2908,3 +2908,19 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 14:10:40.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.769134521484375) to LOW (avg. 20.241474151611328)
 [21Jun2025 14:11:11.477] [Worker-Main-303/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/511276, l='ServerLevel[world]', x=-1823.00, y=31.00, z=353.00] as it would cause deadlock
 [21Jun2025 14:11:32.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.146520614624023) to VERY_LOW (avg. 16.8772029876709)
+[21Jun2025 14:11:47.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.8772029876709) to LOW (avg. 26.52469825744629)
+[21Jun2025 14:12:40.140] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.045452117919922) to VERY_LOW (avg. 14.75719928741455)
+[21Jun2025 14:13:32.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Wither Skeleton
+[21Jun2025 14:13:32.113] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 14:14:02.228] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 14:15:02.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.78695297241211) to LOW (avg. 22.421140670776367)
+[21Jun2025 14:15:37.255] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Avión'/513510, l='ServerLevel[world]', x=-2220.74, y=56.00, z=285.59] died: Avión was slain by Piglin
+[21Jun2025 14:15:40.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.90933609008789) to VERY_LOW (avg. 18.697324752807617)
+[21Jun2025 14:15:58.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote fell from a high place
+[21Jun2025 14:15:58.381] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 14:15:59.981] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 14:16:10.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.897493362426758) to LOW (avg. 21.15427589416504)
+[21Jun2025 14:17:17.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.353252410888672) to VERY_LOW (avg. 19.290016174316406)
+[21Jun2025 14:17:32.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.290016174316406) to LOW (avg. 21.230810165405273)
+[21Jun2025 14:19:01.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/514295, l='ServerLevel[world]', x=-2256.51, y=31.00, z=276.50] died: Samuel the Pit Master was slain by AgentePerrote
+[21Jun2025 14:21:02.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.845294952392578) to VERY_LOW (avg. 15.403861999511719)
