@@ -2817,3 +2817,48 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 13:31:15.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Hellish Paradise]
 [21Jun2025 13:31:15.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Strange Biomes]
 [21Jun2025 13:31:18.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.173091888427734) to VERY_LOW (avg. 18.04225730895996)
+[21Jun2025 13:31:26.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.04225730895996) to LOW (avg. 21.712125778198242)
+[21Jun2025 13:31:32.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Rescue Mission]
+[21Jun2025 13:31:40.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Darude - Firestorm]
+[21Jun2025 13:31:56.274] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 25.533479690551758) to MEDIUM (avg. 48.72543716430664)
+[21Jun2025 13:32:03.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 48.72543716430664) to LOW (avg. 29.434114456176758)
+[21Jun2025 13:32:10.808] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/495968, l='ServerLevel[world]', x=-791.13, y=67.51, z=70.94] died: Sanctum Cultist tried to swim in lava
+[21Jun2025 13:32:11.113] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Sanctum Cultist'/495972, l='ServerLevel[world]', x=-785.93, y=67.05, z=64.54] died: Sanctum Cultist tried to swim in lava
+[21Jun2025 13:32:26.222] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.633113861083984) to NORMAL (avg. 44.33106994628906)
+[21Jun2025 13:32:26.445] [Worker-Main-254/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/496739, l='ServerLevel[world]', x=-959.00, y=31.00, z=-28.00] as it would cause deadlock
+[21Jun2025 13:32:33.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [An Illager Refuge?]
+[21Jun2025 13:32:33.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.33106994628906) to LOW (avg. 31.983680725097656)
+[21Jun2025 13:32:35.876] [Worker-Main-254/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/496898, l='ServerLevel[world]', x=-836.00, y=31.00, z=209.00] as it would cause deadlock
+[21Jun2025 13:32:36.749] [Worker-Main-241/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/496918, l='ServerLevel[world]', x=-1048.00, y=31.00, z=149.00] as it would cause deadlock
+[21Jun2025 13:33:46.973] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Avión'/494696, l='ServerLevel[world]', x=-901.50, y=70.65, z=49.37] died: Avión was fireballed by Gboom the Bloated
+[21Jun2025 13:35:32.657] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Sanctum Protector'/496605, l='ServerLevel[world]', x=-902.11, y=31.05, z=37.77] died: Sanctum Protector tried to swim in lava
+[21Jun2025 13:35:33.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 35.1446533203125) to NORMAL (avg. 40.13154983520508)
+[21Jun2025 13:35:56.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.9493293762207) to LOW (avg. 28.084827423095703)
+[21Jun2025 13:36:41.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.429698944091797) to VERY_LOW (avg. 16.850847244262695)
+[21Jun2025 13:36:48.690] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.850847244262695) to LOW (avg. 21.726463317871094)
+[21Jun2025 13:36:56.987] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[21Jun2025 13:36:59.310] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 21.726463317871094) to VERY_HIGH (avg. 72.69496154785156)
+[21Jun2025 13:37:00.551] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from LOW (avg. 33.5563602) to VERY_HIGH (avg. 55.47984662)
+[21Jun2025 13:37:05.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 72.69496154785156) to LOW (avg. 39.52935028076172)
+[21Jun2025 13:37:20.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 39.52935028076172) to VERY_LOW (avg. 17.930959701538086)
+[21Jun2025 13:37:35.691] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.930959701538086) to LOW (avg. 35.171897888183594)
+[21Jun2025 13:37:43.191] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 35.171897888183594) to VERY_LOW (avg. 17.982112884521484)
+[21Jun2025 13:38:10.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [A Terrible Fortress]
+[21Jun2025 13:38:31.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has completed the challenge [Centennial]
+[21Jun2025 13:39:12.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Wither Skeleton
+[21Jun2025 13:39:12.628] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 13:39:14.483] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 13:39:21.826] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[21Jun2025 13:39:29.754] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 golden_horse_armor
+[21Jun2025 13:39:42.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote withered away whilst fighting Wither Skeleton
+[21Jun2025 13:39:42.584] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 13:39:43.896] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 13:39:51.332] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2291ms or 45 ticks behind
+[21Jun2025 13:40:02.640] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.02263641357422) to LOW (avg. 24.73859977722168)
+[21Jun2025 13:40:04.240] [Worker-Main-258/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/501434, l='ServerLevel[world]', x=-1486.00, y=31.00, z=235.00] as it would cause deadlock
+[21Jun2025 13:40:04.638] [Worker-Main-254/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/501463, l='ServerLevel[world]', x=-1407.10, y=31.00, z=241.00] as it would cause deadlock
+[21Jun2025 13:40:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.22445297241211) to VERY_LOW (avg. 17.645540237426758)
+[21Jun2025 13:40:40.140] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.645540237426758) to LOW (avg. 32.45921325683594)
+[21Jun2025 13:40:47.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.45921325683594) to VERY_LOW (avg. 18.479188919067383)
+[21Jun2025 13:40:55.184] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.479188919067383) to MEDIUM (avg. 46.24262619018555)
+[21Jun2025 13:41:10.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.24262619018555) to VERY_LOW (avg. 19.253753662109375)
