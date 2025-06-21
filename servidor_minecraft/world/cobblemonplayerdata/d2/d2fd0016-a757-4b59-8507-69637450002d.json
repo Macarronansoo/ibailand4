@@ -968,6 +968,30 @@
             "discoveredTimestamp": 1750498293110,
             "caughtTimestamp": 1750498293110
           }
+        },
+        "tinkatink": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750498886483,
+            "caughtTimestamp": 1750498886483
+          }
+        },
+        "glameow": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750498982818,
+            "caughtTimestamp": 1750498982818
+          }
+        },
+        "timburr": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750499035068,
+            "caughtTimestamp": 1750499035068
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -986,12 +1010,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 78,
+    "totalCaptureCount": 81,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 28,
-    "totalBattleVictoryCount": 156,
+    "totalBattleVictoryCount": 160,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 156,
+    "totalPvWBattleVictoryCount": 160,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 2,
     "totalTradedCount": 6,
@@ -999,17 +1023,17 @@
       "grass": 13,
       "psychic": 3,
       "water": 6,
-      "normal": 20,
+      "normal": 21,
       "flying": 19,
       "ground": 3,
       "fire": 6,
-      "steel": 4,
+      "steel": 5,
       "dark": 5,
       "ice": 1,
-      "fighting": 5,
+      "fighting": 6,
       "bug": 13,
       "electric": 4,
-      "fairy": 4,
+      "fairy": 5,
       "rock": 5,
       "poison": 5,
       "dragon": 2,
@@ -1056,7 +1080,8 @@
       "cobblemon:ralts": 1,
       "cobblemon:gimmighoul": 2,
       "cobblemon:farfetchd": 1,
-      "cobblemon:beedrill": 1
+      "cobblemon:beedrill": 1,
+      "cobblemon:voltorb": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [

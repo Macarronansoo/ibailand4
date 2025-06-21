@@ -2271,3 +2271,10 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 09:32:49.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.794795989990234) to LOW (avg. 21.42180061340332)
 [21Jun2025 09:33:04.539] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.42180061340332) to VERY_LOW (avg. 19.040424346923828)
 [21Jun2025 09:33:19.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.040424346923828) to LOW (avg. 20.888782501220703)
+[21Jun2025 09:38:42.644] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:crafting in 3.654 ms. 5713/5766 recipes are parallelized.
+[21Jun2025 09:39:15.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Wan's Ancient Beasts]
+[21Jun2025 09:40:31.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Creeper
+[21Jun2025 09:40:31.394] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 09:40:41.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.43364143371582) to VERY_LOW (avg. 19.476055145263672)
+[21Jun2025 09:41:04.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.890687942504883) to LOW (avg. 25.11164093017578)
+[21Jun2025 09:47:49.057] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/168832, l='ServerLevel[world]', x=-2027.70, y=52.00, z=175.50] died: Angry Creeper suffocated in a wall

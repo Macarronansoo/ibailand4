@@ -1607,6 +1607,54 @@
         "status": "SEEN",
         "discoveredTimestamp": 1750498361387
       }
+    },
+    "cubone": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750498871468,
+        "caughtTimestamp": 1750498889215
+      }
+    },
+    "tinkatink": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750498886484,
+        "caughtTimestamp": 1750498886484
+      }
+    },
+    "glameow": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750498982818,
+        "caughtTimestamp": 1750498982818
+      }
+    },
+    "timburr": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750499035068,
+        "caughtTimestamp": 1750499035068
+      }
+    },
+    "carvanha": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750499075114,
+        "caughtTimestamp": 1750499075114
+      }
+    },
+    "sandygast": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750499151564,
+        "caughtTimestamp": 1750499151564
+      }
     }
   }
 }
