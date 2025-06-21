@@ -1136,6 +1136,14 @@
             "discoveredTimestamp": 1750503404215,
             "caughtTimestamp": 1750503404215
           }
+        },
+        "diglett": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750504179611,
+            "caughtTimestamp": 1750504179611
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1155,12 +1163,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 87,
+    "totalCaptureCount": 88,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 39,
-    "totalBattleVictoryCount": 166,
+    "totalBattleVictoryCount": 167,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 166,
+    "totalPvWBattleVictoryCount": 167,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 3,
     "totalTradedCount": 10,
@@ -1170,7 +1178,7 @@
       "water": 6,
       "normal": 23,
       "flying": 20,
-      "ground": 3,
+      "ground": 4,
       "fire": 7,
       "steel": 6,
       "dark": 5,

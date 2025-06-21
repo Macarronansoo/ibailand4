@@ -1840,6 +1840,38 @@
         "discoveredTimestamp": 1750503921266,
         "caughtTimestamp": 1750503921266
       }
+    },
+    "arrokuda": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750504165174,
+        "caughtTimestamp": 1750504165174
+      }
+    },
+    "poliwag": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750504199917,
+        "caughtTimestamp": 1750504199917
+      }
+    },
+    "binacle": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750504487809,
+        "caughtTimestamp": 1750504487809
+      }
+    },
+    "scatterbug": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750504739408,
+        "caughtTimestamp": 1750504739408
+      }
     }
   }
 }
