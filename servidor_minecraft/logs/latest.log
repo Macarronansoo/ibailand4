@@ -2924,3 +2924,55 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 14:17:32.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.290016174316406) to LOW (avg. 21.230810165405273)
 [21Jun2025 14:19:01.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/514295, l='ServerLevel[world]', x=-2256.51, y=31.00, z=276.50] died: Samuel the Pit Master was slain by AgentePerrote
 [21Jun2025 14:21:02.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.845294952392578) to VERY_LOW (avg. 15.403861999511719)
+[21Jun2025 14:21:55.146] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.782163619995117) to NORMAL (avg. 40.56847381591797)
+[21Jun2025 14:22:02.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.56847381591797) to VERY_LOW (avg. 16.611373901367188)
+[21Jun2025 14:22:12.087] [Worker-Main-290/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/516028, l='ServerLevel[world]', x=-2553.00, y=31.00, z=121.00] as it would cause deadlock
+[21Jun2025 14:22:17.640] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.611373901367188) to LOW (avg. 25.35474967956543)
+[21Jun2025 14:22:47.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.502300262451172) to VERY_LOW (avg. 13.235519409179688)
+[21Jun2025 14:22:52.797] [Worker-Main-302/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/516836, l='ServerLevel[world]', x=-2938.00, y=31.00, z=-37.00] as it would cause deadlock
+[21Jun2025 14:22:55.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.235519409179688) to LOW (avg. 30.03338050842285)
+[21Jun2025 14:23:02.707] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.03338050842285) to MEDIUM (avg. 47.94792175292969)
+[21Jun2025 14:23:17.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.94792175292969) to VERY_LOW (avg. 14.884538650512695)
+[21Jun2025 14:23:32.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.884538650512695) to LOW (avg. 26.880102157592773)
+[21Jun2025 14:23:40.140] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.880102157592773) to VERY_LOW (avg. 18.70682144165039)
+[21Jun2025 14:23:52.221] [Worker-Main-304/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/517974, l='ServerLevel[world]', x=-3365.00, y=31.00, z=-329.00] as it would cause deadlock
+[21Jun2025 14:23:59.071] [Worker-Main-303/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/518023, l='ServerLevel[world]', x=-3407.00, y=31.00, z=-282.00] as it would cause deadlock
+[21Jun2025 14:24:05.558] [Worker-Main-304/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/518091, l='ServerLevel[world]', x=-3394.00, y=31.00, z=-113.00] as it would cause deadlock
+[21Jun2025 14:24:11.475] [Worker-Main-291/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/518186, l='ServerLevel[world]', x=-3465.00, y=31.00, z=-362.00] as it would cause deadlock
+[21Jun2025 14:24:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.720856666564941) to LOW (avg. 25.428260803222656)
+[21Jun2025 14:24:25.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Jun2025 14:24:40.386] [Worker-Main-302/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/518629, l='ServerLevel[world]', x=-3573.00, y=31.00, z=27.00] as it would cause deadlock
+[21Jun2025 14:24:40.387] [Worker-Main-302/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/518631, l='ServerLevel[world]', x=-3573.00, y=31.00, z=28.00] as it would cause deadlock
+[21Jun2025 14:24:46.177] [Worker-Main-302/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/518820, l='ServerLevel[world]', x=-3528.00, y=31.00, z=82.00] as it would cause deadlock
+[21Jun2025 14:24:47.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 36.18544006347656) to VERY_LOW (avg. 17.20174789428711)
+[21Jun2025 14:25:10.085] [Worker-Main-291/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/519242, l='ServerLevel[world]', x=-3877.00, y=31.00, z=-178.00] as it would cause deadlock
+[21Jun2025 14:25:10.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.183164596557617) to LOW (avg. 24.45950698852539)
+[21Jun2025 14:25:13.573] [Worker-Main-303/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/519299, l='ServerLevel[world]', x=-3918.00, y=31.00, z=-183.00] as it would cause deadlock
+[21Jun2025 14:25:25.140] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.45950698852539) to VERY_LOW (avg. 13.222269058227539)
+[21Jun2025 14:25:31.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [The Dust Settles]
+[21Jun2025 14:25:32.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.222269058227539) to LOW (avg. 32.734291076660156)
+[21Jun2025 14:25:55.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.891582489013672) to VERY_LOW (avg. 14.253487586975098)
+[21Jun2025 14:26:25.149] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.07979679107666) to LOW (avg. 30.761531829833984)
+[21Jun2025 14:26:25.471] [Worker-Main-301/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/519860, l='ServerLevel[world]', x=-4244.00, y=31.00, z=-88.00] as it would cause deadlock
+[21Jun2025 14:26:32.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.761531829833984) to VERY_LOW (avg. 18.291790008544922)
+[21Jun2025 14:27:17.640] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.401378631591797) to LOW (avg. 21.339881896972656)
+[21Jun2025 14:27:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.339881896972656) to VERY_LOW (avg. 14.749881744384766)
+[21Jun2025 14:28:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.720612525939941) to LOW (avg. 24.016687393188477)
+[21Jun2025 14:28:36.272] [Worker-Main-302/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/520993, l='ServerLevel[world]', x=-4877.00, y=31.00, z=252.00] as it would cause deadlock
+[21Jun2025 14:29:17.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.180566787719727) to VERY_LOW (avg. 17.496103286743164)
+[21Jun2025 14:29:25.140] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.496103286743164) to LOW (avg. 34.983245849609375)
+[21Jun2025 14:29:47.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.204984664916992) to VERY_LOW (avg. 13.17531681060791)
+[21Jun2025 14:29:54.470] [Worker-Main-304/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/522194, l='ServerLevel[world]', x=-5214.00, y=31.00, z=625.00] as it would cause deadlock
+[21Jun2025 14:29:57.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [The Soul Fortress]
+[21Jun2025 14:30:16.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Lava Eater
+[21Jun2025 14:30:16.071] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 14:30:17.690] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 14:30:25.140] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 4.770396709442139) to LOW (avg. 31.160181045532227)
+[21Jun2025 14:30:32.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.160181045532227) to VERY_LOW (avg. 14.350988388061523)
+[21Jun2025 14:30:32.749] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Avión'/522631, l='ServerLevel[world]', x=-5163.55, y=91.00, z=461.06] died: Avión was slain by Lava Eater
+[21Jun2025 14:30:47.681] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.350988388061523) to NORMAL (avg. 42.76031494140625)
+[21Jun2025 14:30:55.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.76031494140625) to LOW (avg. 26.895915985107422)
+[21Jun2025 14:31:10.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.895915985107422) to VERY_LOW (avg. 18.725400924682617)
+[21Jun2025 14:31:40.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.61673355102539) to LOW (avg. 20.496416091918945)
+[21Jun2025 14:31:47.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.496416091918945) to VERY_LOW (avg. 16.920791625976562)
+[21Jun2025 14:31:55.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.920791625976562) to LOW (avg. 20.729337692260742)
