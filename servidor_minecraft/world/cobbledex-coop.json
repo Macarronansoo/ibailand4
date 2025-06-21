@@ -1969,6 +1969,14 @@
         "discoveredTimestamp": 1750518038553,
         "caughtTimestamp": 1750518038553
       }
+    },
+    "lugia": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750518900207,
+        "caughtTimestamp": 1750518900207
+      }
     }
   }
 }

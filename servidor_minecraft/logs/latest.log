@@ -3038,3 +3038,8 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 14:59:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.36504364013672) to LOW (avg. 23.932571411132812)
 [21Jun2025 14:59:32.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.932571411132812) to VERY_LOW (avg. 17.035615921020508)
 [21Jun2025 14:59:52.040] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 15:12:41.504] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 67e4faf5-c975-4fe3-9c66-5cf0588e1ffd
+[21Jun2025 15:12:41.504] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 67e4faf5-c975-4fe3-9c66-5cf0588e1ffd
+[21Jun2025 15:14:05.988] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 15:19:39.950] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[21Jun2025 15:19:39.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game

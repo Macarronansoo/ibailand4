@@ -1217,6 +1217,14 @@
             "discoveredTimestamp": 1750518038552,
             "caughtTimestamp": 1750518038552
           }
+        },
+        "lugia": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750518900206,
+            "caughtTimestamp": 1750518900206
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1237,21 +1245,21 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 95,
+    "totalCaptureCount": 96,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 42,
-    "totalBattleVictoryCount": 173,
+    "totalBattleVictoryCount": 174,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 173,
+    "totalPvWBattleVictoryCount": 174,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 4,
     "totalTradedCount": 10,
     "totalTypeCaptureCounts": {
       "grass": 13,
-      "psychic": 3,
+      "psychic": 4,
       "water": 6,
       "normal": 24,
-      "flying": 22,
+      "flying": 23,
       "ground": 5,
       "fire": 11,
       "steel": 6,
