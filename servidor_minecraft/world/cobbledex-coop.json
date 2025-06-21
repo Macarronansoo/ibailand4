@@ -1800,6 +1800,46 @@
         "discoveredTimestamp": 1750502295874,
         "caughtTimestamp": 1750502295874
       }
+    },
+    "annihilape": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750503184086,
+        "caughtTimestamp": 1750503184086
+      }
+    },
+    "salandit": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750503295011,
+        "caughtTimestamp": 1750503295011
+      }
+    },
+    "klink": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750503404215,
+        "caughtTimestamp": 1750503404215
+      }
+    },
+    "spinarak": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750503769668,
+        "caughtTimestamp": 1750503769668
+      }
+    },
+    "seaking": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750503921266,
+        "caughtTimestamp": 1750503921266
+      }
     }
   }
 }

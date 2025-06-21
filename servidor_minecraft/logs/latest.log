@@ -2378,3 +2378,105 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 10:45:50.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was shot by Skeleton
 [21Jun2025 10:45:50.483] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [21Jun2025 10:48:56.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.4267578125) to VERY_LOW (avg. 19.229265213012695)
+[21Jun2025 10:49:11.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.229265213012695) to LOW (avg. 22.212934494018555)
+[21Jun2025 10:49:40.317] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/300320, l='ServerLevel[world]', x=-1886.79, y=48.00, z=662.93, removed=DISCARDED]
+[21Jun2025 10:50:45.419] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 0acec9aa-9565-439f-8bbf-3e1efee9c1ff
+[21Jun2025 10:50:45.420] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 0acec9aa-9565-439f-8bbf-3e1efee9c1ff
+[21Jun2025 10:52:31.063] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: cff99173-4bb1-4608-a1e8-d47f6a9f7ab2
+[21Jun2025 10:52:31.063] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: cff99173-4bb1-4608-a1e8-d47f6a9f7ab2
+[21Jun2025 10:53:44.513] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292253, l='ServerLevel[world]', x=-2004.54, y=44.00, z=55.31, removed=DISCARDED]
+[21Jun2025 10:53:46.467] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292253, l='ServerLevel[world]', x=-2004.54, y=44.00, z=55.31, removed=DISCARDED]
+[21Jun2025 10:54:11.970] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/312406, l='ServerLevel[world]', x=-1992.75, y=-8.00, z=692.22, removed=DISCARDED]
+[21Jun2025 10:54:28.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Crabrawler
+[21Jun2025 10:54:28.090] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 10:54:28.204] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/315618, l='ServerLevel[world]', x=-1957.78, y=67.00, z=86.23] died: Paco Pepe was slain by Zombie
+[21Jun2025 10:54:29.367] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 10:55:01.914] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292253, l='ServerLevel[world]', x=-2004.54, y=44.00, z=55.31, removed=DISCARDED]
+[21Jun2025 10:55:38.263] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4e3f1b7e-876d-4cda-bbb7-b8ee57696ae8
+[21Jun2025 10:55:38.264] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 4e3f1b7e-876d-4cda-bbb7-b8ee57696ae8
+[21Jun2025 10:55:42.011] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Poyawebos'/319721, l='ServerLevel[world]', x=-2062.29, y=63.00, z=175.15] died: Poyawebos was slain by Man From The Fog
+[21Jun2025 10:55:45.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Man From The Fog
+[21Jun2025 10:55:45.299] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 10:55:47.022] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 10:56:56.721] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: fd431782-e634-465f-a230-851ce014adea
+[21Jun2025 10:56:56.721] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: fd431782-e634-465f-a230-851ce014adea
+[21Jun2025 10:56:56.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was shot by Skeleton
+[21Jun2025 10:56:56.742] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 10:56:57.921] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 10:57:24.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Mine Turtle!]
+[21Jun2025 10:57:26.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Man From The Fog
+[21Jun2025 10:57:26.439] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 10:57:27.723] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 10:58:04.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Avión (vehicle of AgentePerrote) moved wrongly! 2.025154290973501
+[21Jun2025 10:58:04.859] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Avión (vehicle of AgentePerrote) moved wrongly! 2.025154290973501
+[21Jun2025 10:58:24.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was blown up by Creeper
+[21Jun2025 10:58:24.725] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 10:58:25.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Drowned
+[21Jun2025 10:58:25.426] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[21Jun2025 10:58:25.426] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[21Jun2025 10:58:25.427] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[21Jun2025 10:58:25.427] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[21Jun2025 10:58:25.427] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[21Jun2025 10:58:25.440] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 10:58:26.028] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 10:58:26.706] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 10:58:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.207870483398438) to VERY_LOW (avg. 11.67092227935791)
+[21Jun2025 10:58:41.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.67092227935791) to LOW (avg. 20.490264892578125)
+[21Jun2025 10:58:45.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was shot by Skeleton
+[21Jun2025 10:58:45.727] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 10:58:46.924] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 10:58:48.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> gay
+[21Jun2025 10:59:51.008] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/330029, l='ServerLevel[world]', x=-2034.20, y=65.33, z=215.11] died: Paco Pepe was slain by Zombie
+[21Jun2025 10:59:53.560] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292253, l='ServerLevel[world]', x=-2004.54, y=44.00, z=55.31, removed=DISCARDED]
+[21Jun2025 11:00:04.541] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/325337, l='ServerLevel[world]', x=-2230.34, y=-5.44, z=606.65, removed=DISCARDED]
+[21Jun2025 11:00:11.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was shot by Skeleton
+[21Jun2025 11:00:11.839] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[21Jun2025 11:00:12.965] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 11:00:41.111] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292253, l='ServerLevel[world]', x=-2004.54, y=44.00, z=55.31, removed=DISCARDED]
+[21Jun2025 11:01:23.021] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292253, l='ServerLevel[world]', x=-2004.54, y=44.00, z=55.31, removed=DISCARDED]
+[21Jun2025 11:02:20.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Zombie
+[21Jun2025 11:02:20.930] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 11:02:22.231] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 11:02:26.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> gei
+[21Jun2025 11:02:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.326580047607422) to VERY_LOW (avg. 19.85226058959961)
+[21Jun2025 11:02:27.819] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/325337, l='ServerLevel[world]', x=-2230.34, y=-5.44, z=606.65, removed=DISCARDED]
+[21Jun2025 11:02:34.524] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.85226058959961) to LOW (avg. 27.2110652923584)
+[21Jun2025 11:02:49.563] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292253, l='ServerLevel[world]', x=-2004.54, y=44.00, z=55.31, removed=DISCARDED]
+[21Jun2025 11:03:23.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Quite the Renovation]
+[21Jun2025 11:03:56.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Abductor
+[21Jun2025 11:03:56.436] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 11:03:56.716] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292253, l='ServerLevel[world]', x=-2004.54, y=44.00, z=55.31, removed=DISCARDED]
+[21Jun2025 11:03:58.273] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 11:04:04.337] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/325337, l='ServerLevel[world]', x=-2230.34, y=-5.44, z=606.65, removed=DISCARDED]
+[21Jun2025 11:04:09.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Abductor
+[21Jun2025 11:04:09.779] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 11:04:11.133] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 11:04:31.708] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 48bd67a0-975b-47e5-9589-f5dde1c81808
+[21Jun2025 11:04:31.709] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 48bd67a0-975b-47e5-9589-f5dde1c81808
+[21Jun2025 11:04:34.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.432775497436523) to VERY_LOW (avg. 19.389144897460938)
+[21Jun2025 11:04:46.644] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/325337, l='ServerLevel[world]', x=-2230.34, y=-5.44, z=606.65, removed=DISCARDED]
+[21Jun2025 11:04:49.490] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.389144897460938) to LOW (avg. 23.291887283325195)
+[21Jun2025 11:05:06.217] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Silvana Heartfire'/342745, l='ServerLevel[world]', x=-2234.86, y=-29.00, z=621.14] died: Silvana Heartfire was slain by Avión
+[21Jun2025 11:05:34.663] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292253, l='ServerLevel[world]', x=-2004.54, y=44.00, z=55.31, removed=DISCARDED]
+[21Jun2025 11:06:05.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Zombie
+[21Jun2025 11:06:05.380] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 11:06:06.633] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 11:06:11.682] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/325337, l='ServerLevel[world]', x=-2230.34, y=-5.44, z=606.65, removed=DISCARDED]
+[21Jun2025 11:06:25.321] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/320774, l='ServerLevel[world]', x=-2129.05, y=38.00, z=707.10, removed=DISCARDED]
+[21Jun2025 11:07:01.535] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/320774, l='ServerLevel[world]', x=-2129.05, y=38.00, z=707.10, removed=DISCARDED]
+[21Jun2025 11:07:07.688] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/320774, l='ServerLevel[world]', x=-2129.05, y=38.00, z=707.10, removed=DISCARDED]
+[21Jun2025 11:07:31.514] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292253, l='ServerLevel[world]', x=-2004.54, y=44.00, z=55.31, removed=DISCARDED]
+[21Jun2025 11:07:31.840] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/325337, l='ServerLevel[world]', x=-2230.34, y=-5.44, z=606.65, removed=DISCARDED]
+[21Jun2025 11:07:38.160] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/325337, l='ServerLevel[world]', x=-2230.34, y=-5.44, z=606.65, removed=DISCARDED]
+[21Jun2025 11:08:06.532] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/320365, l='ServerLevel[world]', x=-2055.55, y=21.48, z=764.53, removed=DISCARDED]
+[21Jun2025 11:08:06.631] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/320363, l='ServerLevel[world]', x=-2055.26, y=24.34, z=764.61, removed=DISCARDED]
+[21Jun2025 11:08:12.015] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292253, l='ServerLevel[world]', x=-2004.54, y=44.00, z=55.31, removed=DISCARDED]
+[21Jun2025 11:08:46.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Spider
+[21Jun2025 11:08:46.281] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 11:08:47.372] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 11:08:49.573] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 23.69174575805664) to NORMAL (avg. 40.81336212158203)
+[21Jun2025 11:08:52.687] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/320774, l='ServerLevel[world]', x=-2129.05, y=38.00, z=707.10, removed=DISCARDED]
+[21Jun2025 11:08:52.722] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/320363, l='ServerLevel[world]', x=-2055.26, y=24.34, z=764.61, removed=DISCARDED]
+[21Jun2025 11:08:52.722] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/320365, l='ServerLevel[world]', x=-2055.55, y=21.48, z=764.53, removed=DISCARDED]
+[21Jun2025 11:09:04.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.81336212158203) to LOW (avg. 21.992332458496094)
+[21Jun2025 11:09:11.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/350519, l='ServerLevel[world]', x=-2057.50, y=62.50, z=82.92] died: Paco Pepe was slain by Drowned
