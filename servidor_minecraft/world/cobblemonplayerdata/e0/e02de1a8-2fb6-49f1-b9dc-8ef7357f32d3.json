@@ -1417,6 +1417,14 @@
             "discoveredTimestamp": 1750506285314,
             "caughtTimestamp": 1750506285314
           }
+        },
+        "snorunt": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750506690813,
+            "caughtTimestamp": 1750506690813
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1439,7 +1447,7 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 104,
+    "totalCaptureCount": 105,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 66,
     "totalBattleVictoryCount": 228,
@@ -1455,7 +1463,7 @@
       "water": 25,
       "ghost": 4,
       "fire": 1,
-      "ice": 1,
+      "ice": 2,
       "fairy": 9,
       "normal": 27,
       "flying": 16,

@@ -1912,6 +1912,14 @@
         "discoveredTimestamp": 1750506285315,
         "caughtTimestamp": 1750506285315
       }
+    },
+    "snorunt": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750506690814,
+        "caughtTimestamp": 1750506690814
+      }
     }
   }
 }
