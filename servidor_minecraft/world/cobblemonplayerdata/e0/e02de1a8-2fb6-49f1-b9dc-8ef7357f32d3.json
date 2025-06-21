@@ -1267,6 +1267,30 @@
             "discoveredTimestamp": 1750500728121,
             "caughtTimestamp": 1750500728121
           }
+        },
+        "jigglypuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750502075207,
+            "caughtTimestamp": 1750502075207
+          }
+        },
+        "dragalge": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750502295873,
+            "caughtTimestamp": 1750502295873
+          }
+        },
+        "araquanid": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750502307190,
+            "caughtTimestamp": 1750502307190
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1288,12 +1312,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 92,
+    "totalCaptureCount": 94,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 58,
-    "totalBattleVictoryCount": 177,
+    "totalEvolvedCount": 60,
+    "totalBattleVictoryCount": 188,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 177,
+    "totalPvWBattleVictoryCount": 188,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 10,
@@ -1305,13 +1329,13 @@
       "ghost": 4,
       "fire": 1,
       "ice": 1,
-      "fairy": 6,
-      "normal": 25,
+      "fairy": 8,
+      "normal": 26,
       "flying": 16,
       "ground": 6,
       "grass": 15,
       "fighting": 4,
-      "psychic": 4,
+      "psychic": 5,
       "electric": 4,
       "dark": 4
     },
@@ -1325,9 +1349,9 @@
       "cobblemon:miltank": 2,
       "cobblemon:lilligant": 1,
       "cobblemon:snorunt": 1,
-      "cobblemon:krabby": 2,
+      "cobblemon:krabby": 4,
       "cobblemon:petilil": 2,
-      "cobblemon:tauros": 9,
+      "cobblemon:tauros": 10,
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 5,
       "cobblemon:butterfree": 7,
@@ -1344,7 +1368,7 @@
       "cobblemon:orbeetle": 1,
       "cobblemon:swellow": 1,
       "cobblemon:hoppip": 1,
-      "cobblemon:pelipper": 5,
+      "cobblemon:pelipper": 7,
       "cobblemon:rapidash": 1,
       "cobblemon:pineco": 1,
       "cobblemon:ninjask": 1,
@@ -1362,7 +1386,11 @@
       "cobblemon:swanna": 1,
       "cobblemon:pidgeot": 1,
       "cobblemon:jumpluff": 1,
-      "cobblemon:beedrill": 1
+      "cobblemon:beedrill": 1,
+      "cobblemon:golisopod": 1,
+      "cobblemon:drilbur": 1,
+      "cobblemon:lechonk": 1,
+      "cobblemon:dewpider": 1
     },
     "aspectsCollected": {}
   }

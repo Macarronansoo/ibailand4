@@ -2346,3 +2346,16 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 10:28:19.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.260597229003906) to LOW (avg. 20.259994506835938)
 [21Jun2025 10:28:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.259994506835938) to VERY_LOW (avg. 19.947641372680664)
 [21Jun2025 10:28:34.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.947641372680664) to LOW (avg. 21.55586051940918)
+[21Jun2025 10:28:49.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.55586051940918) to VERY_LOW (avg. 17.556838989257812)
+[21Jun2025 10:29:19.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.319795608520508) to LOW (avg. 20.31753921508789)
+[21Jun2025 10:29:34.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.31753921508789) to VERY_LOW (avg. 17.595073699951172)
+[21Jun2025 10:30:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.813161849975586) to LOW (avg. 20.02535629272461)
+[21Jun2025 10:30:41.990] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.02535629272461) to VERY_LOW (avg. 19.43410873413086)
+[21Jun2025 10:31:26.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.72110366821289) to LOW (avg. 20.38799476623535)
+[21Jun2025 10:31:41.991] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.38799476623535) to VERY_LOW (avg. 17.995391845703125)
+[21Jun2025 10:35:04.516] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.377948760986328) to LOW (avg. 21.974424362182617)
+[21Jun2025 10:35:21.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Vivillon
+[21Jun2025 10:35:21.723] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 10:35:34.491] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.75224494934082) to VERY_LOW (avg. 14.471136093139648)
+[21Jun2025 10:36:48.000] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/277925, l='ServerLevel[world]', x=-1867.30, y=-4.00, z=266.70] died: Angry Creeper suffocated in a wall
+[21Jun2025 10:38:49.509] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.55398178100586) to LOW (avg. 22.31853675842285)
