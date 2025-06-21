@@ -3001,3 +3001,22 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 14:40:47.640] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.196718215942383) to LOW (avg. 27.25253677368164)
 [21Jun2025 14:41:06.201] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Pepito'/527406, l='ServerLevel[world]', x=-5757.63, y=49.52, z=432.63] died: Pepito tried to swim in lava to escape Straddler
 [21Jun2025 14:41:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.323017120361328) to VERY_LOW (avg. 15.153299331665039)
+[21Jun2025 14:44:42.555] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Avión'/527230, l='ServerLevel[world]', x=-5934.96, y=89.61, z=359.21] died: Avión was fireballed by Ghast
+[21Jun2025 14:44:44.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was doomed to fall by Ghast
+[21Jun2025 14:44:44.426] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[21Jun2025 14:44:45.788] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/317580, l='ServerLevel[world]', x=-1839.33, y=68.00, z=253.12, removed=DISCARDED]
+[21Jun2025 14:44:47.645] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.024112701416016) to LOW (avg. 29.498123168945312)
+[21Jun2025 14:45:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.878629684448242) to VERY_LOW (avg. 18.79718017578125)
+[21Jun2025 14:45:32.640] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.79718017578125) to LOW (avg. 23.609617233276367)
+[21Jun2025 14:45:36.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -7.625904664605514,-0.7648654718300776,-6.571264018077386
+[21Jun2025 14:45:36.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Bombardiro (vehicle of AgentePerrote) moved too quickly! -7.778856170991276,-0.16486544798821967,-6.741154222957391
+[21Jun2025 14:47:07.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Agente a server operator
+[21Jun2025 14:47:14.362] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to PEACEFUL with a 1.0 factor.
+[21Jun2025 14:47:14.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: The difficulty has been set to Peaceful]
+[21Jun2025 14:47:17.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.72237777709961) to VERY_LOW (avg. 14.651435852050781)
+[21Jun2025 14:49:45.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> a
+[21Jun2025 14:51:03.751] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to EASY with a 0.9 factor.
+[21Jun2025 14:51:03.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AgentePerrote: The difficulty has been set to Easy]
+[21Jun2025 14:51:14.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Agente no longer a server operator
+[21Jun2025 14:51:25.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.67054557800293) to LOW (avg. 20.852214813232422)
+[21Jun2025 14:51:40.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.852214813232422) to VERY_LOW (avg. 15.887290954589844)

@@ -1201,6 +1201,14 @@
             "discoveredTimestamp": 1750516929607,
             "caughtTimestamp": 1750516929607
           }
+        },
+        "darumaka": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750517356306,
+            "caughtTimestamp": 1750517356306
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1221,14 +1229,14 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 94,
+    "totalCaptureCount": 95,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 41,
-    "totalBattleVictoryCount": 172,
+    "totalBattleVictoryCount": 173,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 172,
+    "totalPvWBattleVictoryCount": 173,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 3,
+    "totalShinyCaptureCount": 4,
     "totalTradedCount": 10,
     "totalTypeCaptureCounts": {
       "grass": 13,
@@ -1237,7 +1245,7 @@
       "normal": 24,
       "flying": 22,
       "ground": 5,
-      "fire": 10,
+      "fire": 11,
       "steel": 6,
       "dark": 5,
       "ice": 1,

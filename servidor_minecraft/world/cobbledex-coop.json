@@ -1953,6 +1953,14 @@
         "discoveredTimestamp": 1750516929608,
         "caughtTimestamp": 1750516929608
       }
+    },
+    "darumaka": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750517356307,
+        "caughtTimestamp": 1750517356307
+      }
     }
   }
 }
