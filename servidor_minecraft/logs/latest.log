@@ -2862,3 +2862,7 @@ java.lang.IllegalArgumentException: bound must be positive
 [21Jun2025 13:40:47.641] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 32.45921325683594) to VERY_LOW (avg. 18.479188919067383)
 [21Jun2025 13:40:55.184] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.479188919067383) to MEDIUM (avg. 46.24262619018555)
 [21Jun2025 13:41:10.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 46.24262619018555) to VERY_LOW (avg. 19.253753662109375)
+[21Jun2025 13:41:32.640] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.033742904663086) to LOW (avg. 20.589866638183594)
+[21Jun2025 13:41:54.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[21Jun2025 13:41:54.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
+[21Jun2025 13:41:55.141] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.136390686035156) to VERY_LOW (avg. 5.262386798858643)
