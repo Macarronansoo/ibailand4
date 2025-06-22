@@ -1446,6 +1446,22 @@
             "discoveredTimestamp": 1750593908143,
             "caughtTimestamp": 1750593908143
           }
+        },
+        "poliwhirl": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750594597316,
+            "caughtTimestamp": 1750594597316
+          }
+        },
+        "politoed": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750594601916,
+            "caughtTimestamp": 1750594601916
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1470,13 +1486,13 @@
   "advancementData": {
     "totalCaptureCount": 113,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 48,
+    "totalEvolvedCount": 49,
     "totalBattleVictoryCount": 192,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 192,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 6,
-    "totalTradedCount": 19,
+    "totalTradedCount": 21,
     "totalTypeCaptureCounts": {
       "grass": 16,
       "psychic": 5,

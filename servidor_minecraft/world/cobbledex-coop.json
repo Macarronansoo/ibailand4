@@ -2408,6 +2408,62 @@
         "discoveredTimestamp": 1750594053139,
         "caughtTimestamp": 1750594053139
       }
+    },
+    "poliwhirl": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750594258963,
+        "caughtTimestamp": 1750594258963
+      }
+    },
+    "marill": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750594422858,
+        "caughtTimestamp": 1750594447295
+      }
+    },
+    "politoed": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750594601917,
+        "caughtTimestamp": 1750594601917
+      }
+    },
+    "marowak": {
+      "alola": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750594639903,
+        "caughtTimestamp": 1750594639903
+      }
+    },
+    "azumarill": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750594642418,
+        "caughtTimestamp": 1750594642418
+      }
+    },
+    "poliwrath": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750594686190,
+        "caughtTimestamp": 1750594686190
+      }
+    },
+    "whirlipede": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750594696492,
+        "caughtTimestamp": 1750594696492
+      }
     }
   }
 }

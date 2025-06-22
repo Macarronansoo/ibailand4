@@ -1872,6 +1872,70 @@
             "discoveredTimestamp": 1750594098564,
             "caughtTimestamp": 1750594098564
           }
+        },
+        "poliwhirl": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750594258961,
+            "caughtTimestamp": 1750594258961
+          }
+        },
+        "marill": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750594422857,
+            "caughtTimestamp": 1750594447293
+          }
+        },
+        "pidgeot": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750594597335,
+            "caughtTimestamp": 1750594597335
+          }
+        },
+        "politoed": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750594607939,
+            "caughtTimestamp": 1750594607939
+          }
+        },
+        "marowak": {
+          "alola": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750594639901,
+            "caughtTimestamp": 1750594639901
+          }
+        },
+        "azumarill": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750594642417,
+            "caughtTimestamp": 1750594642417
+          }
+        },
+        "poliwrath": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750594686188,
+            "caughtTimestamp": 1750594686188
+          }
+        },
+        "whirlipede": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750594696490,
+            "caughtTimestamp": 1750594696490
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1898,24 +1962,24 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 129,
+    "totalCaptureCount": 131,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 95,
-    "totalBattleVictoryCount": 261,
+    "totalEvolvedCount": 101,
+    "totalBattleVictoryCount": 267,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 261,
+    "totalPvWBattleVictoryCount": 267,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
-    "totalTradedCount": 19,
+    "totalTradedCount": 21,
     "totalTypeCaptureCounts": {
       "rock": 7,
       "bug": 14,
       "poison": 12,
-      "water": 25,
+      "water": 27,
       "ghost": 6,
       "fire": 2,
       "ice": 2,
-      "fairy": 12,
+      "fairy": 13,
       "normal": 34,
       "flying": 20,
       "ground": 7,
@@ -1971,7 +2035,7 @@
       "cobblemon:zorua": 1,
       "cobblemon:mudsdale": 1,
       "cobblemon:comfey": 1,
-      "cobblemon:swanna": 1,
+      "cobblemon:swanna": 3,
       "cobblemon:pidgeot": 1,
       "cobblemon:jumpluff": 1,
       "cobblemon:beedrill": 1,
@@ -1990,7 +2054,9 @@
       "cobblemon:ribombee": 1,
       "cobblemon:minior": 1,
       "cobblemon:drowzee": 1,
-      "cobblemon:voltorb": 1
+      "cobblemon:voltorb": 1,
+      "cobblemon:ekans": 1,
+      "cobblemon:dottler": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
