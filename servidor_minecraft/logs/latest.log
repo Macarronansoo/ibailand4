@@ -2146,3 +2146,24 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [22Jun2025 10:06:39.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was blown up by Creeper
 [22Jun2025 10:06:39.064] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
 [22Jun2025 10:06:39.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.373722076416016) to VERY_LOW (avg. 16.57929801940918)
+[22Jun2025 10:07:39.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Naga
+[22Jun2025 10:07:39.609] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 10:07:52.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was blown up by Creeper
+[22Jun2025 10:07:52.866] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 10:08:58.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Naga
+[22Jun2025 10:08:58.957] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 10:10:07.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Crabrawler
+[22Jun2025 10:10:07.808] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 10:10:53.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [The Andesite Age]
+[22Jun2025 10:11:48.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Pelipper
+[22Jun2025 10:11:48.805] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 10:12:19.240] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Avión'/91215, l='ServerLevel[world]', x=-1880.28, y=69.68, z=218.16] died: Avión was slain by Drilbur
+[22Jun2025 10:13:49.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Bonk!]
+[22Jun2025 10:15:46.965] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.138103485107422) to LOW (avg. 30.95948028564453)
+[22Jun2025 10:15:49.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was burnt to a crisp whilst fighting Zombie
+[22Jun2025 10:15:49.704] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 10:15:54.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.95948028564453) to VERY_LOW (avg. 15.646512985229492)
+[22Jun2025 10:16:01.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.646512985229492) to NORMAL (avg. 44.79533386230469)
+[22Jun2025 10:16:03.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 5.27496112) to LOW (avg. 22.438121289999998)
+[22Jun2025 10:16:09.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.79533386230469) to LOW (avg. 37.36936569213867)
+[22Jun2025 10:16:59.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [The Floor is Tears]
