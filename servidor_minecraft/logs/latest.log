@@ -2636,3 +2636,8 @@ java.lang.IllegalArgumentException: bound must be positive
 [22Jun2025 10:45:53.440] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
 [22Jun2025 10:45:53.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
 [22Jun2025 10:47:30.135] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/151156, l='ServerLevel[world]', x=-892.62, y=100.25, z=-610.38, removed=DISCARDED]
+[22Jun2025 10:51:23.040] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/155274, l='ServerLevel[world]', x=-486.59, y=119.16, z=-714.37, removed=DISCARDED]
+[22Jun2025 10:52:42.320] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[22Jun2025 10:52:42.373] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[22Jun2025 10:52:42.373] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[22Jun2025 10:56:32.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [A Lighthouse in Your Eyes]

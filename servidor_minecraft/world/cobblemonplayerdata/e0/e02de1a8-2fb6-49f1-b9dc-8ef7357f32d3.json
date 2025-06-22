@@ -1449,6 +1449,30 @@
             "discoveredTimestamp": 1750589070643,
             "caughtTimestamp": 1750589070643
           }
+        },
+        "rockruff": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750589444840,
+            "caughtTimestamp": 1750589444840
+          }
+        },
+        "axew": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750589518589,
+            "caughtTimestamp": 1750589518589
+          }
+        },
+        "tinkatink": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750589767191,
+            "caughtTimestamp": 1750589767191
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1471,24 +1495,24 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 107,
+    "totalCaptureCount": 110,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 67,
-    "totalBattleVictoryCount": 237,
+    "totalBattleVictoryCount": 240,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 237,
+    "totalPvWBattleVictoryCount": 240,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 10,
     "totalTypeCaptureCounts": {
-      "rock": 6,
+      "rock": 7,
       "bug": 13,
       "poison": 11,
       "water": 25,
       "ghost": 5,
       "fire": 1,
       "ice": 2,
-      "fairy": 9,
+      "fairy": 10,
       "normal": 27,
       "flying": 17,
       "ground": 7,
@@ -1496,7 +1520,9 @@
       "fighting": 4,
       "psychic": 5,
       "electric": 4,
-      "dark": 4
+      "dark": 4,
+      "dragon": 1,
+      "steel": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:flabebe": 1,

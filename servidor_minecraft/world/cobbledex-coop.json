@@ -2088,6 +2088,14 @@
         "discoveredTimestamp": 1750588854595,
         "caughtTimestamp": 1750588854595
       }
+    },
+    "axew": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750589518590,
+        "caughtTimestamp": 1750589518590
+      }
     }
   }
 }
