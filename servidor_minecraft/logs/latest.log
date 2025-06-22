@@ -1958,3 +1958,63 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [22Jun2025 09:09:50.471] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 778.7 μs. 1425/1425 recipes are parallelized.
 [22Jun2025 09:11:16.963] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.107416152954102) to LOW (avg. 20.03574562072754)
 [22Jun2025 09:11:24.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.03574562072754) to VERY_LOW (avg. 14.976873397827148)
+[22Jun2025 09:18:26.592] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[22Jun2025 09:18:28.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:34417] logged in with entity id 8415 at (-905.0984650829598, 161.0, -3054.920317533968)
+[22Jun2025 09:18:29.095] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[22Jun2025 09:18:29.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[22Jun2025 09:18:31.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.822532653808594) to LOW (avg. 23.894062042236328)
+[22Jun2025 09:18:34.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Mankey
+[22Jun2025 09:18:34.313] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 09:18:39.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.894062042236328) to VERY_LOW (avg. 13.564138412475586)
+[22Jun2025 09:19:01.977] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.393310546875) to LOW (avg. 28.601078033447266)
+[22Jun2025 09:19:03.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> qe
+[22Jun2025 09:19:05.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> spo
+[22Jun2025 09:19:09.462] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 28.601078033447266) to VERY_LOW (avg. 18.468807220458984)
+[22Jun2025 09:19:23.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> dormi
+[22Jun2025 09:19:31.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.799367904663086) to LOW (avg. 28.494308471679688)
+[22Jun2025 09:19:36.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> x aora no avlo
+[22Jun2025 09:19:39.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> ko
+[22Jun2025 09:20:12.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Zombie
+[22Jun2025 09:20:12.376] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 09:20:17.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> sobni
+[22Jun2025 09:20:24.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.924293518066406) to VERY_LOW (avg. 18.392929077148438)
+[22Jun2025 09:20:39.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.392929077148438) to LOW (avg. 21.386104583740234)
+[22Jun2025 09:20:52.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> donde esta xarmande
+[22Jun2025 09:20:59.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> illo qe se
+[22Jun2025 09:21:06.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> gay
+[22Jun2025 09:21:11.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: * AgentePerrote le chupa el pioe
+[22Jun2025 09:21:16.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.616653442382812) to VERY_LOW (avg. 19.157896041870117)
+[22Jun2025 09:21:28.441] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/5105, l='ServerLevel[world]', x=-1898.49, y=66.00, z=225.34] died: Angry Creeper was slain by Paco Pepe
+[22Jun2025 09:21:29.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Krabby
+[22Jun2025 09:21:29.782] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[22Jun2025 09:21:35.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> ja
+[22Jun2025 09:21:39.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.036048889160156) to LOW (avg. 26.499042510986328)
+[22Jun2025 09:22:01.930] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.44382667541504) to VERY_LOW (avg. 16.3046932220459)
+[22Jun2025 09:22:16.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.3046932220459) to LOW (avg. 22.017784118652344)
+[22Jun2025 09:22:48.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> macarronanso cuando ve a una menro
+[22Jun2025 09:22:58.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> qien es macarronano
+[22Jun2025 09:23:02.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> ono
+[22Jun2025 09:23:05.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> qn eres tu
+[22Jun2025 09:23:07.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> D.
+[22Jun2025 09:23:37.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> ije ablar por xat es una mierda nose pq estuvimos asi 2 años
+[22Jun2025 09:23:39.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.388267517089844) to VERY_LOW (avg. 19.03522491455078)
+[22Jun2025 09:23:43.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> lit
+[22Jun2025 09:23:54.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.03522491455078) to LOW (avg. 26.199398040771484)
+[22Jun2025 09:24:46.974] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.19854164123535) to VERY_LOW (avg. 17.3273868560791)
+[22Jun2025 09:24:58.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> ije de echo yo te dije de avlar por disco pqe estava asta los guebos de escribir por xat
+[22Jun2025 09:25:01.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.3273868560791) to LOW (avg. 20.118446350097656)
+[22Jun2025 09:25:09.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.118446350097656) to VERY_LOW (avg. 18.771621704101562)
+[22Jun2025 09:25:24.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.771621704101562) to LOW (avg. 20.108516693115234)
+[22Jun2025 09:25:29.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> :v norma
+[22Jun2025 09:25:34.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> illo
+[22Jun2025 09:25:43.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> la peresa gano a la ansieda socail
+[22Jun2025 09:25:46.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.604610443115234) to VERY_LOW (avg. 19.594219207763672)
+[22Jun2025 09:25:48.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> zi
+[22Jun2025 09:25:54.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.594219207763672) to LOW (avg. 21.505754470825195)
+[22Jun2025 09:26:07.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> consegui el hechiso del portal
+[22Jun2025 09:26:09.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.505754470825195) to VERY_LOW (avg. 19.8795223236084)
+[22Jun2025 09:26:20.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> omaga
+[22Jun2025 09:26:24.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.8795223236084) to LOW (avg. 23.209566116333008)
+[22Jun2025 09:26:30.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> ditto
+[22Jun2025 09:26:32.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> :O
+[22Jun2025 09:26:35.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> pitto
