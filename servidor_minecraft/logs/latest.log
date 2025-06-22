@@ -2055,3 +2055,22 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [22Jun2025 09:36:00.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> zzzzzzzzzzz
 [22Jun2025 09:36:46.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.819604873657227) to LOW (avg. 21.469690322875977)
 [22Jun2025 09:36:50.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> sextin
+[22Jun2025 09:37:24.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.232227325439453) to VERY_LOW (avg. 19.792865753173828)
+[22Jun2025 09:37:39.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.792865753173828) to LOW (avg. 20.89733123779297)
+[22Jun2025 09:38:01.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.290576934814453) to VERY_LOW (avg. 18.662494659423828)
+[22Jun2025 09:38:09.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.662494659423828) to LOW (avg. 23.420753479003906)
+[22Jun2025 09:38:31.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 23.266164779663086) to VERY_LOW (avg. 19.835039138793945)
+[22Jun2025 09:38:39.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.835039138793945) to LOW (avg. 35.00624084472656)
+[22Jun2025 09:38:42.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Best Friends Forever]
+[22Jun2025 09:38:59.192] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Avión'/46506, l='ServerLevel[world]', x=-994.76, y=155.66, z=-3022.01] died: Avión was slain by Taillow
+[22Jun2025 09:39:01.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.963897705078125) to VERY_LOW (avg. 19.994619369506836)
+[22Jun2025 09:39:09.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.994619369506836) to LOW (avg. 21.037885665893555)
+[22Jun2025 09:39:39.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.77123260498047) to VERY_LOW (avg. 19.023488998413086)
+[22Jun2025 09:39:54.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.023488998413086) to LOW (avg. 20.65250015258789)
+[22Jun2025 09:40:16.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.185686111450195) to VERY_LOW (avg. 19.663305282592773)
+[22Jun2025 09:40:24.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.663305282592773) to LOW (avg. 22.216089248657227)
+[22Jun2025 09:41:16.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.614864349365234) to VERY_LOW (avg. 19.42072105407715)
+[22Jun2025 09:46:18.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Spider
+[22Jun2025 09:46:18.562] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 09:46:29.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Spider
+[22Jun2025 09:46:29.561] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved

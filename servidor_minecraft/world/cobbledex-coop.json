@@ -2049,6 +2049,21 @@
         "discoveredTimestamp": 1750525403089,
         "caughtTimestamp": 1750525403089
       }
+    },
+    "ditto": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750585043163,
+        "caughtTimestamp": 1750585043163
+      }
+    },
+    "riolu": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750585189398
+      }
     }
   }
 }

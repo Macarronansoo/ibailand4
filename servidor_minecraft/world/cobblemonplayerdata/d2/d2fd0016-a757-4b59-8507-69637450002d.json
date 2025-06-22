@@ -1297,6 +1297,21 @@
             "discoveredTimestamp": 1750525403086,
             "caughtTimestamp": 1750525403086
           }
+        },
+        "ditto": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750585043160,
+            "caughtTimestamp": 1750585043160
+          }
+        },
+        "riolu": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750585189397
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1318,12 +1333,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 105,
+    "totalCaptureCount": 106,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 42,
-    "totalBattleVictoryCount": 185,
+    "totalBattleVictoryCount": 187,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 185,
+    "totalPvWBattleVictoryCount": 187,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 4,
     "totalTradedCount": 10,
@@ -1331,7 +1346,7 @@
       "grass": 16,
       "psychic": 5,
       "water": 6,
-      "normal": 24,
+      "normal": 25,
       "flying": 25,
       "ground": 5,
       "fire": 11,
@@ -1389,7 +1404,8 @@
       "cobblemon:gimmighoul": 5,
       "cobblemon:farfetchd": 1,
       "cobblemon:beedrill": 1,
-      "cobblemon:voltorb": 1
+      "cobblemon:voltorb": 1,
+      "cobblemon:riolu": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
