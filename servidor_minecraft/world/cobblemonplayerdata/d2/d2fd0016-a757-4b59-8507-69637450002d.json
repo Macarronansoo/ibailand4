@@ -1407,6 +1407,45 @@
             "discoveredTimestamp": 1750593340899,
             "caughtTimestamp": 1750593340899
           }
+        },
+        "feebas": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593572187,
+            "caughtTimestamp": 1750593586499
+          }
+        },
+        "scizor": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593598843,
+            "caughtTimestamp": 1750593598843
+          }
+        },
+        "megascizor": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750593675229
+          }
+        },
+        "vaporeon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593903342,
+            "caughtTimestamp": 1750593903342
+          }
+        },
+        "flareon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593908143,
+            "caughtTimestamp": 1750593908143
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1422,7 +1461,8 @@
         "105",
         "120",
         "135",
-        "150"
+        "150",
+        "165"
       ],
       "name": "Cobbledex_RewardHistory"
     }
@@ -1436,7 +1476,7 @@
     "totalPvWBattleVictoryCount": 192,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 6,
-    "totalTradedCount": 14,
+    "totalTradedCount": 19,
     "totalTypeCaptureCounts": {
       "grass": 16,
       "psychic": 5,
