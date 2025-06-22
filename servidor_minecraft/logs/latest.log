@@ -2074,3 +2074,21 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [22Jun2025 09:46:18.562] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
 [22Jun2025 09:46:29.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Spider
 [22Jun2025 09:46:29.561] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 09:47:09.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.15860366821289) to LOW (avg. 24.627607345581055)
+[22Jun2025 09:47:16.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 24.627607345581055) to NORMAL (avg. 40.23258972167969)
+[22Jun2025 09:47:18.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 33.97449104) to NORMAL (avg. 36.8174904)
+[22Jun2025 09:47:24.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.23258972167969) to LOW (avg. 32.38045120239258)
+[22Jun2025 09:47:54.456] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 39.25286102294922) to MEDIUM (avg. 47.81634521484375)
+[22Jun2025 09:48:09.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from MEDIUM (avg. 47.81634521484375) to VERY_LOW (avg. 18.854795455932617)
+[22Jun2025 09:48:31.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.719242095947266) to LOW (avg. 20.37863540649414)
+[22Jun2025 09:48:39.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.37863540649414) to VERY_LOW (avg. 17.79967498779297)
+[22Jun2025 09:48:54.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.79967498779297) to LOW (avg. 24.484516143798828)
+[22Jun2025 09:49:09.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.484516143798828) to VERY_LOW (avg. 19.57904052734375)
+[22Jun2025 09:52:31.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.887025833129883) to LOW (avg. 21.799373626708984)
+[22Jun2025 09:53:01.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.466201782226562) to VERY_LOW (avg. 17.770727157592773)
+[22Jun2025 09:53:54.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.493629455566406) to LOW (avg. 20.351791381835938)
+[22Jun2025 09:54:16.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.310562133789062) to VERY_LOW (avg. 19.258514404296875)
+[22Jun2025 09:55:24.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.4608097076416) to LOW (avg. 20.342361450195312)
+[22Jun2025 09:55:31.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.342361450195312) to VERY_LOW (avg. 18.614051818847656)
+[22Jun2025 09:56:16.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.009965896606445) to LOW (avg. 20.326122283935547)
+[22Jun2025 09:56:24.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.326122283935547) to VERY_LOW (avg. 19.007125854492188)
