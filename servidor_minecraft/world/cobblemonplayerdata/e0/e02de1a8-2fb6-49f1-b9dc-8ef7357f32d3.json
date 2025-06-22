@@ -1425,6 +1425,30 @@
             "discoveredTimestamp": 1750506690813,
             "caughtTimestamp": 1750506690813
           }
+        },
+        "phantump": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750588728092,
+            "caughtTimestamp": 1750588728092
+          }
+        },
+        "corviknight": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750588854594,
+            "caughtTimestamp": 1750588854594
+          }
+        },
+        "minior": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750589070643,
+            "caughtTimestamp": 1750589070643
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1447,28 +1471,28 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 105,
+    "totalCaptureCount": 107,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 66,
-    "totalBattleVictoryCount": 234,
+    "totalEvolvedCount": 67,
+    "totalBattleVictoryCount": 237,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 234,
+    "totalPvWBattleVictoryCount": 237,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 10,
     "totalTypeCaptureCounts": {
-      "rock": 5,
+      "rock": 6,
       "bug": 13,
       "poison": 11,
       "water": 25,
-      "ghost": 4,
+      "ghost": 5,
       "fire": 1,
       "ice": 2,
       "fairy": 9,
       "normal": 27,
-      "flying": 16,
+      "flying": 17,
       "ground": 7,
-      "grass": 15,
+      "grass": 16,
       "fighting": 4,
       "psychic": 5,
       "electric": 4,
@@ -1486,7 +1510,7 @@
       "cobblemon:snorunt": 1,
       "cobblemon:krabby": 5,
       "cobblemon:petilil": 2,
-      "cobblemon:tauros": 11,
+      "cobblemon:tauros": 12,
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 6,
       "cobblemon:butterfree": 13,
