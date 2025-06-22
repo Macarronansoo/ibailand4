@@ -2759,3 +2759,5 @@ java.lang.IllegalArgumentException: bound must be positive
 [22Jun2025 12:15:36.289] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: cdcb892b-0b1c-4b54-b164-0f01819fd11e
 [22Jun2025 12:15:36.289] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: cdcb892b-0b1c-4b54-b164-0f01819fd11e
 [22Jun2025 12:19:01.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Order Up!]
+[22Jun2025 12:19:57.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Disconnected
+[22Jun2025 12:19:57.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
