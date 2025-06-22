@@ -1955,3 +1955,6 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [22Jun2025 09:04:54.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.426809310913086) to VERY_LOW (avg. 15.048190116882324)
 [22Jun2025 09:05:28.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Ansoooooo a server operator
 [22Jun2025 09:05:32.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Ansoooooo no longer a server operator
+[22Jun2025 09:09:50.471] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 778.7 μs. 1425/1425 recipes are parallelized.
+[22Jun2025 09:11:16.963] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 10.107416152954102) to LOW (avg. 20.03574562072754)
+[22Jun2025 09:11:24.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.03574562072754) to VERY_LOW (avg. 14.976873397827148)
