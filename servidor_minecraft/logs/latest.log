@@ -2167,3 +2167,34 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [22Jun2025 10:16:03.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 5.27496112) to LOW (avg. 22.438121289999998)
 [22Jun2025 10:16:09.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 44.79533386230469) to LOW (avg. 37.36936569213867)
 [22Jun2025 10:16:59.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [The Floor is Tears]
+[22Jun2025 10:17:46.992] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ff74c11f-0c8d-4252-83de-380798f40258
+[22Jun2025 10:17:46.992] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ff74c11f-0c8d-4252-83de-380798f40258
+[22Jun2025 10:17:46.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was burnt to a crisp whilst fighting Ghast
+[22Jun2025 10:17:47.031] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 10:18:15.476] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: cce37cba-d85c-4cd7-9169-26df58ba2664
+[22Jun2025 10:18:15.476] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: cce37cba-d85c-4cd7-9169-26df58ba2664
+[22Jun2025 10:18:37.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Soul Vulture
+[22Jun2025 10:18:37.724] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 10:19:34.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote tried to swim in lava to escape Ghast
+[22Jun2025 10:19:34.326] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 10:20:23.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote burned to death
+[22Jun2025 10:20:23.645] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 10:20:52.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was shot by Skeleton
+[22Jun2025 10:20:52.876] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[22Jun2025 10:21:02.085] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 23.451885223388672) to VERY_HIGH (avg. 55.535362243652344)
+[22Jun2025 10:21:09.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from VERY_HIGH (avg. 55.535362243652344) to LOW (avg. 38.4793701171875)
+[22Jun2025 10:21:16.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Zombie
+[22Jun2025 10:21:16.955] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[22Jun2025 10:21:17.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was doomed to fall
+[22Jun2025 10:21:17.834] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 10:21:24.429] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 38.4793701171875) to VERY_LOW (avg. 14.114025115966797)
+[22Jun2025 10:21:36.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Crimson Mosquito
+[22Jun2025 10:21:36.973] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[22Jun2025 10:21:46.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.371835708618164) to LOW (avg. 29.160112380981445)
+[22Jun2025 10:21:50.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was blown up by Creeper
+[22Jun2025 10:21:50.967] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[22Jun2025 10:21:50.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved wrongly!
+[22Jun2025 10:22:01.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 29.160112380981445) to VERY_LOW (avg. 15.404411315917969)
+[22Jun2025 10:22:10.345] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] Game difficulty is set to PEACEFUL with a 1.0 factor.
+[22Jun2025 10:22:10.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Peaceful
+[22Jun2025 10:22:29.813] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:smelting in 130.9 μs. 293/293 recipes are parallelized.

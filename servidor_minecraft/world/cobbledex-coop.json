@@ -2064,6 +2064,22 @@
         "status": "SEEN",
         "discoveredTimestamp": 1750585189398
       }
+    },
+    "litwick": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750587498115,
+        "caughtTimestamp": 1750587498115
+      }
+    },
+    "nacli": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750587566212,
+        "caughtTimestamp": 1750587566212
+      }
     }
   }
 }
