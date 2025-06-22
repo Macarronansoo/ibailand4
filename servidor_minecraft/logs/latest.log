@@ -2761,3 +2761,5 @@ java.lang.IllegalArgumentException: bound must be positive
 [22Jun2025 12:19:01.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Order Up!]
 [22Jun2025 12:19:57.988] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Disconnected
 [22Jun2025 12:19:57.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
+[22Jun2025 12:36:59.340] [Server thread/INFO] [fastsuite/]: Constructed recipe list for create:milling in 35.22 μs. 0/100 recipes are parallelized.
+[22Jun2025 12:39:28.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [The Brass Age]
