@@ -1478,6 +1478,14 @@
             "discoveredTimestamp": 1750600079512,
             "caughtTimestamp": 1750600079512
           }
+        },
+        "golisopod": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750607794440,
+            "caughtTimestamp": 1750607794440
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1500,19 +1508,19 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 114,
+    "totalCaptureCount": 116,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 50,
-    "totalBattleVictoryCount": 193,
+    "totalBattleVictoryCount": 195,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 193,
+    "totalPvWBattleVictoryCount": 195,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 6,
     "totalTradedCount": 21,
     "totalTypeCaptureCounts": {
       "grass": 16,
       "psychic": 5,
-      "water": 6,
+      "water": 8,
       "normal": 27,
       "flying": 26,
       "ground": 6,
@@ -1521,7 +1529,7 @@
       "dark": 6,
       "ice": 1,
       "fighting": 8,
-      "bug": 15,
+      "bug": 17,
       "electric": 4,
       "fairy": 9,
       "rock": 8,

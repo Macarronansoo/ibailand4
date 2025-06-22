@@ -2763,3 +2763,5 @@ java.lang.IllegalArgumentException: bound must be positive
 [22Jun2025 12:19:57.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
 [22Jun2025 12:36:59.340] [Server thread/INFO] [fastsuite/]: Constructed recipe list for create:milling in 35.22 μs. 0/100 recipes are parallelized.
 [22Jun2025 12:39:28.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [The Brass Age]
+[22Jun2025 15:56:49.538] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a6559bfc-95c0-4cd9-bb29-7c411f5c6ebf
+[22Jun2025 15:56:49.540] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: a6559bfc-95c0-4cd9-bb29-7c411f5c6ebf
