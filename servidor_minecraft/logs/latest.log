@@ -2749,3 +2749,5 @@ java.lang.IllegalArgumentException: bound must be positive
 [22Jun2025 11:21:51.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.710479736328125) to LOW (avg. 24.704273223876953)
 [22Jun2025 11:22:06.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.704273223876953) to VERY_LOW (avg. 15.82147216796875)
 [22Jun2025 11:23:35.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Order Up!]
+[22Jun2025 11:29:00.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [How long's this been here?]
+[22Jun2025 11:29:05.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Magery]
