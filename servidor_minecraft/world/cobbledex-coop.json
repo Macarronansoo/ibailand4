@@ -2096,6 +2096,22 @@
         "discoveredTimestamp": 1750589518590,
         "caughtTimestamp": 1750589518590
       }
+    },
+    "misdreavus": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750589923293,
+        "caughtTimestamp": 1750589923293
+      }
+    },
+    "snubbull": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750590380551,
+        "caughtTimestamp": 1750590380551
+      }
     }
   }
 }

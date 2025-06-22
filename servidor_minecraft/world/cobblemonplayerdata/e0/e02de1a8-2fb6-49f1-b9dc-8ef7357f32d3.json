@@ -1473,6 +1473,22 @@
             "discoveredTimestamp": 1750589767191,
             "caughtTimestamp": 1750589767191
           }
+        },
+        "misdreavus": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750589923292,
+            "caughtTimestamp": 1750589923292
+          }
+        },
+        "snubbull": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750590380549,
+            "caughtTimestamp": 1750590380549
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1489,18 +1505,19 @@
         "120",
         "135",
         "150",
-        "165"
+        "165",
+        "180"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 110,
+    "totalCaptureCount": 112,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 67,
-    "totalBattleVictoryCount": 240,
+    "totalBattleVictoryCount": 242,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 240,
+    "totalPvWBattleVictoryCount": 242,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 10,
@@ -1509,10 +1526,10 @@
       "bug": 13,
       "poison": 11,
       "water": 25,
-      "ghost": 5,
+      "ghost": 6,
       "fire": 1,
       "ice": 2,
-      "fairy": 10,
+      "fairy": 11,
       "normal": 27,
       "flying": 17,
       "ground": 7,

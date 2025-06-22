@@ -108,6 +108,7 @@
       "willow_forest": "2025-06-22 10:47:31 +0000",
       "blackwood_taiga": "2025-06-15 09:47:27 +0000",
       "rocky_meadow": "2025-06-20 08:42:43 +0000",
+      "highland_fields": "2025-06-22 11:02:01 +0000",
       "magnolia_highlands": "2025-06-22 10:47:35 +0000",
       "mountains": "2025-06-22 10:52:06 +0000",
       "deciduous_forest": "2025-06-22 10:49:04 +0000",
@@ -125,6 +126,7 @@
       "willow_forest": "2025-06-22 10:47:31 +0000",
       "blackwood_taiga": "2025-06-15 09:47:27 +0000",
       "rocky_meadow": "2025-06-20 08:42:43 +0000",
+      "highland_fields": "2025-06-22 11:02:01 +0000",
       "magnolia_highlands": "2025-06-22 10:47:35 +0000",
       "mountains": "2025-06-22 10:52:06 +0000",
       "deciduous_forest": "2025-06-22 10:49:04 +0000",
@@ -257,12 +259,14 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "fungal_jungle": "2025-06-15 10:01:19 +0000",
+      "highland": "2025-06-22 11:02:02 +0000",
       "jade_cliffs": "2025-06-15 10:07:12 +0000",
       "clover_patch": "2025-06-15 10:52:04 +0000",
       "old_growth_woodland": "2025-06-21 11:17:24 +0000",
       "lavender_forest": "2025-06-16 10:37:18 +0000",
       "moor": "2025-06-22 10:55:49 +0000",
       "mediterranean_forest": "2025-06-16 09:31:01 +0000",
+      "redwood_forest": "2025-06-22 11:02:10 +0000",
       "dune_beach": "2025-06-16 10:37:29 +0000",
       "volcano": "2025-06-15 10:27:15 +0000",
       "rocky_rainforest": "2025-06-15 10:22:57 +0000",
@@ -357,7 +361,9 @@
       "minecraft:jagged_peaks": "2025-06-20 08:44:43 +0000",
       "minecraft:forest": "2025-06-21 11:19:03 +0000",
       "minecraft:ocean": "2025-06-15 10:58:14 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-22 11:01:30 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-16 09:30:29 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-22 11:00:29 +0000",
       "minecraft:plains": "2025-06-16 09:34:46 +0000"
     },
     "done": false
@@ -1296,74 +1302,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 10:55:34 +0000"
+      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-22 10:55:53 +0000",
-      "log_spam_fixer": "2025-06-22 10:55:34 +0000"
+      "requirement": "2025-06-22 11:06:03 +0000",
+      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
     },
     "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 10:55:34 +0000"
+      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 10:55:34 +0000"
+      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 10:55:34 +0000"
+      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 10:55:34 +0000"
+      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 10:55:34 +0000"
+      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 10:55:34 +0000"
+      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 10:55:34 +0000"
+      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 10:55:34 +0000"
+      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 10:55:34 +0000"
+      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 10:55:34 +0000"
+      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
     },
     "done": false
   },
@@ -1379,6 +1385,12 @@
       "yellow": "2025-06-22 10:54:16 +0000"
     },
     "done": false
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-06-22 10:56:32 +0000"
+    },
+    "done": true
   },
   "tombstone:adventure/funeral_theft": {
     "criteria": {

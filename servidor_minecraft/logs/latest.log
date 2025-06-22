@@ -2641,3 +2641,91 @@ java.lang.IllegalArgumentException: bound must be positive
 [22Jun2025 10:52:42.373] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
 [22Jun2025 10:52:42.373] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
 [22Jun2025 10:56:32.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [A Lighthouse in Your Eyes]
+[22Jun2025 10:59:05.582] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[22Jun2025 10:59:05.592] [Worker-Main-2/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[22Jun2025 11:01:41.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -8.98743677218367,0.0,4.657422126013444
+[22Jun2025 11:01:41.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -9.528423313225204,0.0,4.985150566601078
+[22Jun2025 11:01:41.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -10.06818093016733,0.0,5.315919150794343
+[22Jun2025 11:01:41.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -10.606881672383977,0.0,5.6493022584882056
+[22Jun2025 11:01:41.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -11.144673502336715,0.0,5.984933856392672
+[22Jun2025 11:01:41.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -11.680983310380299,0.0,6.32354178862397
+[22Jun2025 11:01:41.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -12.213160697337045,0.0,6.668616726163464
+[22Jun2025 11:01:41.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -12.739560523088116,0.0,7.022129341823529
+[22Jun2025 11:01:41.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -13.260505824641285,0.0,7.3834921350041895
+[22Jun2025 11:01:41.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -13.776760235384202,0.0,7.751606080852298
+[22Jun2025 11:01:41.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -14.288980480030347,0.0,8.125526017994389
+[22Jun2025 11:01:41.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -14.79752777441206,0.0,8.504680075338456
+[22Jun2025 11:01:41.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -15.300943781796676,0.0,8.89055624825346
+[22Jun2025 11:01:41.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -15.797832946496342,0.0,9.284488354645646
+[22Jun2025 11:01:41.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -16.287970678615878,0.0,9.686509327114436
+[22Jun2025 11:01:41.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -16.77203161101035,0.0,10.09575667186732
+[22Jun2025 11:01:41.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -17.250866495641247,0.0,10.511218696784454
+[22Jun2025 11:01:41.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -17.724981639819475,0.0,10.932246086309988
+[22Jun2025 11:01:41.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -18.19492739091416,0.0,11.358167851836242
+[22Jun2025 11:01:41.042] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -18.66128746395698,0.0,11.788298780722698
+[22Jun2025 11:01:41.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -19.12664317540093,0.0,12.219920028343722
+[22Jun2025 11:01:41.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -19.594124832432556,0.0,12.649549115953278
+[22Jun2025 11:01:41.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -20.06635140583073,0.0,13.073922976121821
+[22Jun2025 11:01:41.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -20.54561051733063,0.0,13.489767608967895
+[22Jun2025 11:01:41.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -21.03388270064586,0.0,13.893712978613166
+[22Jun2025 11:01:41.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -21.532939340307948,0.0,14.281996646691596
+[22Jun2025 11:01:41.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -22.043204335093577,0.0,14.652924195286914
+[22Jun2025 11:01:41.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -22.563811229909234,0.0,15.007376051988103
+[22Jun2025 11:01:41.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -23.093975920758652,0.0,15.346075136017362
+[22Jun2025 11:01:41.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -23.632740334472587,0.0,15.670300763951673
+[22Jun2025 11:01:41.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -24.178956725244248,0.0,15.981938258342552
+[22Jun2025 11:01:41.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -24.731581816285527,0.0,16.282749957886153
+[22Jun2025 11:01:41.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -25.289718389558686,0.0,16.574251473861068
+[22Jun2025 11:01:41.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -25.852594837551266,0.0,16.857746231966985
+[22Jun2025 11:01:41.056] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -26.41954757780252,0.0,17.134355178305213
+[22Jun2025 11:01:41.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -26.99023501272127,0.0,17.404454499788244
+[22Jun2025 11:01:41.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -27.564246535883328,0.0,17.668667508795806
+[22Jun2025 11:01:41.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -28.14111677493463,0.0,17.92781828907414
+[22Jun2025 11:01:41.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -28.72044550965066,0.0,18.182615552645302
+[22Jun2025 11:01:41.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -29.30188855063838,0.0,18.433668791848504
+[22Jun2025 11:01:41.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -29.885149895019737,0.29399999999999693,18.6815021700952
+[22Jun2025 11:01:41.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -30.46997498031962,0.5879999999999939,18.92656646791943
+[22Jun2025 11:01:41.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -31.056144882809463,0.8819999999999908,19.169249356580394
+[22Jun2025 11:01:41.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -31.643471328082597,1.1759999999999877,19.40988423336057
+[22Jun2025 11:01:41.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -32.23179240014946,1.1759999999999877,19.648757819923276
+[22Jun2025 11:01:41.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -32.82096885125887,1.1759999999999877,19.886116696899535
+[22Jun2025 11:01:41.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -33.41088092834491,1.1759999999999877,20.122172923630842
+[22Jun2025 11:01:41.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -34.0014256437708,1.1759999999999877,20.357108871151695
+[22Jun2025 11:01:41.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -34.59251442816901,1.1759999999999877,20.591081378551507
+[22Jun2025 11:01:41.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -35.184071111883384,1.1759999999999877,20.824225327447266
+[22Jun2025 11:01:41.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -35.776030189009674,1.1759999999999877,21.056656716029465
+[22Jun2025 11:01:41.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -36.368335324470166,1.1759999999999877,21.2884753027422
+[22Jun2025 11:01:41.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -36.96093807009814,1.1759999999999877,21.51976687984734
+[22Jun2025 11:01:41.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -37.55379676047008,1.1759999999999877,21.750605228689437
+[22Jun2025 11:01:41.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -38.14687556332191,1.1759999999999877,21.9810538012257
+[22Jun2025 11:01:41.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -38.74014366290638,1.1759999999999877,22.21116716613915
+[22Jun2025 11:01:41.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -39.33357455768095,1.1759999999999877,22.440992252496244
+[22Jun2025 11:01:41.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -39.92714545631901,1.1759999999999877,22.67056941929559
+[22Jun2025 11:01:41.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -40.52083675827964,1.1759999999999877,22.89993337527494
+[22Jun2025 11:01:41.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -41.11463160709772,1.1759999999999877,23.12911396994923
+[22Jun2025 11:01:41.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -41.70851550621319,1.1759999999999877,23.358136873901003
+[22Jun2025 11:01:41.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -42.302475988584405,1.1759999999999877,23.58702416383153
+[22Jun2025 11:01:41.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -42.89650233255557,1.1759999999999877,23.815794825703506
+[22Jun2025 11:01:41.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -43.490585317502706,1.1759999999999877,24.04446518744544
+[22Jun2025 11:01:41.070] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -44.08471701368916,1.1759999999999877,24.273049291075267
+[22Jun2025 11:01:41.071] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -44.67900078774326,1.1759999999999877,24.50126976803199
+[22Jun2025 11:01:41.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -45.27384702244606,1.1759999999999877,24.72800742790446
+[22Jun2025 11:01:41.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -45.86946729615582,1.1759999999999877,24.95266864862424
+[22Jun2025 11:01:41.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -46.465804820052995,1.1759999999999877,25.175398423293018
+[22Jun2025 11:01:41.074] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -47.06275917911137,1.1759999999999877,25.396467154358106
+[22Jun2025 11:01:41.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Corviknight (vehicle of Ansoooooo) moved too quickly! -47.66024401640837,1.1759999999999877,25.61610738792365
+[22Jun2025 11:01:41.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
+[22Jun2025 11:01:44.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from NORMAL (avg. 37.50432696) to VERY_HIGH (avg. 52.60963352)
+[22Jun2025 11:01:44.929] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:the_nether changed from LOW (avg. 27.217132) to VERY_LOW (avg. 0.009603200000000001)
+[22Jun2025 11:04:06.301] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[22Jun2025 11:04:08.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:57589] logged in with entity id 170909 at (-1868.8473568557179, 55.0, 251.15369033523913)
+[22Jun2025 11:04:08.690] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[22Jun2025 11:04:08.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[22Jun2025 11:04:28.679] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.834451675415039) to LOW (avg. 21.907787322998047)
+[22Jun2025 11:04:43.679] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.907787322998047) to VERY_LOW (avg. 13.64046859741211)
+[22Jun2025 11:05:36.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.420663833618164) to LOW (avg. 21.039016723632812)
+[22Jun2025 11:05:51.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.039016723632812) to VERY_LOW (avg. 16.86306381225586)
+[22Jun2025 11:06:06.183] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.86306381225586) to LOW (avg. 22.11960220336914)
+[22Jun2025 11:06:13.679] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.11960220336914) to VERY_LOW (avg. 18.21321678161621)
+[22Jun2025 11:07:05.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Best Friends Forever]
+[22Jun2025 11:08:06.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.065980911254883) to LOW (avg. 20.896467208862305)
