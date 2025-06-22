@@ -2729,3 +2729,17 @@ java.lang.IllegalArgumentException: bound must be positive
 [22Jun2025 11:06:13.679] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.11960220336914) to VERY_LOW (avg. 18.21321678161621)
 [22Jun2025 11:07:05.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Best Friends Forever]
 [22Jun2025 11:08:06.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.065980911254883) to LOW (avg. 20.896467208862305)
+[22Jun2025 11:08:36.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.711185455322266) to VERY_LOW (avg. 17.00452423095703)
+[22Jun2025 11:09:06.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.902891159057617) to LOW (avg. 20.0708065032959)
+[22Jun2025 11:09:21.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.0708065032959) to VERY_LOW (avg. 17.697465896606445)
+[22Jun2025 11:11:28.679] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.087149620056152) to LOW (avg. 22.63861083984375)
+[22Jun2025 11:11:36.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.63861083984375) to VERY_LOW (avg. 16.64569091796875)
+[22Jun2025 11:13:01.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has completed the challenge [Premium!]
+[22Jun2025 11:14:06.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.12980079650879) to LOW (avg. 20.673255920410156)
+[22Jun2025 11:14:21.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.673255920410156) to VERY_LOW (avg. 14.979825019836426)
+[22Jun2025 11:16:43.679] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.26153564453125) to LOW (avg. 21.668346405029297)
+[22Jun2025 11:16:58.679] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.668346405029297) to VERY_LOW (avg. 14.096687316894531)
+[22Jun2025 11:17:07.169] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 29bfcc84-f534-4228-9270-5cfc0920bb15
+[22Jun2025 11:17:07.169] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 29bfcc84-f534-4228-9270-5cfc0920bb15
+[22Jun2025 11:18:05.552] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 5cc17a26-71ea-47d1-a1c8-07a529ce8420
+[22Jun2025 11:18:05.552] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 5cc17a26-71ea-47d1-a1c8-07a529ce8420

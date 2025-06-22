@@ -1302,76 +1302,81 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
+      "log_spam_fixer": "2025-06-22 11:15:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-06-22 11:06:03 +0000",
-      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
+      "log_spam_fixer": "2025-06-22 11:15:38 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
+      "log_spam_fixer": "2025-06-22 11:15:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
+      "log_spam_fixer": "2025-06-22 11:15:38 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
+      "log_spam_fixer": "2025-06-22 11:15:38 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
+      "log_spam_fixer": "2025-06-22 11:15:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
+      "log_spam_fixer": "2025-06-22 11:15:38 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
+      "log_spam_fixer": "2025-06-22 11:15:38 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
+      "log_spam_fixer": "2025-06-22 11:15:38 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
+      "log_spam_fixer": "2025-06-22 11:15:38 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
+      "log_spam_fixer": "2025-06-22 11:15:38 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-22 11:05:38 +0000"
+      "log_spam_fixer": "2025-06-22 11:15:38 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-06-22 11:07:05 +0000"
+    },
+    "done": true
   },
   "cobblemon:rainbow_apricorns": {
     "criteria": {
@@ -1392,11 +1397,23 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-06-22 11:13:01 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-06-22 10:42:06 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:black": "2025-06-22 11:07:05 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

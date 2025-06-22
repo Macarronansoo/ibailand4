@@ -588,6 +588,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750407572089,
         "caughtTimestamp": 1750412715641
+      },
+      "paldeablaze": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750590526346,
+        "caughtTimestamp": 1750590526346
       }
     },
     "miltank": {
@@ -617,8 +623,9 @@
     "skitty": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1750408496802
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750408496802,
+        "caughtTimestamp": 1750590610409
       }
     },
     "rampardos": {
@@ -1257,6 +1264,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750432111212,
         "caughtTimestamp": 1750432111212
+      },
+      "galar": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750590582251,
+        "caughtTimestamp": 1750590582251
       }
     },
     "orbeetle": {
@@ -2111,6 +2124,38 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750590380551,
         "caughtTimestamp": 1750590380551
+      }
+    },
+    "squawkabilly": {
+      "yellow": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750590688351,
+        "caughtTimestamp": 1750590688351
+      }
+    },
+    "eevee": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750590994149,
+        "caughtTimestamp": 1750590994149
+      }
+    },
+    "chingling": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750591057252,
+        "caughtTimestamp": 1750591057252
+      }
+    },
+    "koffing": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750591070797,
+        "caughtTimestamp": 1750591070797
       }
     }
   }

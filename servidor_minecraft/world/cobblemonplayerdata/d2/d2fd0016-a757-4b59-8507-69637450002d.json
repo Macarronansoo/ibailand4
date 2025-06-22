@@ -434,6 +434,12 @@
             "status": "CAUGHT",
             "discoveredTimestamp": 1750257289663,
             "caughtTimestamp": 1750257289663
+          },
+          "paldeablaze": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750590526345,
+            "caughtTimestamp": 1750590526345
           }
         },
         "nuzleaf": {
@@ -1357,27 +1363,27 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 110,
+    "totalCaptureCount": 112,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 42,
-    "totalBattleVictoryCount": 190,
+    "totalBattleVictoryCount": 191,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 190,
+    "totalPvWBattleVictoryCount": 191,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 4,
+    "totalShinyCaptureCount": 5,
     "totalTradedCount": 10,
     "totalTypeCaptureCounts": {
       "grass": 16,
       "psychic": 5,
       "water": 6,
-      "normal": 25,
+      "normal": 26,
       "flying": 25,
       "ground": 6,
-      "fire": 12,
+      "fire": 13,
       "steel": 8,
       "dark": 6,
       "ice": 1,
-      "fighting": 7,
+      "fighting": 8,
       "bug": 15,
       "electric": 4,
       "fairy": 9,
