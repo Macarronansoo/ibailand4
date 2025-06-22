@@ -89,9 +89,10 @@
         },
         "zigzagoon": {
           "normal": {
-            "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1749988523710
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749988523710,
+            "caughtTimestamp": 1750592723492
           },
           "galar": {
             "isShiny": false,
@@ -1342,6 +1343,14 @@
             "discoveredTimestamp": 1750587650709,
             "caughtTimestamp": 1750587650709
           }
+        },
+        "darmanitan": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750592806141,
+            "caughtTimestamp": 1750592806141
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1363,20 +1372,20 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 112,
+    "totalCaptureCount": 113,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 42,
-    "totalBattleVictoryCount": 191,
+    "totalEvolvedCount": 43,
+    "totalBattleVictoryCount": 192,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 191,
+    "totalPvWBattleVictoryCount": 192,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 5,
+    "totalShinyCaptureCount": 6,
     "totalTradedCount": 10,
     "totalTypeCaptureCounts": {
       "grass": 16,
       "psychic": 5,
       "water": 6,
-      "normal": 26,
+      "normal": 27,
       "flying": 25,
       "ground": 6,
       "fire": 13,

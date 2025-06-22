@@ -60,8 +60,9 @@
         "nickit": {
           "normal": {
             "isShiny": false,
-            "status": "SEEN",
-            "discoveredTimestamp": 1749988686309
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1749988686309,
+            "caughtTimestamp": 1750592687247
           }
         },
         "mareep": {
@@ -1569,6 +1570,29 @@
             "discoveredTimestamp": 1750591867907,
             "caughtTimestamp": 1750591867907
           }
+        },
+        "megavenusaur": {
+          "normal": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1750592349780
+          }
+        },
+        "ariados": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750592391041,
+            "caughtTimestamp": 1750592391041
+          }
+        },
+        "growlithe": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750592733993,
+            "caughtTimestamp": 1750592733993
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1586,18 +1610,19 @@
         "135",
         "150",
         "165",
-        "180"
+        "180",
+        "195"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 125,
+    "totalCaptureCount": 127,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 67,
-    "totalBattleVictoryCount": 254,
+    "totalEvolvedCount": 68,
+    "totalBattleVictoryCount": 257,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 254,
+    "totalPvWBattleVictoryCount": 257,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 10,
@@ -1607,7 +1632,7 @@
       "poison": 12,
       "water": 25,
       "ghost": 6,
-      "fire": 1,
+      "fire": 2,
       "ice": 2,
       "fairy": 12,
       "normal": 34,
@@ -1617,7 +1642,7 @@
       "fighting": 4,
       "psychic": 7,
       "electric": 4,
-      "dark": 4,
+      "dark": 5,
       "dragon": 1,
       "steel": 3
     },
@@ -1682,7 +1707,8 @@
       "cobblemon:linoone": 1,
       "cobblemon:oinkologne": 1,
       "cobblemon:ribombee": 1,
-      "cobblemon:minior": 1
+      "cobblemon:minior": 1,
+      "cobblemon:drowzee": 1
     },
     "aspectsCollected": {}
   }

@@ -130,7 +130,7 @@
     },
     "zigzagoon": {
       "normal": {
-        "isShiny": false,
+        "isShiny": true,
         "status": "CAUGHT",
         "discoveredTimestamp": 1749988523710,
         "caughtTimestamp": 1750412789539
@@ -153,8 +153,9 @@
     "nickit": {
       "normal": {
         "isShiny": false,
-        "status": "SEEN",
-        "discoveredTimestamp": 1749988686310
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1749988686310,
+        "caughtTimestamp": 1750592687248
       }
     },
     "furret": {
@@ -1216,6 +1217,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750431726307,
         "caughtTimestamp": 1750431726307
+      },
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750592733996,
+        "caughtTimestamp": 1750592733996
       }
     },
     "munchlax": {
@@ -2164,6 +2171,21 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750591149447,
         "caughtTimestamp": 1750591149447
+      }
+    },
+    "megavenusaur": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1750592349786
+      }
+    },
+    "darmanitan": {
+      "normal": {
+        "isShiny": true,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750592806142,
+        "caughtTimestamp": 1750592806142
       }
     }
   }

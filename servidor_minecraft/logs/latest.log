@@ -2751,3 +2751,7 @@ java.lang.IllegalArgumentException: bound must be positive
 [22Jun2025 11:23:35.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Order Up!]
 [22Jun2025 11:29:00.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [How long's this been here?]
 [22Jun2025 11:29:05.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Magery]
+[22Jun2025 11:44:03.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has completed the challenge [Centennial]
+[22Jun2025 11:44:13.679] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.849288940429688) to LOW (avg. 20.55170440673828)
+[22Jun2025 11:44:36.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.262428283691406) to VERY_LOW (avg. 17.801128387451172)
+[22Jun2025 11:47:13.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has reached the goal [Quaint Scribe]
