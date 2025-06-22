@@ -1225,6 +1225,78 @@
             "discoveredTimestamp": 1750518900206,
             "caughtTimestamp": 1750518900206
           }
+        },
+        "mimejr": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750520717505,
+            "caughtTimestamp": 1750520717505
+          }
+        },
+        "heracross": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750520730090,
+            "caughtTimestamp": 1750520730090
+          }
+        },
+        "scyther": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750520979284,
+            "caughtTimestamp": 1750520979284
+          }
+        },
+        "doublade": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750523896288,
+            "caughtTimestamp": 1750523896288
+          }
+        },
+        "honedge": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750523974038,
+            "caughtTimestamp": 1750523974038
+          }
+        },
+        "phantump": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750524082909,
+            "caughtTimestamp": 1750524082909
+          }
+        },
+        "impidimp": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750525057386,
+            "caughtTimestamp": 1750525057386
+          }
+        },
+        "dartrix": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750525082047,
+            "caughtTimestamp": 1750525082047
+          }
+        },
+        "foongus": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750525403086,
+            "caughtTimestamp": 1750525403086
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1239,40 +1311,41 @@
         "90",
         "105",
         "120",
-        "135"
+        "135",
+        "150"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 96,
+    "totalCaptureCount": 105,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 42,
-    "totalBattleVictoryCount": 174,
+    "totalBattleVictoryCount": 185,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 174,
+    "totalPvWBattleVictoryCount": 185,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 4,
     "totalTradedCount": 10,
     "totalTypeCaptureCounts": {
-      "grass": 13,
-      "psychic": 4,
+      "grass": 16,
+      "psychic": 5,
       "water": 6,
       "normal": 24,
-      "flying": 23,
+      "flying": 25,
       "ground": 5,
       "fire": 11,
-      "steel": 6,
-      "dark": 5,
+      "steel": 8,
+      "dark": 6,
       "ice": 1,
-      "fighting": 6,
-      "bug": 13,
+      "fighting": 7,
+      "bug": 15,
       "electric": 4,
-      "fairy": 7,
+      "fairy": 9,
       "rock": 6,
-      "poison": 7,
+      "poison": 8,
       "dragon": 3,
-      "ghost": 2
+      "ghost": 5
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,
@@ -1313,7 +1386,7 @@
       "cobblemon:ribombee": 1,
       "cobblemon:wingull": 2,
       "cobblemon:ralts": 1,
-      "cobblemon:gimmighoul": 2,
+      "cobblemon:gimmighoul": 5,
       "cobblemon:farfetchd": 1,
       "cobblemon:beedrill": 1,
       "cobblemon:voltorb": 1

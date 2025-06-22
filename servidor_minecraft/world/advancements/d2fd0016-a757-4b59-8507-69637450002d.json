@@ -217,6 +217,7 @@
       "erupting_inferno": "2025-06-21 14:51:20 +0000",
       "jade_cliffs": "2025-06-15 10:33:35 +0000",
       "clover_patch": "2025-06-15 10:48:51 +0000",
+      "mystic_grove": "2025-06-21 16:35:23 +0000",
       "old_growth_woodland": "2025-06-16 10:11:04 +0000",
       "crystalline_chasm": "2025-06-21 13:36:59 +0000",
       "withered_abyss": "2025-06-21 14:05:50 +0000",
@@ -392,6 +393,8 @@
       "minecraft:snowy_slopes": "2025-06-17 21:41:11 +0000",
       "minecraft:old_growth_pine_taiga": "2025-06-21 11:16:45 +0000",
       "minecraft:deep_ocean": "2025-06-15 18:14:07 +0000",
+      "minecraft:sunflower_plains": "2025-06-21 15:46:09 +0000",
+      "minecraft:birch_forest": "2025-06-21 15:53:30 +0000",
       "minecraft:bamboo_jungle": "2025-06-16 18:31:44 +0000",
       "minecraft:beach": "2025-06-16 18:22:32 +0000",
       "minecraft:dark_forest": "2025-06-15 10:54:23 +0000",
@@ -1555,88 +1558,27 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-21 15:19:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-06-21 15:19:35 +0000",
-      "log_spam_fixer": "2025-06-21 15:19:12 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-21 15:19:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-21 15:19:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-21 15:19:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-21 15:19:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-21 15:19:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-21 15:19:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-21 15:19:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-21 15:19:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-21 15:19:12 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-06-21 15:19:12 +0000"
-    },
-    "done": false
-  },
   "cataclysm:find_soul_black_smith": {
     "criteria": {
       "blacksmith": "2025-06-21 14:03:56 +0000"
     },
     "done": true
   },
-  "minecraft:story/deflect_arrow": {
+  "vanillacookbook:recipes/netherite": {
     "criteria": {
-      "deflected_projectile": "2025-06-21 14:38:12 +0000"
+      "has_netherite": "2025-06-21 14:17:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:ash_barrens/root": {
+    "criteria": {
+      "requirement": "2025-06-21 14:25:31 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_soul_fortress_remains": {
+    "criteria": {
+      "soul_fortress": "2025-06-21 14:29:57 +0000"
     },
     "done": true
   },
@@ -1652,6 +1594,18 @@
     },
     "done": false
   },
+  "incendium:volcanic_deltas/root": {
+    "criteria": {
+      "incendium:volcanic_deltas": "2025-06-21 14:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-06-21 14:38:12 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/straddler": {
     "criteria": {
       "killed": "2025-06-21 14:54:08 +0000"
@@ -1664,29 +1618,84 @@
     },
     "done": true
   },
-  "legendary_monsters:locate_soul_fortress_remains": {
+  "vanillacookbook:recipes/hot_spices": {
     "criteria": {
-      "soul_fortress": "2025-06-21 14:29:57 +0000"
+      "has_torchflower_seeds": "2025-06-21 16:35:43 +0000"
     },
     "done": true
   },
-  "incendium:ash_barrens/root": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "requirement": "2025-06-21 14:25:31 +0000"
+      "log_spam_fixer": "2025-06-21 17:20:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-06-21 17:21:35 +0000",
+      "log_spam_fixer": "2025-06-21 17:20:56 +0000"
     },
     "done": true
   },
-  "vanillacookbook:recipes/netherite": {
+  "incendium:technical/on_kill": {
     "criteria": {
-      "has_netherite": "2025-06-21 14:17:00 +0000"
+      "log_spam_fixer": "2025-06-21 17:20:56 +0000"
     },
-    "done": true
+    "done": false
   },
-  "incendium:volcanic_deltas/root": {
+  "incendium:technical/on_inventory_change": {
     "criteria": {
-      "incendium:volcanic_deltas": "2025-06-21 14:37:42 +0000"
+      "log_spam_fixer": "2025-06-21 17:20:56 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-21 17:20:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-21 17:20:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-21 17:20:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-21 17:20:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-21 17:20:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-21 17:20:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-21 17:20:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-06-21 17:20:56 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

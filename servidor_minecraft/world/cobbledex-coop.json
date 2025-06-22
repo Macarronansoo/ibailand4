@@ -1977,6 +1977,78 @@
         "discoveredTimestamp": 1750518900207,
         "caughtTimestamp": 1750518900207
       }
+    },
+    "mimejr": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750520717507,
+        "caughtTimestamp": 1750520717507
+      }
+    },
+    "heracross": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750520730091,
+        "caughtTimestamp": 1750520730091
+      }
+    },
+    "scyther": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750520979285,
+        "caughtTimestamp": 1750520979285
+      }
+    },
+    "doublade": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750523896289,
+        "caughtTimestamp": 1750523896289
+      }
+    },
+    "honedge": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750523974039,
+        "caughtTimestamp": 1750523974039
+      }
+    },
+    "phantump": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750524082909,
+        "caughtTimestamp": 1750524082909
+      }
+    },
+    "impidimp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750525057387,
+        "caughtTimestamp": 1750525057387
+      }
+    },
+    "dartrix": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750525082048,
+        "caughtTimestamp": 1750525082048
+      }
+    },
+    "foongus": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750525403089,
+        "caughtTimestamp": 1750525403089
+      }
     }
   }
 }
