@@ -1351,6 +1351,62 @@
             "discoveredTimestamp": 1750592806141,
             "caughtTimestamp": 1750592806141
           }
+        },
+        "decidueye": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593057697,
+            "caughtTimestamp": 1750593057697
+          }
+        },
+        "trevenant": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593186027,
+            "caughtTimestamp": 1750593186027
+          }
+        },
+        "aegislash": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593205790,
+            "caughtTimestamp": 1750593205790
+          }
+        },
+        "naclstack": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593217511,
+            "caughtTimestamp": 1750593217511
+          }
+        },
+        "dugtrio": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593284260,
+            "caughtTimestamp": 1750593284260
+          }
+        },
+        "boldore": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593337250,
+            "caughtTimestamp": 1750593337250
+          }
+        },
+        "gigalith": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593340899,
+            "caughtTimestamp": 1750593340899
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1374,13 +1430,13 @@
   "advancementData": {
     "totalCaptureCount": 113,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 43,
+    "totalEvolvedCount": 48,
     "totalBattleVictoryCount": 192,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 192,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 6,
-    "totalTradedCount": 10,
+    "totalTradedCount": 14,
     "totalTypeCaptureCounts": {
       "grass": 16,
       "psychic": 5,

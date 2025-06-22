@@ -2187,6 +2187,110 @@
         "discoveredTimestamp": 1750592806142,
         "caughtTimestamp": 1750592806142
       }
+    },
+    "voltorb": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750593042298,
+        "caughtTimestamp": 1750593042298
+      }
+    },
+    "decidueye": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750593057698,
+        "caughtTimestamp": 1750593057698
+      }
+    },
+    "trevenant": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750593181553,
+        "caughtTimestamp": 1750593181553
+      }
+    },
+    "aegislash": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750593205792,
+        "caughtTimestamp": 1750593205792
+      }
+    },
+    "naclstack": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750593217512,
+        "caughtTimestamp": 1750593217512
+      }
+    },
+    "cloyster": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750593267288,
+        "caughtTimestamp": 1750593267288
+      }
+    },
+    "noctowl": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750593293718,
+        "caughtTimestamp": 1750593293718
+      }
+    },
+    "gigalith": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750593340901,
+        "caughtTimestamp": 1750593340901
+      }
+    },
+    "drifblim": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750593403000,
+        "caughtTimestamp": 1750593403000
+      }
+    },
+    "cacturne": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750593441681,
+        "caughtTimestamp": 1750593441681
+      }
+    },
+    "starmie": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750593466365,
+        "caughtTimestamp": 1750593466365
+      }
+    },
+    "sandslash": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750593476830,
+        "caughtTimestamp": 1750593476830
+      }
+    },
+    "mismagius": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750593511378,
+        "caughtTimestamp": 1750593511378
+      }
     }
   }
 }

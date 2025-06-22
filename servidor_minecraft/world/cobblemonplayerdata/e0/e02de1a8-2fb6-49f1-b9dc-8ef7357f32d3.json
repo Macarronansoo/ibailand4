@@ -1593,6 +1593,110 @@
             "discoveredTimestamp": 1750592733993,
             "caughtTimestamp": 1750592733993
           }
+        },
+        "voltorb": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593042297,
+            "caughtTimestamp": 1750593042297
+          }
+        },
+        "trevenant": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593181552,
+            "caughtTimestamp": 1750593181552
+          }
+        },
+        "cloyster": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593267287,
+            "caughtTimestamp": 1750593267287
+          }
+        },
+        "noctowl": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593293716,
+            "caughtTimestamp": 1750593293716
+          }
+        },
+        "aegislash": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593337253,
+            "caughtTimestamp": 1750593337253
+          }
+        },
+        "gigalith": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593345096,
+            "caughtTimestamp": 1750593345096
+          }
+        },
+        "wigglytuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593386436,
+            "caughtTimestamp": 1750593386436
+          }
+        },
+        "drifblim": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593402999,
+            "caughtTimestamp": 1750593402999
+          }
+        },
+        "honchkrow": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593430463,
+            "caughtTimestamp": 1750593430463
+          }
+        },
+        "cacturne": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593441679,
+            "caughtTimestamp": 1750593441679
+          }
+        },
+        "starmie": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593466362,
+            "caughtTimestamp": 1750593466362
+          }
+        },
+        "sandslash": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593476829,
+            "caughtTimestamp": 1750593476829
+          }
+        },
+        "mismagius": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750593511377,
+            "caughtTimestamp": 1750593511377
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1617,15 +1721,15 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 127,
+    "totalCaptureCount": 128,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 68,
-    "totalBattleVictoryCount": 257,
+    "totalEvolvedCount": 78,
+    "totalBattleVictoryCount": 260,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 257,
+    "totalPvWBattleVictoryCount": 260,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
-    "totalTradedCount": 10,
+    "totalTradedCount": 14,
     "totalTypeCaptureCounts": {
       "rock": 7,
       "bug": 13,
@@ -1641,7 +1745,7 @@
       "grass": 17,
       "fighting": 4,
       "psychic": 7,
-      "electric": 4,
+      "electric": 5,
       "dark": 5,
       "dragon": 1,
       "steel": 3
@@ -1654,7 +1758,7 @@
       "cobblemon:diggersby": 5,
       "cobblemon:combee": 2,
       "cobblemon:miltank": 2,
-      "cobblemon:lilligant": 2,
+      "cobblemon:lilligant": 3,
       "cobblemon:snorunt": 1,
       "cobblemon:krabby": 5,
       "cobblemon:petilil": 2,
@@ -1708,7 +1812,8 @@
       "cobblemon:oinkologne": 1,
       "cobblemon:ribombee": 1,
       "cobblemon:minior": 1,
-      "cobblemon:drowzee": 1
+      "cobblemon:drowzee": 1,
+      "cobblemon:voltorb": 1
     },
     "aspectsCollected": {}
   }
