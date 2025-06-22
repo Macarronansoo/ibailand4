@@ -1511,9 +1511,9 @@
     "totalCaptureCount": 116,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 50,
-    "totalBattleVictoryCount": 195,
+    "totalBattleVictoryCount": 196,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 195,
+    "totalPvWBattleVictoryCount": 196,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 6,
     "totalTradedCount": 21,
@@ -1580,7 +1580,8 @@
       "cobblemon:farfetchd": 1,
       "cobblemon:beedrill": 1,
       "cobblemon:voltorb": 1,
-      "cobblemon:riolu": 1
+      "cobblemon:riolu": 1,
+      "cobblemon:igglybuff": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
