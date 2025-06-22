@@ -2743,3 +2743,9 @@ java.lang.IllegalArgumentException: bound must be positive
 [22Jun2025 11:17:07.169] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 29bfcc84-f534-4228-9270-5cfc0920bb15
 [22Jun2025 11:18:05.552] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 5cc17a26-71ea-47d1-a1c8-07a529ce8420
 [22Jun2025 11:18:05.552] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 5cc17a26-71ea-47d1-a1c8-07a529ce8420
+[22Jun2025 11:20:00.747] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/195635, l='ServerLevel[world]', x=-395.93, y=87.13, z=-1287.50] died, message: 'Librarian was laid to rest by Priest'
+[22Jun2025 11:20:51.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 15.498323440551758) to LOW (avg. 20.34412384033203)
+[22Jun2025 11:20:58.679] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.34412384033203) to VERY_LOW (avg. 18.526384353637695)
+[22Jun2025 11:21:51.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.710479736328125) to LOW (avg. 24.704273223876953)
+[22Jun2025 11:22:06.179] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.704273223876953) to VERY_LOW (avg. 15.82147216796875)
+[22Jun2025 11:23:35.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Order Up!]

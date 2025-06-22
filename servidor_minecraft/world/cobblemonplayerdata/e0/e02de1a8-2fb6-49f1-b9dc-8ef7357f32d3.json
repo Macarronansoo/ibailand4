@@ -1537,6 +1537,30 @@
             "discoveredTimestamp": 1750591070797,
             "caughtTimestamp": 1750591070797
           }
+        },
+        "lillipup": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750591149446,
+            "caughtTimestamp": 1750591149446
+          }
+        },
+        "glameow": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750591452595,
+            "caughtTimestamp": 1750591452595
+          }
+        },
+        "ferroseed": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750591531044,
+            "caughtTimestamp": 1750591531044
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1560,12 +1584,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 120,
+    "totalCaptureCount": 124,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 67,
-    "totalBattleVictoryCount": 249,
+    "totalBattleVictoryCount": 253,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 249,
+    "totalPvWBattleVictoryCount": 253,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 10,
@@ -1578,16 +1602,16 @@
       "fire": 1,
       "ice": 2,
       "fairy": 12,
-      "normal": 31,
+      "normal": 34,
       "flying": 18,
       "ground": 7,
-      "grass": 16,
+      "grass": 17,
       "fighting": 4,
       "psychic": 6,
       "electric": 4,
       "dark": 4,
       "dragon": 1,
-      "steel": 2
+      "steel": 3
     },
     "totalDefeatedCounts": {
       "cobblemon:flabebe": 1,

@@ -2157,6 +2157,14 @@
         "discoveredTimestamp": 1750591070797,
         "caughtTimestamp": 1750591070797
       }
+    },
+    "lillipup": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750591149447,
+        "caughtTimestamp": 1750591149447
+      }
     }
   }
 }
