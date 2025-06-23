@@ -2085,3 +2085,6 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 08:58:37.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/3870, l='ServerLevel[world]', x=-1877.49, y=70.00, z=258.99] died: Paco Pepe was slain by Vivillon
 [23Jun2025 08:58:44.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vivillon
 [23Jun2025 08:58:44.468] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[23Jun2025 09:06:26.089] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 800.0 μs. 1425/1425 recipes are parallelized.
+[23Jun2025 09:07:11.949] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 89ad3ea5-02b1-4c97-8b1b-482815378f61
+[23Jun2025 09:07:11.950] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 89ad3ea5-02b1-4c97-8b1b-482815378f61
