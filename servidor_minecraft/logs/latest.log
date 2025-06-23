@@ -3344,3 +3344,196 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 11:20:56.028] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.756378173828125) to LOW (avg. 20.373340606689453)
 [23Jun2025 11:21:11.410] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7432ms or 148 ticks behind
 [23Jun2025 11:21:11.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved too quickly! -9.300995455118027,-2.0,3.1217856264418344
+[23Jun2025 11:22:32.110] [pool-3-thread-1/INFO] [com.structureessentials.StructureEssentials/]: Structure search for minecraft:monument timed out, took: 50 seconds.
+[23Jun2025 11:22:45.256] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:22:45.256] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:22:45.257] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:22:53.417] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3339ms or 66 ticks behind
+[23Jun2025 11:22:53.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved too quickly! -4.770880881667779,-5.153393642047277,7.364606799978901
+[23Jun2025 11:22:53.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved too quickly! 4.729914614283189,-2.0625,-8.585502503385072
+[23Jun2025 11:23:40.501] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:23:54.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Gastly
+[23Jun2025 11:23:54.172] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[23Jun2025 11:24:13.288] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4359ms or 87 ticks behind
+[23Jun2025 11:25:20.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> hola unette
+[23Jun2025 11:25:20.077] [ForkJoinPool.commonPool-worker-51/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[23Jun2025 11:25:23.077] [ForkJoinPool.commonPool-worker-51/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/world/entity/ai/behavior/Behavior for class forge/net/mca/entity/ai/brain/tasks/StayTask in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool.commonPool-worker-51,5,SERVER]
+[23Jun2025 11:25:23.077] [ForkJoinPool.commonPool-worker-51/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.world.entity.ai.behavior.Behavior
+	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
+	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:97) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:48) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.5.jar%2352!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.5.jar%2352!/:6.0.5+6.0.5+master.eb8e549b]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.10.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.10.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:525) ~[?:?]
+	at forge.net.mca.entity.ai.brain.VillagerTasksMCA.getStayingPackage(VillagerTasksMCA.java:182) ~[?:?]
+	at forge.net.mca.entity.ai.brain.VillagerTasksMCA.initializeTasks(VillagerTasksMCA.java:108) ~[?:?]
+	at forge.net.mca.entity.VillagerEntityMCA.m_35483_(VillagerEntityMCA.java:210) ~[?:?]
+	at forge.net.mca.entity.ai.brain.VillagerBrain.resetsBrain(VillagerBrain.java:208) ~[?:?]
+	at forge.net.mca.entity.ai.brain.VillagerBrain.setMoveState(VillagerBrain.java:203) ~[?:?]
+	at forge.net.mca.entity.ai.chatAI.TriggerCommandInfos.lambda$static$2(TriggerCommandInfos.java:17) ~[?:?]
+	at forge.net.mca.entity.ai.chatAI.OpenAIChatAI.lambda$answer$4(OpenAIChatAI.java:269) ~[?:?]
+	at java.util.Optional.ifPresent(Optional.java:178) ~[?:?]
+	at forge.net.mca.entity.ai.chatAI.OpenAIChatAI.answer(OpenAIChatAI.java:269) ~[?:?]
+	at forge.net.mca.entity.ai.chatAI.ChatAI.answer(ChatAI.java:51) ~[?:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.mdfad7bf$lambda$mca$runAsyncAnswerRequest$2$0(ServerGamePacketListenerImpl.java:3322) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
+[23Jun2025 11:25:31.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> sabes donde hay una witch hut?
+[23Jun2025 11:25:31.164] [ForkJoinPool.commonPool-worker-51/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, move-freely, wear-armor, try-go-home]
+[23Jun2025 11:25:36.816] [ForkJoinPool.commonPool-worker-51/WARN] [forge.net.mca.MCA/]: Error parsing answer: No me importa lo que busques, pero hay rumores de una al este de la aldea... si te atreves a ir. (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[23Jun2025 11:25:42.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ansoooooo> en mi pene
+[23Jun2025 11:25:45.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> puedes pasar cordenadas?
+[23Jun2025 11:25:45.457] [ForkJoinPool.commonPool-worker-51/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, move-freely, wear-armor, try-go-home]
+[23Jun2025 11:26:01.523] [pool-3-thread-1/INFO] [com.structureessentials.StructureEssentials/]: Structure search for minecraft:monument timed out, took: 50 seconds.
+[23Jun2025 11:26:10.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> hola lilli
+[23Jun2025 11:26:10.311] [ForkJoinPool.commonPool-worker-51/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[23Jun2025 11:26:18.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> puedes decirme donde hay una witch hut
+[23Jun2025 11:26:18.205] [ForkJoinPool.commonPool-worker-51/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[23Jun2025 11:26:19.500] [ForkJoinPool.commonPool-worker-51/WARN] [forge.net.mca.MCA/]: Error parsing answer: No tengo idea, pero he escuchado rumores de que están cerca de los pantanos, ¡mantén los ojos bien abiertos! (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[23Jun2025 11:26:26.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> pasa cordenadas
+[23Jun2025 11:26:26.420] [ForkJoinPool.commonPool-worker-51/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home]
+[23Jun2025 11:26:28.301] [ForkJoinPool.commonPool-worker-51/WARN] [forge.net.mca.MCA/]: Error parsing answer: No tengo un mapa en mis manos, pero sigue la ruta hacia el oeste, y quizás encuentres algo interesante. (java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $)
+[23Jun2025 11:27:41.043] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mirko'/196143, l='ServerLevel[world]', x=-2497.11, y=67.00, z=270.90] died, message: 'Mirko was slain by JetPrivado'
+[23Jun2025 11:27:41.045] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mirko'/196143, l='ServerLevel[world]', x=-2497.11, y=67.00, z=270.90] died: Mirko was slain by JetPrivado
+[23Jun2025 11:28:00.439] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Susann'/196069, l='ServerLevel[world]', x=-2496.28, y=69.00, z=279.33] died, message: 'Susann was slain by Wolf'
+[23Jun2025 11:28:00.440] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Susann'/196069, l='ServerLevel[world]', x=-2496.28, y=69.00, z=279.33] died: Susann was slain by Wolf
+[23Jun2025 11:29:28.148] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Maike'/196096, l='ServerLevel[world]', x=-2489.66, y=52.00, z=275.28] died, message: 'Maike was shot by Skeleton'
+[23Jun2025 11:29:28.148] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Maike'/196096, l='ServerLevel[world]', x=-2489.66, y=52.00, z=275.28] died: Maike was shot by Skeleton
+[23Jun2025 11:29:37.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> wladislaus dime donde hay una casa de bruja o te mato
+[23Jun2025 11:29:37.852] [ForkJoinPool.commonPool-worker-54/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home, open-trade-window]
+[23Jun2025 11:29:48.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> -4928 0 144 ancient city
+[23Jun2025 11:29:48.501] [ForkJoinPool.commonPool-worker-54/INFO] [forge.net.mca.MCA/]: Valid commands: [follow-player, stay-here, wear-armor, try-go-home, open-trade-window]
+[23Jun2025 11:30:10.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> -4928 0 144 ancient city
+[23Jun2025 11:30:20.259] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:20.259] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:20.259] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:22.275] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:22.275] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:23.605] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:23.607] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:23.607] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:24.028] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:25.778] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:25.978] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:25.978] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:26.078] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 25.120302200317383) to VERY_LOW (avg. 19.322168350219727)
+[23Jun2025 11:30:26.101] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:29.325] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:29.459] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:29.460] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:29.460] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:31.214] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 11:30:41.097] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.322168350219727) to LOW (avg. 32.1162109375)
+[23Jun2025 11:32:45.857] [Worker-Main-56/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:32:45.858] [Worker-Main-56/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:32:45.875] [Worker-Main-56/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:32:48.099] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/218021, l='ServerLevel[world]', x=259.42, y=18.00, z=-2732.93] died: Paco Pepe was shot by Skeleton
+[23Jun2025 11:33:07.722] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[23Jun2025 11:33:07.722] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[23Jun2025 11:33:07.722] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[23Jun2025 11:33:11.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[23Jun2025 11:33:13.117] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 32.8863639831543) to NORMAL (avg. 41.2874870300293)
+[23Jun2025 11:33:14.328] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:overworld changed from LOW (avg. 33.80528042) to VERY_HIGH (avg. 52.07317372)
+[23Jun2025 11:33:43.078] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.42491149902344) to LOW (avg. 23.42413902282715)
+[23Jun2025 11:33:52.499] [Worker-Main-56/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-425,-56,-205],type:"minecraft:block"}}]
+[23Jun2025 11:33:52.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -9.839063961676402,0.5879999999999939,-3.0735624600316527
+[23Jun2025 11:33:52.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -10.354490360061845,0.5879999999999939,-3.1065514753537116
+[23Jun2025 11:33:52.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -10.857108214004711,0.5879999999999939,-3.1320129917626787
+[23Jun2025 11:33:52.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -11.34863265049762,0.5879999999999939,-3.1497534339703748
+[23Jun2025 11:33:52.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -11.830575016716011,0.5879999999999939,-3.1602404787038125
+[23Jun2025 11:33:52.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -12.304272765356473,0.5879999999999939,-3.1617410175652623
+[23Jun2025 11:33:52.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -12.770880142880742,0.5879999999999939,-3.1597964743123867
+[23Jun2025 11:33:52.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -13.23138980124395,0.5879999999999939,-3.154889160441158
+[23Jun2025 11:33:52.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -13.686655421128762,0.5879999999999939,-3.1474338638381454
+[23Jun2025 11:33:52.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -14.137384506252147,0.5879999999999939,-3.133821810160285
+[23Jun2025 11:33:52.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -14.584067933550614,0.5879999999999939,-3.11558261250147
+[23Jun2025 11:33:52.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -15.02718246574159,0.5879999999999939,-3.0925480328146335
+[23Jun2025 11:33:52.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -15.467215324552853,0.5879999999999939,-3.0652890187354984
+[23Jun2025 11:33:52.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -15.904597944256693,0.5879999999999939,-3.0343969910790065
+[23Jun2025 11:33:52.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -16.33968828422212,0.5879999999999939,-3.0002781664209834
+[23Jun2025 11:33:52.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -16.77280085729808,0.5879999999999939,-2.9633341177324297
+[23Jun2025 11:33:52.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -17.20421255084966,0.5879999999999939,-2.9239603763776216
+[23Jun2025 11:33:52.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -17.63416148801025,0.5879999999999939,-2.882497099329811
+[23Jun2025 11:33:52.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -18.06285245467552,0.5879999999999939,-2.8392368215860273
+[23Jun2025 11:33:52.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -18.490461566713293,0.5879999999999939,-2.794431123243726
+[23Jun2025 11:33:52.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -18.917140283772824,0.5879999999999939,-2.7482963631866824
+[23Jun2025 11:33:52.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -19.343018861150085,0.5879999999999939,-2.701018610054959
+[23Jun2025 11:33:52.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -19.768209318401205,0.8819999999999908,-2.6527578828790013
+[23Jun2025 11:33:52.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -20.19290597921463,1.1759999999999877,-2.604479542063288
+[23Jun2025 11:33:52.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
+[23Jun2025 11:33:52.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JetPrivado (vehicle of AgentePerrote) moved too quickly! -11.033055013563171,0.8819999999999908,0.7396628484280114
+[23Jun2025 11:34:05.115] [Worker-Main-56/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[23Jun2025 11:34:05.116] [Worker-Main-56/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[23Jun2025 11:35:35.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote went off with a bang thanks to Archevoker
+[23Jun2025 11:35:35.876] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 11:35:51.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has completed the challenge [Premium!]
+[23Jun2025 11:35:53.024] [Worker-Main-16/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[23Jun2025 11:35:53.025] [Worker-Main-16/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[23Jun2025 11:36:40.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[23Jun2025 11:36:40.312] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[23Jun2025 11:36:49.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Vindicator
+[23Jun2025 11:36:49.417] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 11:37:07.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved too quickly! 10.241442958004228,0.41999998688697815,-1.346691818022009
+[23Jun2025 11:37:07.856] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9078ms or 181 ticks behind
+[23Jun2025 11:37:10.030] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[23Jun2025 11:37:10.030] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:
+[23Jun2025 11:38:30.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2903ms or 58 ticks behind
+[23Jun2025 11:38:35.828] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Level load for minecraft:overworld changed from VERY_HIGH (avg. 113.79783059) to LOW (avg. 22.69366808)
+[23Jun2025 11:40:24.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Where Is The Stone Pen?]
+[23Jun2025 11:40:28.908] [pool-3-thread-1/INFO] [com.structureessentials.StructureEssentials/]: Structure search for minecraft:monument timed out, took: 50 seconds.
+[23Jun2025 11:40:41.295] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2266ms or 45 ticks behind
+[23Jun2025 11:41:17.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[23Jun2025 11:41:19.729] [pool-3-thread-1/INFO] [com.structureessentials.StructureEssentials/]: Structure search for minecraft:monument timed out, took: 50 seconds.
+[23Jun2025 11:41:33.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> -4256 0 -3568
+[23Jun2025 11:41:37.712] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:41:37.713] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:41:37.755] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:41:44.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> -4928 0 144 ancient city
+[23Jun2025 11:41:50.420] [Worker-Main-56/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:41:50.474] [Worker-Main-56/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:41:50.475] [Worker-Main-56/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:41:53.838] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 31.641185760498047) to NORMAL (avg. 40.77501678466797)
+[23Jun2025 11:41:55.807] [Worker-Main-16/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:41:55.807] [Worker-Main-16/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:41:55.892] [Worker-Main-16/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:42:01.328] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 40.77501678466797) to LOW (avg. 33.24441909790039)
+[23Jun2025 11:42:31.385] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 30.259557723999023) to NORMAL (avg. 42.61570358276367)
+[23Jun2025 11:42:38.828] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 42.61570358276367) to LOW (avg. 31.69894027709961)
+[23Jun2025 11:44:16.328] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.384567260742188) to VERY_LOW (avg. 17.911569595336914)
+[23Jun2025 11:45:01.328] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.231693267822266) to LOW (avg. 20.548702239990234)
+[23Jun2025 11:45:16.328] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.548702239990234) to VERY_LOW (avg. 19.587472915649414)
+[23Jun2025 11:45:38.828] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 13.777240753173828) to LOW (avg. 24.82530975341797)
+[23Jun2025 11:45:53.828] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.82530975341797) to VERY_LOW (avg. 12.25149154663086)
+[23Jun2025 11:46:57.601] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:46:57.601] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:46:57.680] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:47:01.328] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 17.359853744506836) to LOW (avg. 26.236555099487305)
+[23Jun2025 11:47:16.328] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 26.236555099487305) to VERY_LOW (avg. 19.586009979248047)
+[23Jun2025 11:47:28.346] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2a09b046-d07f-49e2-afef-5a060abd6a86
+[23Jun2025 11:47:28.347] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 2a09b046-d07f-49e2-afef-5a060abd6a86
+[23Jun2025 11:48:53.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo has made the advancement [Lorem Ipsum]
+[23Jun2025 11:50:38.892] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:50:38.893] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:50:38.970] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:50:42.341] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo lost connection: Disconnected
+[23Jun2025 11:50:42.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo left the game
+[23Jun2025 11:50:59.915] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at -4052 -56 798 in 1s
+[23Jun2025 11:51:37.699] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:51:37.699] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 11:51:37.793] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
