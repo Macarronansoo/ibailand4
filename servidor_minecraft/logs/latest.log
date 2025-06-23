@@ -3875,3 +3875,30 @@ java.lang.Exception: null
 [23Jun2025 12:03:29.674] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4047, y=9, z=-2848}
 [23Jun2025 12:03:29.674] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4048, y=9, z=-2848}
 [23Jun2025 12:03:29.674] [Worker-Main-14/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-4048, 9, -2848)
+[23Jun2025 12:05:43.078] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 12:05:43.120] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 12:05:43.165] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:ruins/forest_ruins_gate
+[23Jun2025 12:07:35.292] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292627, l='ServerLevel[world]', x=-4121.30, y=5.24, z=-3443.59, removed=DISCARDED]
+[23Jun2025 12:07:35.641] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/292645, l='ServerLevel[world]', x=-4120.63, y=5.31, z=-3439.40, removed=DISCARDED]
+[23Jun2025 12:09:34.343] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 12:09:34.343] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 12:09:34.443] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 12:09:34.744] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 12:09:34.744] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 12:09:34.891] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 12:09:46.130] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.568031311035156) to LOW (avg. 24.33386993408203)
+[23Jun2025 12:09:53.628] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 24.33386993408203) to VERY_LOW (avg. 12.736665725708008)
+[23Jun2025 12:10:10.089] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Level load for minecraft:the_nether changed from VERY_LOW (avg. 9.920164380000001) to LOW (avg. 15.00059156)
+[23Jun2025 12:10:38.628] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.53885269165039) to LOW (avg. 26.04302406311035)
+[23Jun2025 12:11:01.128] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.4233341217041) to VERY_LOW (avg. 16.71285057067871)
+[23Jun2025 12:11:08.628] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 16.71285057067871) to LOW (avg. 21.593276977539062)
+[23Jun2025 12:11:23.628] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.593276977539062) to VERY_LOW (avg. 17.719730377197266)
+[23Jun2025 12:11:51.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Piglin Brute
+[23Jun2025 12:11:51.620] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 12:11:51.631] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Jun2025 12:11:51.632] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[23Jun2025 12:11:51.633] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Jun2025 12:11:51.633] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Jun2025 12:11:51.634] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Jun2025 12:12:08.628] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.107337951660156) to LOW (avg. 21.338333129882812)
+[23Jun2025 12:12:46.128] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.894939422607422) to VERY_LOW (avg. 12.560033798217773)

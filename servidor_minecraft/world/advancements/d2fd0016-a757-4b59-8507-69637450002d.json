@@ -116,6 +116,7 @@
       "mountains": "2025-06-20 15:01:38 +0000",
       "glistering_meadow": "2025-06-21 14:22:14 +0000",
       "blackstone_basin": "2025-06-21 13:31:11 +0000",
+      "towering_cliffs": "2025-06-23 12:03:09 +0000",
       "infernal_holt": "2025-06-21 14:04:40 +0000",
       "bamboo_forest": "2025-06-21 11:37:14 +0000",
       "cold_boreal_taiga": "2025-06-23 12:02:10 +0000",
@@ -139,6 +140,7 @@
       "magnolia_highlands": "2025-06-17 21:42:07 +0000",
       "sparse_redwoods": "2025-06-16 18:31:56 +0000",
       "mountains": "2025-06-20 15:01:38 +0000",
+      "towering_cliffs": "2025-06-23 12:03:09 +0000",
       "bamboo_forest": "2025-06-21 11:37:14 +0000",
       "cold_boreal_taiga": "2025-06-23 12:02:10 +0000",
       "temperate_grove": "2025-06-20 15:05:20 +0000",
@@ -223,6 +225,7 @@
       "fungal_jungle": "2025-06-15 09:55:09 +0000",
       "erupting_inferno": "2025-06-21 14:51:20 +0000",
       "highland": "2025-06-22 11:57:05 +0000",
+      "marsh": "2025-06-23 12:06:53 +0000",
       "jade_cliffs": "2025-06-15 10:33:35 +0000",
       "clover_patch": "2025-06-15 10:48:51 +0000",
       "mystic_grove": "2025-06-21 16:35:23 +0000",
@@ -479,6 +482,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "swamp_village": "2025-06-23 11:55:18 +0000",
+      "swamp_hut": "2025-06-23 12:06:59 +0000",
       "illager_camp": "2025-06-15 10:00:10 +0000"
     },
     "done": false
@@ -1860,73 +1864,74 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-23 12:02:18 +0000"
+      "log_spam_fixer": "2025-06-23 12:12:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-06-23 12:02:18 +0000"
+      "requirement": "2025-06-23 12:12:19 +0000",
+      "log_spam_fixer": "2025-06-23 12:12:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-06-23 12:02:18 +0000"
+      "log_spam_fixer": "2025-06-23 12:12:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-06-23 12:02:18 +0000"
+      "log_spam_fixer": "2025-06-23 12:12:18 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-23 12:02:18 +0000"
+      "log_spam_fixer": "2025-06-23 12:12:18 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-06-23 12:02:18 +0000"
+      "log_spam_fixer": "2025-06-23 12:12:18 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-06-23 12:02:18 +0000"
+      "log_spam_fixer": "2025-06-23 12:12:18 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-23 12:02:18 +0000"
+      "log_spam_fixer": "2025-06-23 12:12:18 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-23 12:02:18 +0000"
+      "log_spam_fixer": "2025-06-23 12:12:18 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-06-23 12:02:18 +0000"
+      "log_spam_fixer": "2025-06-23 12:12:18 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-06-23 12:02:18 +0000"
+      "log_spam_fixer": "2025-06-23 12:12:18 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-06-23 12:02:18 +0000"
+      "log_spam_fixer": "2025-06-23 12:12:18 +0000"
     },
     "done": false
   },
