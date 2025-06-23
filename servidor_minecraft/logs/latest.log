@@ -2594,3 +2594,184 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 10:20:53.977] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [23Jun2025 10:20:53.978] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [23Jun2025 10:20:53.979] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:03.721] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:03.721] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:03.722] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:03.723] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:03.867] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:03.868] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:03.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Crimson Mosquito
+[23Jun2025 10:21:03.946] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 10:21:04.046] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:04.046] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:04.168] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:04.169] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:14.828] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:18.615] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:20.810] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:37.267] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:21:37.268] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:22:39.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Gastly
+[23Jun2025 10:22:39.032] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 10:22:53.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was shot by Skeleton
+[23Jun2025 10:22:53.082] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 10:23:41.743] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 36.084964752197266) to NORMAL (avg. 41.11941146850586)
+[23Jun2025 10:23:43.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was shot by Piglin
+[23Jun2025 10:23:43.498] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 10:23:49.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved too quickly! 1158.0,5.100000000000001,-217.0
+[23Jun2025 10:23:56.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.11941146850586) to LOW (avg. 36.83586502075195)
+[23Jun2025 10:24:21.854] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:24:26.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 29.831233978271484) to NORMAL (avg. 41.28030014038086)
+[23Jun2025 10:24:41.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 41.28030014038086) to LOW (avg. 31.371089935302734)
+[23Jun2025 10:24:52.197] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.item.custom.HeartOfTornadoItem:m_5551_:95]: Playing sound 1
+[23Jun2025 10:24:52.244] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.298] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.346] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.407] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.447] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.498] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.546] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.597] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.648] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.694] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.749] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.798] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.844] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.904] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.948] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:52.996] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.043] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.096] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.149] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.193] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.244] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.299] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.363] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.418] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.451] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.459] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:24:53.507] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.553] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.603] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.628] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:24:53.650] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.656] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:24:53.713] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.775] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.832] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.861] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.900] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:53.947] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.000] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.050] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.095] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.148] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.194] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.248] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.294] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.346] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.401] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.446] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.497] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.543] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.595] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.670] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.699] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.750] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.799] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.856] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.894] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.948] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:54.995] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:55.044] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:55.096] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:55.146] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:55.193] [Server thread/INFO] [STDOUT/]: [net.miauczel.legendary_monsters.entity.custom.PlayerTornado:m_8119_:258]: hasPasssssfalse
+[23Jun2025 10:24:55.847] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104771, l='ServerLevel[world]', x=214.32, y=19.50, z=-2393.56, removed=DISCARDED]
+[23Jun2025 10:24:56.753] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 31.371089935302734) to VERY_LOW (avg. 18.612754821777344)
+[23Jun2025 10:25:00.297] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104771, l='ServerLevel[world]', x=214.32, y=19.50, z=-2393.56, removed=DISCARDED]
+[23Jun2025 10:25:00.446] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104772, l='ServerLevel[world]', x=214.58, y=19.49, z=-2392.25, removed=DISCARDED]
+[23Jun2025 10:25:00.446] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104773, l='ServerLevel[world]', x=214.47, y=19.42, z=-2391.52, removed=DISCARDED]
+[23Jun2025 10:25:02.600] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104771, l='ServerLevel[world]', x=214.32, y=19.50, z=-2393.56, removed=DISCARDED]
+[23Jun2025 10:25:02.646] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104772, l='ServerLevel[world]', x=214.58, y=19.49, z=-2392.25, removed=DISCARDED]
+[23Jun2025 10:25:02.646] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104773, l='ServerLevel[world]', x=214.47, y=19.42, z=-2391.52, removed=DISCARDED]
+[23Jun2025 10:25:03.547] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104777, l='ServerLevel[world]', x=219.63, y=16.27, z=-2390.56, removed=DISCARDED]
+[23Jun2025 10:25:03.547] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104774, l='ServerLevel[world]', x=219.60, y=18.20, z=-2390.49, removed=DISCARDED]
+[23Jun2025 10:25:03.598] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104775, l='ServerLevel[world]', x=219.68, y=19.41, z=-2389.68, removed=DISCARDED]
+[23Jun2025 10:25:03.697] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104776, l='ServerLevel[world]', x=220.68, y=18.61, z=-2391.56, removed=DISCARDED]
+[23Jun2025 10:25:03.751] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104769, l='ServerLevel[world]', x=220.64, y=18.22, z=-2390.43, removed=DISCARDED]
+[23Jun2025 10:25:10.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [No Longer Short-Staffed]
+[23Jun2025 10:25:10.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has made the advancement [Quite the Walking Stick]
+[23Jun2025 10:25:14.397] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:25:19.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.339540481567383) to LOW (avg. 20.296775817871094)
+[23Jun2025 10:25:20.206] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:25:26.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.296775817871094) to VERY_LOW (avg. 19.018787384033203)
+[23Jun2025 10:25:34.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.018787384033203) to LOW (avg. 21.533597946166992)
+[23Jun2025 10:25:41.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.533597946166992) to VERY_LOW (avg. 19.429922103881836)
+[23Jun2025 10:25:56.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.429922103881836) to LOW (avg. 20.907238006591797)
+[23Jun2025 10:25:58.199] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104773, l='ServerLevel[world]', x=214.47, y=19.42, z=-2391.52, removed=DISCARDED]
+[23Jun2025 10:25:58.248] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104772, l='ServerLevel[world]', x=214.58, y=19.49, z=-2392.25, removed=DISCARDED]
+[23Jun2025 10:25:58.248] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104771, l='ServerLevel[world]', x=214.32, y=19.50, z=-2393.56, removed=DISCARDED]
+[23Jun2025 10:25:59.148] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104775, l='ServerLevel[world]', x=219.68, y=19.41, z=-2389.68, removed=DISCARDED]
+[23Jun2025 10:25:59.148] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104777, l='ServerLevel[world]', x=219.63, y=16.27, z=-2390.56, removed=DISCARDED]
+[23Jun2025 10:25:59.148] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104774, l='ServerLevel[world]', x=219.60, y=18.20, z=-2390.49, removed=DISCARDED]
+[23Jun2025 10:25:59.404] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104769, l='ServerLevel[world]', x=220.64, y=18.22, z=-2390.43, removed=DISCARDED]
+[23Jun2025 10:25:59.404] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/104776, l='ServerLevel[world]', x=220.68, y=18.61, z=-2391.56, removed=DISCARDED]
+[23Jun2025 10:26:04.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.907238006591797) to VERY_LOW (avg. 19.60129165649414)
+[23Jun2025 10:26:11.213] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:26:11.213] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:26:11.214] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:26:11.214] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:26:11.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.60129165649414) to LOW (avg. 21.95488166809082)
+[23Jun2025 10:26:27.001] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from LOW (avg. 22.43164825439453) to NORMAL (avg. 45.32687759399414)
+[23Jun2025 10:26:27.880] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:26:27.880] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:26:30.626] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:26:41.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from NORMAL (avg. 45.32687759399414) to LOW (avg. 22.214210510253906)
+[23Jun2025 10:26:56.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.214210510253906) to VERY_LOW (avg. 19.855623245239258)
+[23Jun2025 10:27:11.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.855623245239258) to LOW (avg. 25.224740982055664)
+[23Jun2025 10:28:49.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.08652114868164) to VERY_LOW (avg. 19.139705657958984)
+[23Jun2025 10:29:04.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.139705657958984) to LOW (avg. 20.526599884033203)
+[23Jun2025 10:29:11.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.526599884033203) to VERY_LOW (avg. 19.71516227722168)
+[23Jun2025 10:29:19.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.71516227722168) to LOW (avg. 20.863733291625977)
+[23Jun2025 10:30:19.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.610462188720703) to VERY_LOW (avg. 19.885061264038086)
+[23Jun2025 10:30:26.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.885061264038086) to LOW (avg. 23.11741065979004)
+[23Jun2025 10:30:49.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.117956161499023) to VERY_LOW (avg. 19.781536102294922)
+[23Jun2025 10:30:54.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was shot by Skeleton
+[23Jun2025 10:30:54.566] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[23Jun2025 10:31:04.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.781536102294922) to LOW (avg. 24.704303741455078)
+[23Jun2025 10:31:41.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 30.713275909423828) to VERY_LOW (avg. 18.882774353027344)
+[23Jun2025 10:31:56.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 18.882774353027344) to LOW (avg. 22.62302589416504)
+[23Jun2025 10:32:04.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.62302589416504) to VERY_LOW (avg. 19.317068099975586)
+[23Jun2025 10:32:49.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.63800048828125) to LOW (avg. 24.021146774291992)
+[23Jun2025 10:33:17.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Drilbur
+[23Jun2025 10:33:17.168] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 10:34:34.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.224031448364258) to VERY_LOW (avg. 19.843259811401367)
+[23Jun2025 10:34:49.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.843259811401367) to LOW (avg. 20.68587303161621)
+[23Jun2025 10:35:06.651] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/119948, l='ServerLevel[world]', x=306.11, y=36.00, z=-2746.50] died: Paco Pepe was shot by Skeleton
+[23Jun2025 10:35:58.949] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3bc5f619-b821-463b-95e5-f031a5c8b7a9
+[23Jun2025 10:35:58.949] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3bc5f619-b821-463b-95e5-f031a5c8b7a9
+[23Jun2025 10:37:10.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Krabby
+[23Jun2025 10:37:10.872] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 10:38:16.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Grizzly Bear
+[23Jun2025 10:38:16.470] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 10:38:56.728] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.566028594970703) to VERY_LOW (avg. 19.84478759765625)
+[23Jun2025 10:39:04.228] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.84478759765625) to LOW (avg. 22.68451499938965)
+[23Jun2025 10:39:10.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> w
+[23Jun2025 10:39:24.701] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:24.701] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:24.703] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:24.711] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:24.713] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:24.778] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:24.779] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:24.817] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:24.827] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:24.873] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:25.021] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:26.008] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:29.153] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:34.399] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:39:57.850] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:40:06.912] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 10:40:38.759] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'

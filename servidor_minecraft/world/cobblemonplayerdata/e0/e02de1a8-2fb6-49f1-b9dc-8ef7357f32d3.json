@@ -1960,6 +1960,14 @@
             "discoveredTimestamp": 1750673020513,
             "caughtTimestamp": 1750673020513
           }
+        },
+        "joltik": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750674166193,
+            "caughtTimestamp": 1750674166193
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1987,18 +1995,18 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 132,
+    "totalCaptureCount": 133,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 103,
-    "totalBattleVictoryCount": 274,
+    "totalBattleVictoryCount": 276,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 274,
+    "totalPvWBattleVictoryCount": 276,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 21,
     "totalTypeCaptureCounts": {
       "rock": 7,
-      "bug": 14,
+      "bug": 15,
       "poison": 12,
       "water": 27,
       "ghost": 7,
@@ -2011,7 +2019,7 @@
       "grass": 17,
       "fighting": 4,
       "psychic": 7,
-      "electric": 5,
+      "electric": 6,
       "dark": 5,
       "dragon": 2,
       "steel": 3
@@ -2028,7 +2036,7 @@
       "cobblemon:snorunt": 1,
       "cobblemon:krabby": 5,
       "cobblemon:petilil": 2,
-      "cobblemon:tauros": 15,
+      "cobblemon:tauros": 16,
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 6,
       "cobblemon:butterfree": 13,

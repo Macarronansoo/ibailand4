@@ -1494,6 +1494,22 @@
             "discoveredTimestamp": 1750609486539,
             "caughtTimestamp": 1750609486539
           }
+        },
+        "scatterbug": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750674961354,
+            "caughtTimestamp": 1750674961354
+          }
+        },
+        "spewpa": {
+          "normal": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750674966977,
+            "caughtTimestamp": 1750674966977
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1516,14 +1532,14 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 117,
+    "totalCaptureCount": 118,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 50,
+    "totalEvolvedCount": 51,
     "totalBattleVictoryCount": 198,
     "totalPvPBattleVictoryCount": 0,
     "totalPvWBattleVictoryCount": 198,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 6,
+    "totalShinyCaptureCount": 7,
     "totalTradedCount": 21,
     "totalTypeCaptureCounts": {
       "grass": 17,
@@ -1537,7 +1553,7 @@
       "dark": 6,
       "ice": 1,
       "fighting": 8,
-      "bug": 17,
+      "bug": 18,
       "electric": 4,
       "fairy": 9,
       "rock": 8,

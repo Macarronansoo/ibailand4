@@ -1894,7 +1894,7 @@
     },
     "scatterbug": {
       "normal": {
-        "isShiny": false,
+        "isShiny": true,
         "status": "CAUGHT",
         "discoveredTimestamp": 1750504739408,
         "caughtTimestamp": 1750504739408
@@ -2331,7 +2331,7 @@
     },
     "spewpa": {
       "normal": {
-        "isShiny": false,
+        "isShiny": true,
         "status": "CAUGHT",
         "discoveredTimestamp": 1750593762625,
         "caughtTimestamp": 1750593762625
