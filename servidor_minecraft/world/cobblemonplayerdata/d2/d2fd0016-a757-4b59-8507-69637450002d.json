@@ -1530,6 +1530,30 @@
             "discoveredTimestamp": 1750677714302,
             "caughtTimestamp": 1750677714302
           }
+        },
+        "swinub": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750679767548,
+            "caughtTimestamp": 1750679767548
+          }
+        },
+        "stunky": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750679781995,
+            "caughtTimestamp": 1750679781995
+          }
+        },
+        "croagunk": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750679829246,
+            "caughtTimestamp": 1750679829246
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1546,18 +1570,19 @@
         "120",
         "135",
         "150",
-        "165"
+        "165",
+        "180"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 120,
+    "totalCaptureCount": 123,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 52,
-    "totalBattleVictoryCount": 202,
+    "totalBattleVictoryCount": 205,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 202,
+    "totalPvWBattleVictoryCount": 205,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 7,
     "totalTradedCount": 21,
@@ -1567,17 +1592,17 @@
       "water": 8,
       "normal": 27,
       "flying": 26,
-      "ground": 7,
+      "ground": 8,
       "fire": 13,
       "steel": 9,
-      "dark": 6,
-      "ice": 1,
-      "fighting": 8,
+      "dark": 7,
+      "ice": 2,
+      "fighting": 9,
       "bug": 18,
       "electric": 4,
       "fairy": 10,
       "rock": 8,
-      "poison": 8,
+      "poison": 10,
       "dragon": 4,
       "ghost": 7
     },

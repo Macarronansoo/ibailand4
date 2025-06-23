@@ -2500,6 +2500,30 @@
         "discoveredTimestamp": 1750677714302,
         "caughtTimestamp": 1750677714302
       }
+    },
+    "swinub": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750679767551,
+        "caughtTimestamp": 1750679767551
+      }
+    },
+    "stunky": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750679781996,
+        "caughtTimestamp": 1750679781996
+      }
+    },
+    "croagunk": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750679829248,
+        "caughtTimestamp": 1750679829248
+      }
     }
   }
 }
