@@ -1952,6 +1952,14 @@
             "discoveredTimestamp": 1750672126057,
             "caughtTimestamp": 1750672126057
           }
+        },
+        "scolipede": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750673020513,
+            "caughtTimestamp": 1750673020513
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1972,7 +1980,8 @@
         "180",
         "195",
         "210",
-        "225"
+        "225",
+        "240"
       ],
       "name": "Cobbledex_RewardHistory"
     }
@@ -1980,10 +1989,10 @@
   "advancementData": {
     "totalCaptureCount": 132,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 102,
-    "totalBattleVictoryCount": 271,
+    "totalEvolvedCount": 103,
+    "totalBattleVictoryCount": 274,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 271,
+    "totalPvWBattleVictoryCount": 274,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 21,
@@ -2010,7 +2019,7 @@
     "totalDefeatedCounts": {
       "cobblemon:flabebe": 1,
       "cobblemon:mudbray": 1,
-      "cobblemon:bouffalant": 6,
+      "cobblemon:bouffalant": 7,
       "cobblemon:bunnelby": 4,
       "cobblemon:diggersby": 5,
       "cobblemon:combee": 2,
@@ -2019,7 +2028,7 @@
       "cobblemon:snorunt": 1,
       "cobblemon:krabby": 5,
       "cobblemon:petilil": 2,
-      "cobblemon:tauros": 13,
+      "cobblemon:tauros": 15,
       "cobblemon:cutiefly": 2,
       "cobblemon:kingler": 6,
       "cobblemon:butterfree": 13,

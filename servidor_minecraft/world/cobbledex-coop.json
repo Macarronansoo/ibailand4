@@ -2472,6 +2472,14 @@
         "discoveredTimestamp": 1750609486540,
         "caughtTimestamp": 1750609486540
       }
+    },
+    "scolipede": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750673020516,
+        "caughtTimestamp": 1750673020516
+      }
     }
   }
 }
