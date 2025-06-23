@@ -2464,6 +2464,14 @@
         "discoveredTimestamp": 1750594696492,
         "caughtTimestamp": 1750594696492
       }
+    },
+    "applin": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750609486540,
+        "caughtTimestamp": 1750609486540
+      }
     }
   }
 }
