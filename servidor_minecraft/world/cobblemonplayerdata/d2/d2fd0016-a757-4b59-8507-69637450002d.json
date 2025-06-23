@@ -1522,6 +1522,14 @@
             "discoveredTimestamp": 1750674966977,
             "caughtTimestamp": 1750674966977
           }
+        },
+        "granbull": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750677714302,
+            "caughtTimestamp": 1750677714302
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1544,12 +1552,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 119,
+    "totalCaptureCount": 120,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 52,
-    "totalBattleVictoryCount": 199,
+    "totalBattleVictoryCount": 200,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 199,
+    "totalPvWBattleVictoryCount": 200,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 7,
     "totalTradedCount": 21,
@@ -1567,7 +1575,7 @@
       "fighting": 8,
       "bug": 18,
       "electric": 4,
-      "fairy": 9,
+      "fairy": 10,
       "rock": 8,
       "poison": 8,
       "dragon": 4,

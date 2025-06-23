@@ -2492,6 +2492,14 @@
         "discoveredTimestamp": 1750673020516,
         "caughtTimestamp": 1750673020516
       }
+    },
+    "granbull": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750677714302,
+        "caughtTimestamp": 1750677714302
+      }
     }
   }
 }
