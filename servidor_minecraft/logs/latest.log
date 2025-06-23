@@ -4425,3 +4425,5 @@ java.lang.IllegalArgumentException: bound must be positive
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:665) ~[server-1.20.1-20230612.114412-srg.jar%23375!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23375!/:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[23Jun2025 13:03:41.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[23Jun2025 13:03:41.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
