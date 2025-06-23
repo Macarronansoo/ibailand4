@@ -2096,3 +2096,28 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 09:28:51.299] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [23Jun2025 09:28:51.299] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [23Jun2025 09:28:54.045] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:31:38.144] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:31:50.592] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:31:54.496] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:31:58.548] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:32:02.149] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:32:17.398] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:32:17.965] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:32:17.965] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:32:17.965] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:32:19.043] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:32:19.044] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:32:32.690] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:32:37.143] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:33:21.789] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 09:37:00.336] [User Authenticator #2/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AgentePerrote is d2fd0016-a757-4b59-8507-69637450002d
+[23Jun2025 09:37:02.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AgentePerrote[/127.153.255.77:50195] logged in with entity id 30952 at (-1887.6076695751597, 69.0, 222.55622830378903)
+[23Jun2025 09:37:02.802] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AgentePerrote
+[23Jun2025 09:37:02.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote joined the game
+[23Jun2025 09:37:03.128] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.19202995300293) to LOW (avg. 27.6820011138916)
+[23Jun2025 09:37:10.628] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 27.6820011138916) to VERY_LOW (avg. 12.298958778381348)
+[23Jun2025 09:37:14.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Goat Man
+[23Jun2025 09:37:14.432] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[23Jun2025 09:37:38.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Zombie
+[23Jun2025 09:37:38.165] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 09:38:02.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AgentePerrote> elije muteado
