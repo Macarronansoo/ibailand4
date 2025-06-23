@@ -3902,3 +3902,6 @@ java.lang.Exception: null
 [23Jun2025 12:11:51.634] [Netty Epoll Server IO #0/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
 [23Jun2025 12:12:08.628] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 19.107337951660156) to LOW (avg. 21.338333129882812)
 [23Jun2025 12:12:46.128] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 22.894939422607422) to VERY_LOW (avg. 12.560033798217773)
+[23Jun2025 12:15:24.901] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 3484 -56 6312 in 1s
+[23Jun2025 12:15:36.937] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote lost connection: Disconnected
+[23Jun2025 12:15:36.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote left the game
