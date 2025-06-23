@@ -2088,3 +2088,5 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 09:06:26.089] [Server thread/INFO] [fastsuite/]: Constructed recipe list for minecraft:stonecutting in 800.0 μs. 1425/1425 recipes are parallelized.
 [23Jun2025 09:07:11.949] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 89ad3ea5-02b1-4c97-8b1b-482815378f61
 [23Jun2025 09:07:11.950] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 89ad3ea5-02b1-4c97-8b1b-482815378f61
+[23Jun2025 09:14:51.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Goat Man
+[23Jun2025 09:14:51.567] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved

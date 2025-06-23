@@ -14344,3 +14344,280 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 09:09:51.028] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
 [23Jun2025 09:09:51.028] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [23Jun2025 09:09:51.028] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:10:14.879] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.27, y=55.00, z=243.19]]
+[23Jun2025 09:10:21.078] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:10:21.078] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:10:21.078] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:10:30.179] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.70, y=55.00, z=240.21]]
+[23Jun2025 09:10:30.879] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.42, y=55.00, z=242.02]]
+[23Jun2025 09:10:32.579] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.70, y=55.00, z=243.90]]
+[23Jun2025 09:10:33.229] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.72, y=55.00, z=243.31]]
+[23Jun2025 09:10:35.429] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.04, y=55.00, z=242.56]]
+[23Jun2025 09:10:35.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.04, y=55.00, z=242.56]]
+[23Jun2025 09:10:35.579] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.04, y=55.00, z=242.56]]
+[23Jun2025 09:10:42.079] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.66, y=55.00, z=242.43]]
+[23Jun2025 09:10:42.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.65, y=55.00, z=242.43]]
+[23Jun2025 09:10:44.329] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.97, y=55.00, z=241.33]]
+[23Jun2025 09:10:47.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 09:10:47.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 09:10:51.128] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:10:51.128] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:10:51.128] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:11:01.329] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.47, y=55.00, z=243.72]]
+[23Jun2025 09:11:04.029] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.09, y=55.00, z=240.93]]
+[23Jun2025 09:11:04.379] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.09, y=55.00, z=240.93]]
+[23Jun2025 09:11:04.629] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.84, y=55.00, z=240.43]]
+[23Jun2025 09:11:11.729] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.77, y=54.50, z=243.93]]
+[23Jun2025 09:11:13.779] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.70, y=55.00, z=244.30]]
+[23Jun2025 09:11:17.979] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.18, y=54.50, z=242.08]]
+[23Jun2025 09:11:20.779] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.56, y=54.00, z=241.30]]
+[23Jun2025 09:11:21.178] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:11:21.178] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:11:21.178] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:11:21.829] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.56, y=54.00, z=241.30]]
+[23Jun2025 09:11:22.029] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.56, y=54.00, z=241.30]]
+[23Jun2025 09:11:22.129] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.56, y=54.00, z=241.30]]
+[23Jun2025 09:11:25.579] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.74, y=55.00, z=243.69]]
+[23Jun2025 09:11:25.979] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.74, y=55.00, z=243.69]]
+[23Jun2025 09:11:26.279] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.74, y=55.00, z=243.69]]
+[23Jun2025 09:11:42.079] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.47, y=55.00, z=240.53]]
+[23Jun2025 09:11:42.329] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.47, y=55.00, z=240.53]]
+[23Jun2025 09:11:42.679] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.47, y=56.25, z=240.53]]
+[23Jun2025 09:11:51.228] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:11:51.228] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:11:51.228] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:11:51.829] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.82, y=56.25, z=239.19]]
+[23Jun2025 09:11:51.879] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.76, y=56.25, z=239.19]]
+[23Jun2025 09:11:56.879] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.96, y=55.00, z=242.94]]
+[23Jun2025 09:12:11.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.76, y=55.00, z=243.51]]
+[23Jun2025 09:12:15.229] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.90, y=55.00, z=242.88]]
+[23Jun2025 09:12:15.829] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.90, y=55.00, z=242.89]]
+[23Jun2025 09:12:21.278] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:12:21.278] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:12:21.278] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:12:21.729] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1861.20, y=55.00, z=242.42]]
+[23Jun2025 09:12:22.729] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1860.30, y=55.00, z=243.72]]
+[23Jun2025 09:12:24.829] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.65, y=55.00, z=242.73]]
+[23Jun2025 09:12:26.229] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.46, y=55.00, z=242.85]]
+[23Jun2025 09:12:26.379] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.74, y=55.00, z=243.52]]
+[23Jun2025 09:12:27.729] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.28, y=55.00, z=244.43]]
+[23Jun2025 09:12:38.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.07, y=55.00, z=240.85]]
+[23Jun2025 09:12:51.328] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:12:51.328] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:12:51.328] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:13:16.279] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1860.64, y=55.00, z=242.25]]
+[23Jun2025 09:13:17.229] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1860.73, y=55.00, z=242.25]]
+[23Jun2025 09:13:21.378] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:13:21.378] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:13:21.378] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:13:21.429] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1860.25, y=55.00, z=242.71]]
+[23Jun2025 09:13:38.979] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.44, y=55.00, z=239.70]]
+[23Jun2025 09:13:39.981] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.39, y=55.00, z=239.86]]
+[23Jun2025 09:13:40.079] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.42, y=55.00, z=239.91]]
+[23Jun2025 09:13:51.428] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:13:51.428] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:13:51.428] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:13:58.042] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1861.36, y=56.00, z=242.77]]
+[23Jun2025 09:14:07.729] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1869.79, y=57.00, z=245.93]]
+[23Jun2025 09:14:07.979] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1868.35, y=57.02, z=245.42]]
+[23Jun2025 09:14:09.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1860.30, y=55.00, z=241.92]]
+[23Jun2025 09:14:21.478] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Jun2025 09:14:21.478] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:14:21.479] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Jun2025 09:14:27.029] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.96, y=55.00, z=243.77]]
+[23Jun2025 09:14:27.679] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.06, y=54.00, z=243.67]]
+[23Jun2025 09:14:28.879] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.37, y=54.00, z=243.33]]
+[23Jun2025 09:14:29.279] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.67, y=55.00, z=244.70]]
+[23Jun2025 09:14:31.979] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.73, y=54.77, z=244.70]]
+[23Jun2025 09:14:32.329] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.08, y=54.50, z=244.64]]
+[23Jun2025 09:14:33.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.64, y=55.00, z=243.45]]
+[23Jun2025 09:14:33.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.64, y=55.00, z=243.19]]
+[23Jun2025 09:14:33.729] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.64, y=55.00, z=242.46]]
+[23Jun2025 09:14:41.429] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.30, y=55.00, z=244.51]]
+[23Jun2025 09:14:51.528] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:14:51.528] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:14:51.528] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:14:51.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Goat Man
+[23Jun2025 09:14:51.557] [Server thread/DEBUG] [tombstone/]: A new grave of the player Ansoooooo was created at position [x:-1850, y:55, z:234, dim:minecraft:overworld]
+[23Jun2025 09:14:51.567] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[23Jun2025 09:14:56.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1872.50, y=55.00, z=248.50]]
+[23Jun2025 09:15:21.578] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Jun2025 09:15:21.578] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:15:21.580] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Jun2025 09:15:30.044] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.88, y=55.00, z=242.43]]
+[23Jun2025 09:15:36.729] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.88, y=55.00, z=241.96]]
+[23Jun2025 09:15:36.779] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.67, y=55.00, z=242.02]]
+[23Jun2025 09:15:38.329] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.03, y=55.00, z=241.17]]
+[23Jun2025 09:15:39.680] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.31, y=55.00, z=241.28]]
+[23Jun2025 09:15:41.129] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.40, y=55.00, z=243.89]]
+[23Jun2025 09:15:41.879] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.40, y=55.00, z=242.16]]
+[23Jun2025 09:15:44.829] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.80, y=55.00, z=243.22]]
+[23Jun2025 09:15:44.979] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.79, y=55.00, z=243.18]]
+[23Jun2025 09:15:45.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.79, y=55.00, z=243.17]]
+[23Jun2025 09:15:45.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.79, y=55.00, z=243.17]]
+[23Jun2025 09:15:45.829] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.79, y=55.00, z=243.17]]
+[23Jun2025 09:15:45.879] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.79, y=55.00, z=243.17]]
+[23Jun2025 09:15:47.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 09:15:47.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 09:15:49.679] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.46, y=55.00, z=241.58]]
+[23Jun2025 09:15:51.129] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.09, y=55.00, z=242.79]]
+[23Jun2025 09:15:51.628] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Jun2025 09:15:51.628] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:15:51.629] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Jun2025 09:15:53.179] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.44, y=55.00, z=244.70]]
+[23Jun2025 09:15:53.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.44, y=55.00, z=244.70]]
+[23Jun2025 09:15:54.079] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.28, y=55.00, z=242.04]]
+[23Jun2025 09:15:54.979] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.29, y=55.00, z=243.65]]
+[23Jun2025 09:15:55.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.39, y=55.00, z=242.82]]
+[23Jun2025 09:15:56.329] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.48, y=54.00, z=241.19]]
+[23Jun2025 09:15:57.029] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.34, y=54.00, z=240.57]]
+[23Jun2025 09:15:57.179] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.68, y=53.23, z=240.30]]
+[23Jun2025 09:15:57.329] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.70, y=53.00, z=240.30]]
+[23Jun2025 09:15:58.579] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.09, y=54.50, z=241.29]]
+[23Jun2025 09:15:58.729] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.17, y=54.92, z=242.04]]
+[23Jun2025 09:15:59.179] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.76, y=55.00, z=243.37]]
+[23Jun2025 09:15:59.429] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.95, y=55.00, z=243.75]]
+[23Jun2025 09:16:18.979] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.69, y=55.00, z=242.79]]
+[23Jun2025 09:16:21.678] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:16:21.678] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:16:21.678] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:16:22.279] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.59, y=55.00, z=243.30]]
+[23Jun2025 09:16:22.679] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.59, y=55.00, z=243.30]]
+[23Jun2025 09:16:23.379] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.59, y=55.00, z=243.30]]
+[23Jun2025 09:16:23.579] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.59, y=55.00, z=243.30]]
+[23Jun2025 09:16:23.779] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.59, y=55.00, z=243.30]]
+[23Jun2025 09:16:42.179] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.86, y=54.50, z=242.79]]
+[23Jun2025 09:16:42.229] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.86, y=54.50, z=242.79]]
+[23Jun2025 09:16:43.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.86, y=54.50, z=242.79]]
+[23Jun2025 09:16:48.779] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.30, y=53.00, z=240.70]]
+[23Jun2025 09:16:50.029] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.66, y=55.00, z=240.90]]
+[23Jun2025 09:16:50.279] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.92, y=54.77, z=241.68]]
+[23Jun2025 09:16:51.728] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:16:51.728] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:16:51.728] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:16:58.129] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.64, y=55.00, z=244.70]]
+[23Jun2025 09:16:58.879] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.80, y=53.50, z=243.35]]
+[23Jun2025 09:16:59.029] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.77, y=53.50, z=242.84]]
+[23Jun2025 09:17:00.179] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.70, y=53.50, z=241.38]]
+[23Jun2025 09:17:00.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.70, y=53.50, z=240.99]]
+[23Jun2025 09:17:02.979] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.62, y=54.00, z=242.53]]
+[23Jun2025 09:17:03.629] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1846.92, y=55.00, z=243.69]]
+[23Jun2025 09:17:03.779] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.40, y=55.00, z=243.91]]
+[23Jun2025 09:17:09.679] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1860.35, y=55.42, z=242.91]]
+[23Jun2025 09:17:09.979] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1862.49, y=56.02, z=242.52]]
+[23Jun2025 09:17:12.055] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1867.12, y=55.00, z=235.83]]
+[23Jun2025 09:17:13.279] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1868.39, y=55.00, z=234.15]]
+[23Jun2025 09:17:14.429] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1868.55, y=55.00, z=226.62]]
+[23Jun2025 09:17:17.229] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1873.23, y=69.00, z=215.40]]
+[23Jun2025 09:17:19.329] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1887.07, y=69.75, z=213.86]]
+[23Jun2025 09:17:20.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1893.81, y=69.00, z=213.67]]
+[23Jun2025 09:17:21.480] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1894.15, y=69.00, z=213.67]]
+[23Jun2025 09:17:21.778] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:17:21.778] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:17:21.778] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:17:26.030] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1895.68, y=69.00, z=213.46]]
+[23Jun2025 09:17:26.779] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1896.42, y=69.00, z=213.26]]
+[23Jun2025 09:17:27.979] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1896.42, y=69.00, z=213.26]]
+[23Jun2025 09:17:28.480] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1896.42, y=69.00, z=213.26]]
+[23Jun2025 09:17:51.828] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:17:51.828] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:17:51.828] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:18:18.429] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1893.91, y=69.88, z=216.91]]
+[23Jun2025 09:18:19.129] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1893.91, y=69.88, z=216.91]]
+[23Jun2025 09:18:20.779] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1893.91, y=69.88, z=216.91]]
+[23Jun2025 09:18:21.878] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:18:21.878] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:18:21.878] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:18:40.629] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1897.92, y=70.00, z=220.30]]
+[23Jun2025 09:18:41.079] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1900.89, y=69.25, z=222.21]]
+[23Jun2025 09:18:41.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1903.13, y=68.42, z=223.35]]
+[23Jun2025 09:18:41.629] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1904.49, y=69.25, z=223.62]]
+[23Jun2025 09:18:41.679] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1904.80, y=69.25, z=223.67]]
+[23Jun2025 09:18:41.829] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1905.65, y=68.80, z=223.71]]
+[23Jun2025 09:18:45.129] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1908.81, y=68.00, z=221.61]]
+[23Jun2025 09:18:46.057] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1903.00, y=68.00, z=221.04]]
+[23Jun2025 09:18:47.029] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1905.09, y=68.50, z=226.29]]
+[23Jun2025 09:18:47.129] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1905.39, y=68.00, z=226.75]]
+[23Jun2025 09:18:47.429] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1906.93, y=68.00, z=226.94]]
+[23Jun2025 09:18:47.679] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1907.94, y=68.00, z=226.94]]
+[23Jun2025 09:18:49.129] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1906.94, y=68.00, z=221.83]]
+[23Jun2025 09:18:49.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1905.26, y=69.00, z=220.02]]
+[23Jun2025 09:18:51.928] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[23Jun2025 09:18:51.928] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:18:51.929] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[23Jun2025 09:18:58.980] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1891.76, y=69.42, z=222.63]]
+[23Jun2025 09:18:59.179] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1890.85, y=70.25, z=223.71]]
+[23Jun2025 09:18:59.229] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1890.64, y=70.25, z=223.97]]
+[23Jun2025 09:19:00.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1884.55, y=70.02, z=231.23]]
+[23Jun2025 09:19:01.930] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1879.11, y=70.00, z=237.74]]
+[23Jun2025 09:19:03.780] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1879.02, y=70.00, z=237.85]]
+[23Jun2025 09:19:04.379] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1879.02, y=70.00, z=237.85]]
+[23Jun2025 09:19:06.280] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1878.18, y=70.00, z=238.82]]
+[23Jun2025 09:19:06.929] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1875.09, y=71.18, z=240.94]]
+[23Jun2025 09:19:07.580] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1871.22, y=71.00, z=241.57]]
+[23Jun2025 09:19:08.280] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1866.96, y=70.00, z=240.59]]
+[23Jun2025 09:19:08.579] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1865.20, y=70.00, z=241.07]]
+[23Jun2025 09:19:08.680] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1864.92, y=70.00, z=241.62]]
+[23Jun2025 09:19:08.929] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1864.76, y=70.00, z=242.48]]
+[23Jun2025 09:19:08.979] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1864.74, y=70.00, z=242.56]]
+[23Jun2025 09:19:09.879] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1864.74, y=70.00, z=242.59]]
+[23Jun2025 09:19:10.279] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1864.74, y=70.00, z=242.59]]
+[23Jun2025 09:19:10.429] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1864.74, y=70.00, z=242.59]]
+[23Jun2025 09:19:12.680] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1861.01, y=70.00, z=244.10]]
+[23Jun2025 09:19:14.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1860.19, y=70.00, z=244.39]]
+[23Jun2025 09:19:17.629] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1860.74, y=70.00, z=243.68]]
+[23Jun2025 09:19:18.730] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1860.52, y=70.00, z=241.97]]
+[23Jun2025 09:19:20.429] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1856.34, y=70.00, z=244.56]]
+[23Jun2025 09:19:21.179] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1856.85, y=70.00, z=245.78]]
+[23Jun2025 09:19:21.229] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1856.79, y=70.00, z=245.68]]
+[23Jun2025 09:19:21.429] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1856.98, y=70.00, z=244.87]]
+[23Jun2025 09:19:21.978] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:19:21.978] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:19:21.978] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:19:22.329] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1860.38, y=70.00, z=245.86]]
+[23Jun2025 09:19:22.679] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1860.60, y=70.00, z=245.93]]
+[23Jun2025 09:19:23.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1858.44, y=70.00, z=246.15]]
+[23Jun2025 09:19:23.780] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1858.78, y=70.00, z=246.51]]
+[23Jun2025 09:19:24.049] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1858.34, y=70.00, z=246.77]]
+[23Jun2025 09:19:24.430] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1855.97, y=70.00, z=246.39]]
+[23Jun2025 09:19:25.330] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1851.08, y=69.00, z=243.74]]
+[23Jun2025 09:19:25.880] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1849.89, y=69.00, z=244.03]]
+[23Jun2025 09:19:26.629] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1849.70, y=69.00, z=239.74]]
+[23Jun2025 09:19:27.929] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1849.76, y=69.00, z=239.84]]
+[23Jun2025 09:19:28.829] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1849.76, y=69.00, z=239.84]]
+[23Jun2025 09:19:31.130] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1852.76, y=69.00, z=238.12]]
+[23Jun2025 09:19:31.179] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1852.65, y=69.00, z=237.82]]
+[23Jun2025 09:19:31.279] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1852.34, y=69.00, z=237.25]]
+[23Jun2025 09:19:33.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1861.17, y=70.02, z=226.30]]
+[23Jun2025 09:19:33.579] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1861.35, y=69.80, z=226.04]]
+[23Jun2025 09:19:34.230] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1862.16, y=70.00, z=224.60]]
+[23Jun2025 09:19:36.279] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1868.03, y=65.54, z=216.27]]
+[23Jun2025 09:19:37.179] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1867.50, y=63.04, z=218.58]]
+[23Jun2025 09:19:37.279] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1867.46, y=63.00, z=218.75]]
+[23Jun2025 09:19:42.229] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1868.44, y=55.00, z=232.80]]
+[23Jun2025 09:19:42.629] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1868.88, y=55.00, z=235.01]]
+[23Jun2025 09:19:43.579] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1864.99, y=55.00, z=239.64]]
+[23Jun2025 09:19:44.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1861.92, y=55.00, z=241.85]]
+[23Jun2025 09:19:44.679] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1861.92, y=55.00, z=241.85]]
+[23Jun2025 09:19:44.929] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1861.92, y=55.00, z=241.85]]
+[23Jun2025 09:19:46.229] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1859.43, y=55.00, z=243.41]]
+[23Jun2025 09:19:48.329] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1847.50, y=55.00, z=243.18]]
+[23Jun2025 09:19:50.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.62, y=54.54, z=241.62]]
+[23Jun2025 09:19:50.679] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1845.14, y=54.00, z=241.67]]
+[23Jun2025 09:19:51.429] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.75, y=53.50, z=240.94]]
+[23Jun2025 09:19:52.028] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[23Jun2025 09:19:52.028] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[23Jun2025 09:19:52.029] [pool-8-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[23Jun2025 09:19:52.279] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.92, y=53.50, z=241.68]]
+[23Jun2025 09:19:54.279] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.54, y=54.42, z=240.30]]
+[23Jun2025 09:19:54.479] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.52, y=55.25, z=240.30]]
+[23Jun2025 09:19:54.979] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.33, y=56.17, z=240.34]]
+[23Jun2025 09:19:55.379] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.31, y=56.00, z=240.34]]
+[23Jun2025 09:19:55.429] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.31, y=56.00, z=240.34]]
+[23Jun2025 09:19:55.529] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.31, y=56.00, z=240.34]]
+[23Jun2025 09:19:55.679] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.31, y=56.00, z=240.34]]
+[23Jun2025 09:19:56.729] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.30, y=56.00, z=240.58]]
+[23Jun2025 09:19:57.329] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.30, y=56.00, z=240.92]]
+[23Jun2025 09:19:58.129] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.30, y=56.00, z=240.96]]
+[23Jun2025 09:19:58.179] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.30, y=56.00, z=240.96]]
+[23Jun2025 09:19:58.329] [Server thread/DEBUG] [de.cadentem.themimic_er.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Ansoooooo'/1140, l='ServerLevel[world]', x=-1844.30, y=56.00, z=240.96]]
