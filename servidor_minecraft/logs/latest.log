@@ -2221,3 +2221,8 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 09:47:48.128] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.350311279296875) to VERY_LOW (avg. 18.82760238647461)
 [23Jun2025 09:48:48.136] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 11.636078834533691) to LOW (avg. 21.424551010131836)
 [23Jun2025 09:48:55.628] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 21.424551010131836) to VERY_LOW (avg. 11.87493896484375)
+[23Jun2025 09:51:41.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Krabby
+[23Jun2025 09:51:41.610] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 10:00:14.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Tauros
+[23Jun2025 10:00:14.362] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 10:00:14.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AgentePerrote moved wrongly!
