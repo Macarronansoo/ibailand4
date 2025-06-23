@@ -4446,3 +4446,4 @@ java.lang.IllegalArgumentException: bound must be positive
 [23Jun2025 13:56:42.046] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 92be92ce-4596-4073-ab77-6a8e45556fb8
 [23Jun2025 13:57:46.128] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.204961776733398) to LOW (avg. 33.232627868652344)
 [23Jun2025 13:58:01.128] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.232627868652344) to VERY_LOW (avg. 12.315401077270508)
+[23Jun2025 14:14:34.490] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/350578, l='ServerLevel[world]', x=-5001.37, y=21.00, z=96.69, removed=DISCARDED]
