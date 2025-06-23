@@ -4442,3 +4442,7 @@ java.lang.IllegalArgumentException: bound must be positive
 [23Jun2025 13:46:34.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has completed the challenge [It Spreads]
 [23Jun2025 13:47:38.628] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 12.097031593322754) to LOW (avg. 20.29532241821289)
 [23Jun2025 13:47:46.128] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 20.29532241821289) to VERY_LOW (avg. 17.334959030151367)
+[23Jun2025 13:56:42.045] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 92be92ce-4596-4073-ab77-6a8e45556fb8
+[23Jun2025 13:56:42.046] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 92be92ce-4596-4073-ab77-6a8e45556fb8
+[23Jun2025 13:57:46.128] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.204961776733398) to LOW (avg. 33.232627868652344)
+[23Jun2025 13:58:01.128] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.232627868652344) to VERY_LOW (avg. 12.315401077270508)
