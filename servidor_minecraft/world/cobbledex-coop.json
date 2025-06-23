@@ -1041,6 +1041,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750415714141,
         "caughtTimestamp": 1750415714141
+      },
+      "alola": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750676535202,
+        "caughtTimestamp": 1750676535202
       }
     },
     "joltik": {
@@ -1309,6 +1315,12 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750495349831,
         "caughtTimestamp": 1750495349831
+      },
+      "alola": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750676540969,
+        "caughtTimestamp": 1750676540969
       }
     },
     "boldore": {

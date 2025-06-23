@@ -1151,6 +1151,12 @@
             "status": "CAUGHT",
             "discoveredTimestamp": 1750504179611,
             "caughtTimestamp": 1750504179611
+          },
+          "alola": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750676535201,
+            "caughtTimestamp": 1750676535201
           }
         },
         "zubat": {
@@ -1390,6 +1396,12 @@
             "status": "CAUGHT",
             "discoveredTimestamp": 1750593284260,
             "caughtTimestamp": 1750593284260
+          },
+          "alola": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750676540968,
+            "caughtTimestamp": 1750676540968
           }
         },
         "boldore": {
@@ -1532,12 +1544,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 118,
+    "totalCaptureCount": 119,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 51,
-    "totalBattleVictoryCount": 198,
+    "totalEvolvedCount": 52,
+    "totalBattleVictoryCount": 199,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 198,
+    "totalPvWBattleVictoryCount": 199,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 7,
     "totalTradedCount": 21,
@@ -1547,9 +1559,9 @@
       "water": 8,
       "normal": 27,
       "flying": 26,
-      "ground": 6,
+      "ground": 7,
       "fire": 13,
-      "steel": 8,
+      "steel": 9,
       "dark": 6,
       "ice": 1,
       "fighting": 8,
