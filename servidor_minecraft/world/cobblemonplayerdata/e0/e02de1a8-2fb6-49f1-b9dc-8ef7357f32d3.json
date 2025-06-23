@@ -1936,6 +1936,14 @@
             "discoveredTimestamp": 1750594696490,
             "caughtTimestamp": 1750594696490
           }
+        },
+        "dreepy": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750670842400,
+            "caughtTimestamp": 1750670842400
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1962,12 +1970,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 131,
+    "totalCaptureCount": 132,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 101,
-    "totalBattleVictoryCount": 268,
+    "totalBattleVictoryCount": 269,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 268,
+    "totalPvWBattleVictoryCount": 269,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 21,
@@ -1976,7 +1984,7 @@
       "bug": 14,
       "poison": 12,
       "water": 27,
-      "ghost": 6,
+      "ghost": 7,
       "fire": 2,
       "ice": 2,
       "fairy": 13,
@@ -1988,7 +1996,7 @@
       "psychic": 7,
       "electric": 5,
       "dark": 5,
-      "dragon": 1,
+      "dragon": 2,
       "steel": 3
     },
     "totalDefeatedCounts": {
