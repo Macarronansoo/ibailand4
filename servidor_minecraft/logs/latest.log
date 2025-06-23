@@ -2078,3 +2078,10 @@ net.minecraft.ResourceLocationException: Non [a-z0-9_.-] character in namespace 
 [23Jun2025 08:45:44.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Goat Man
 [23Jun2025 08:45:44.856] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
 [23Jun2025 08:48:56.254] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 08:49:24.292] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/3363, l='ServerLevel[world]', x=-1869.49, y=69.00, z=208.28] died: Paco Pepe was blown up by Creeper
+[23Jun2025 08:49:57.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Kingler
+[23Jun2025 08:49:57.577] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
+[23Jun2025 08:57:23.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ansoooooo moved too quickly! 0.7422846973795458,7.0,-7.272568154581052
+[23Jun2025 08:58:37.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Paco Pepe'/3870, l='ServerLevel[world]', x=-1877.49, y=70.00, z=258.99] died: Paco Pepe was slain by Vivillon
+[23Jun2025 08:58:44.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ansoooooo was slain by Vivillon
+[23Jun2025 08:58:44.468] [Server thread/INFO] [tombstone/]: The player Ansoooooo has successfully been saved
