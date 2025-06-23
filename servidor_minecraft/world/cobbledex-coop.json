@@ -1850,7 +1850,7 @@
     },
     "salandit": {
       "normal": {
-        "isShiny": false,
+        "isShiny": true,
         "status": "CAUGHT",
         "discoveredTimestamp": 1750503295011,
         "caughtTimestamp": 1750503295011
@@ -2523,6 +2523,14 @@
         "status": "CAUGHT",
         "discoveredTimestamp": 1750679829248,
         "caughtTimestamp": 1750679829248
+      }
+    },
+    "darkrai": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750686290195,
+        "caughtTimestamp": 1750686290195
       }
     }
   }

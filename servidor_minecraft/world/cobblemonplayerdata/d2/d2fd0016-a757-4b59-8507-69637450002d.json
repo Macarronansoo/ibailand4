@@ -1131,7 +1131,7 @@
         },
         "salandit": {
           "normal": {
-            "isShiny": false,
+            "isShiny": true,
             "status": "CAUGHT",
             "discoveredTimestamp": 1750503295011,
             "caughtTimestamp": 1750503295011
@@ -1554,6 +1554,14 @@
             "discoveredTimestamp": 1750679829246,
             "caughtTimestamp": 1750679829246
           }
+        },
+        "darkrai": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750686290194,
+            "caughtTimestamp": 1750686290194
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1577,14 +1585,14 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 123,
+    "totalCaptureCount": 125,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 52,
-    "totalBattleVictoryCount": 205,
+    "totalBattleVictoryCount": 207,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 205,
+    "totalPvWBattleVictoryCount": 207,
     "totalPvNBattleVictoryCount": 0,
-    "totalShinyCaptureCount": 7,
+    "totalShinyCaptureCount": 8,
     "totalTradedCount": 21,
     "totalTypeCaptureCounts": {
       "grass": 17,
@@ -1593,16 +1601,16 @@
       "normal": 27,
       "flying": 26,
       "ground": 8,
-      "fire": 13,
+      "fire": 14,
       "steel": 9,
-      "dark": 7,
+      "dark": 8,
       "ice": 2,
       "fighting": 9,
       "bug": 18,
       "electric": 4,
       "fairy": 10,
       "rock": 8,
-      "poison": 10,
+      "poison": 11,
       "dragon": 4,
       "ghost": 7
     },
