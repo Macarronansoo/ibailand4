@@ -4493,3 +4493,13 @@ java.lang.IllegalArgumentException: bound must be positive
 [23Jun2025 14:29:55.579] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [23Jun2025 14:30:00.243] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
 [23Jun2025 14:30:21.638] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'enhancedai:generic.xray_follow_range'
+[23Jun2025 14:38:55.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote fell from a high place
+[23Jun2025 14:38:55.215] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 14:39:45.809] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 3940 -56 2486 in 1s
+[23Jun2025 14:41:17.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4772, y=16, z=90} BlockPos{x=-4772, y=16, z=88}
+[23Jun2025 14:41:17.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4772, y=16, z=90} BlockPos{x=-4772, y=16, z=88}
+[23Jun2025 14:41:54.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4784, y=10, z=76} BlockPos{x=-4782, y=10, z=76}
+[23Jun2025 14:42:01.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4782, y=10, z=82} BlockPos{x=-4783, y=10, z=82}
+[23Jun2025 14:42:01.569] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4782, y=10, z=82} BlockPos{x=-4783, y=10, z=82}
+[23Jun2025 14:42:06.888] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4789, y=8, z=89} BlockPos{x=-4791, y=7, z=88}
+[23Jun2025 14:42:17.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4786, y=13, z=111} BlockPos{x=-4785, y=13, z=111}

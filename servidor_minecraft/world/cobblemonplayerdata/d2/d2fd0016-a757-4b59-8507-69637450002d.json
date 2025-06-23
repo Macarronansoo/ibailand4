@@ -1617,12 +1617,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 129,
+    "totalCaptureCount": 130,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 52,
-    "totalBattleVictoryCount": 212,
+    "totalBattleVictoryCount": 214,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 212,
+    "totalPvWBattleVictoryCount": 214,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 8,
     "totalTradedCount": 21,
@@ -1630,7 +1630,7 @@
       "grass": 17,
       "psychic": 5,
       "water": 8,
-      "normal": 27,
+      "normal": 28,
       "flying": 26,
       "ground": 8,
       "fire": 14,
@@ -1692,7 +1692,8 @@
       "cobblemon:riolu": 1,
       "cobblemon:igglybuff": 1,
       "cobblemon:diglett": 1,
-      "cobblemon:eiscue": 1
+      "cobblemon:eiscue": 1,
+      "cobblemon:meloetta": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [
