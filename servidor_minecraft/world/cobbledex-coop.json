@@ -2532,6 +2532,14 @@
         "discoveredTimestamp": 1750686290195,
         "caughtTimestamp": 1750686290195
       }
+    },
+    "shuppet": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750686499151,
+        "caughtTimestamp": 1750686499151
+      }
     }
   }
 }
