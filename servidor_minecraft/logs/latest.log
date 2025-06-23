@@ -4447,3 +4447,21 @@ java.lang.IllegalArgumentException: bound must be positive
 [23Jun2025 13:57:46.128] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.204961776733398) to LOW (avg. 33.232627868652344)
 [23Jun2025 13:58:01.128] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↓ Server load changed from LOW (avg. 33.232627868652344) to VERY_LOW (avg. 12.315401077270508)
 [23Jun2025 14:14:34.490] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/350578, l='ServerLevel[world]', x=-5001.37, y=21.00, z=96.69, removed=DISCARDED]
+[23Jun2025 14:15:50.876] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/350578, l='ServerLevel[world]', x=-5001.37, y=21.00, z=96.69, removed=DISCARDED]
+[23Jun2025 14:16:02.769] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/350578, l='ServerLevel[world]', x=-5001.37, y=21.00, z=96.69, removed=DISCARDED]
+[23Jun2025 14:20:27.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote has reached the goal [I see clearly now]
+[23Jun2025 14:21:15.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was slain by Warden
+[23Jun2025 14:21:15.375] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 14:21:47.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AgentePerrote was obliterated by a sonically-charged shriek
+[23Jun2025 14:21:47.422] [Server thread/INFO] [tombstone/]: The player AgentePerrote has successfully been saved
+[23Jun2025 14:22:03.533] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['Pepito'/385829, l='ServerLevel[world]', x=-4938.03, y=-51.00, z=217.12] died: Pepito was slain by Warden
+[23Jun2025 14:22:06.984] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PokemonEntity['CarlosPinzas'/385847, l='ServerLevel[world]', x=-4939.53, y=-51.00, z=219.53] died: CarlosPinzas was slain by Warden
+[23Jun2025 14:22:23.289] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/350578, l='ServerLevel[world]', x=-5001.37, y=21.00, z=96.69, removed=DISCARDED]
+[23Jun2025 14:24:46.666] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/332006, l='ServerLevel[world]', x=-5077.66, y=79.31, z=222.55, removed=DISCARDED]
+[23Jun2025 14:24:46.742] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/332011, l='ServerLevel[world]', x=-5077.49, y=80.28, z=221.31, removed=DISCARDED]
+[23Jun2025 14:24:46.742] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/332005, l='ServerLevel[world]', x=-5078.39, y=79.13, z=223.56, removed=DISCARDED]
+[23Jun2025 14:24:46.943] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/331250, l='ServerLevel[world]', x=-5079.40, y=80.36, z=222.57, removed=DISCARDED]
+[23Jun2025 14:24:47.091] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/331247, l='ServerLevel[world]', x=-5079.41, y=81.32, z=220.26, removed=DISCARDED]
+[23Jun2025 14:24:47.148] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/331246, l='ServerLevel[world]', x=-5078.47, y=81.56, z=217.46, removed=DISCARDED]
+[23Jun2025 14:25:30.063] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/350578, l='ServerLevel[world]', x=-5001.37, y=21.00, z=96.69, removed=DISCARDED]
+[23Jun2025 14:25:46.137] [Server thread/INFO] [APTweaks(Core)/]: [APTweaks:Core] ↑ Server load changed from VERY_LOW (avg. 14.648358345031738) to LOW (avg. 27.590923309326172)

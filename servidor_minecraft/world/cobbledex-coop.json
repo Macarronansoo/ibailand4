@@ -2540,6 +2540,22 @@
         "discoveredTimestamp": 1750686499151,
         "caughtTimestamp": 1750686499151
       }
+    },
+    "spiritomb": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750688291242,
+        "caughtTimestamp": 1750688291242
+      }
+    },
+    "mawile": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1750688605244,
+        "caughtTimestamp": 1750688605244
+      }
     }
   }
 }

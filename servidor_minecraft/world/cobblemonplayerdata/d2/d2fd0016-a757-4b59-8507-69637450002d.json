@@ -1578,6 +1578,22 @@
             "discoveredTimestamp": 1750686708492,
             "caughtTimestamp": 1750686708492
           }
+        },
+        "spiritomb": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750688291241,
+            "caughtTimestamp": 1750688291241
+          }
+        },
+        "mawile": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1750688605243,
+            "caughtTimestamp": 1750688605243
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -1601,12 +1617,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 127,
+    "totalCaptureCount": 129,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 52,
-    "totalBattleVictoryCount": 210,
+    "totalBattleVictoryCount": 212,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 210,
+    "totalPvWBattleVictoryCount": 212,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 8,
     "totalTradedCount": 21,
@@ -1618,17 +1634,17 @@
       "flying": 26,
       "ground": 8,
       "fire": 14,
-      "steel": 9,
-      "dark": 8,
+      "steel": 10,
+      "dark": 9,
       "ice": 2,
       "fighting": 9,
       "bug": 18,
       "electric": 4,
-      "fairy": 10,
+      "fairy": 11,
       "rock": 8,
       "poison": 11,
       "dragon": 5,
-      "ghost": 8
+      "ghost": 9
     },
     "totalDefeatedCounts": {
       "cobblemon:bidoof": 1,
